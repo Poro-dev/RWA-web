@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RWA News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+  </style>
+</head>
+<body>
+  <h1>RWA and Tokenization News</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Source</th>
+        <th>Title</th>
+        <th>Link</th>
+        <th>Published</th>
+        <th>Summary</th>
+      </tr>
+    </thead>
+    <tbody id="news-table">
+      <!-- News items will be dynamically inserted here -->
+    </tbody>
+  </table>
+
+  <script>
+    async function loadNews() {
+      const response = await fetch('https://raw.githubusercontent.com/Poro-dev/RWA-web/main/9.%20Combined_Feeds.json'); // Update with your GitHub file link
+      const news = await response.json();
+      
+      const table = document.getElementById('news-table');
+      news.forEach(item => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${item.source || 'Unknown'}</td>
+          <td>${item.title}</td>
+          <td><a href="${item.link}" target="_blank">Read Article</a></td>
+          <td>${new Date(item.published).toLocaleString()}</td>
+          <td>${item.summary || 'N/A'}</td>
+        `;
+        table.appendChild(row);
+      });
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
