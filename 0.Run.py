@@ -6,11 +6,11 @@ current_directory = os.path.dirname(os.path.abspath(__file__))
 
 # List of scripts to run sequentially
 scripts = [
-    "1. Macro_RSS.py",
-    "2. Media_RSS.py",
-    "3. Filter_Media.py",
-    "4. Combine.py",
-    "5. pipFormatted Output.py"
+    "1.Macro_RSS.py",
+    "2.Media_RSS.py",
+    "3.Filter_Media.py",
+    "4.Combine.py",
+    "5.Formatted_Output.py"
 ]
 
 # Run each script
