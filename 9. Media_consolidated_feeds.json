@@ -1,6 +1,21 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 24 Nov 2024 14:07:19 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBh.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>",
+        "content": "",
+        "categories": [
+            "Bitcoin",
+            "BTC",
+            "Alexey Pertsev",
+            "SEC",
+            "Securities and Exchange Commission"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Bitcoin &#039;spoofing&#039; drives BTC price to $97K amid record profit-taking",
         "link": "https://cointelegraph.com/news/bitcoin-spoofing-btc-price-97-4-k-record-profit-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sun, 24 Nov 2024 12:20:34 +0000",
@@ -95,21 +110,6 @@
             "Bitcoin",
             "BTC",
             "Pizza Day"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Sat, 23 Nov 2024 20:19:39 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDgvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBh.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>",
-        "content": "",
-        "categories": [
-            "Bitcoin",
-            "BTC",
-            "Alexey Pertsev",
-            "SEC",
-            "Securities and Exchange Commission"
         ]
     },
     {
@@ -2527,6 +2527,24 @@
     },
     {
         "source": "TechCrunch",
+        "title": "These alternatives to popular apps can help reclaim your online life from billionaires and surveillance",
+        "link": "https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/",
+        "published": "Sun, 24 Nov 2024 14:05:55 +0000",
+        "summary": "<p>Not every app or service is trying to monetize your personal data. Here are some of our favorite alternatives to popular apps.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Security",
+            "Privacy",
+            "Apps",
+            "open source",
+            "Evergreen",
+            "productivity",
+            "cybersecurity",
+            "encrypted chat apps"
+        ]
+    },
+    {
+        "source": "TechCrunch",
         "title": "The curious case of Nebius, the publicly traded AI infrastructure \u2018startup\u2019",
         "link": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
         "published": "Sun, 24 Nov 2024 13:00:00 +0000",
@@ -2834,23 +2852,6 @@
             "artificial intelligence",
             "digital bookkeeping",
             "Fondo"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "LinkedIn co-founder Reid Hoffman warns against Elon Musk\u2019s \u2018conflict of interest\u2019 in setting AI policies",
-        "link": "https://techcrunch.com/2024/11/22/linkedin-co-founder-reid-hoffman-donald-trump-elon-musks-conflict-of-interest-in-setting-ai-policies/",
-        "published": "Fri, 22 Nov 2024 19:57:28 +0000",
-        "summary": "<p>Reid Hoffman, co-founder at LinkedIn and Inflection AI, shared his expectations for the incoming Trump administration in an opinion piece for the Financial Times. And while he appears hopeful that President-Elect Donald Trump could clear the way for more competition and faster innovation in the technology industry, Hoffman also expressed concerns around Trump providing certain [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "AI",
-            "Government & Policy",
-            "Donald Trump",
-            "Elon Musk",
-            "LinkedIn",
-            "Reid Hoffman",
-            "xAI"
         ]
     }
 ]
