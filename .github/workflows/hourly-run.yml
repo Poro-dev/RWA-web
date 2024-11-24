@@ -2,7 +2,8 @@ name: Run Python Scripts Hourly
 
 on:
   schedule:
-    - cron: '0 * * * *'  # This runs every hour
+    - cron: '0 * * * *' # This runs every hour
+  workflow_dispatch: # Allows manual runs
 
 jobs:
   run-scripts:
@@ -14,12 +15,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Replace with the Python version you are using
+          python-version: '3.x' # Replace with the Python version you are using
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run Python scripts
         run: python 0.Run.py
+
 
 
