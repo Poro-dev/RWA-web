@@ -1,0 +1,24 @@
+name: Run Python Scripts Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *' # This runs every hour
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Replace with the Python version you are using
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python scripts
+        run: python 0.Run.py
+
