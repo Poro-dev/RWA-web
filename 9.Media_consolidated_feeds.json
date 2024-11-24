@@ -1,6 +1,22 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Reserve Bank of India expanding cross-border payments platform",
+        "link": "https://cointelegraph.com/news/india-expanding-cbdc-cross-border-payments-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 24 Nov 2024 17:13:38 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzVlY2QtM2Q5MC03OTVmLWI4ODctZGE0YTgyZDEyMWNi.jpg\" /></p><p>According to the Atlantic Council, 134 countries are currently exploring CBDCs in different phases \u2014 including every G20 country.</p>",
+        "content": "",
+        "categories": [
+            "India",
+            "CBDC",
+            "Reserve Bank of India",
+            "cross-border settlement",
+            "macroeconomics",
+            "international trade"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Sun, 24 Nov 2024 14:07:19 +0000",
@@ -464,18 +480,6 @@
             "state pension funds",
             "retirement plans",
             "pensions"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "What determines Bitcoin\u2019s price?",
-        "link": "https://cointelegraph.com/explained/what-determines-the-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Fri, 22 Nov 2024 18:05:00 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZjMxNmMzNTk5NGJiMDcyMGM3ZWQ0ODliYjQwZWFmNy5qcGc=.jpg\" /></p><p>Bitcoin\u2019s price is influenced by a mix of factors, including supply and demand dynamics, mining costs, regulatory developments, market sentiment and more.</p>",
-        "content": "",
-        "categories": [
-            "Bitcoin",
-            "Bitcoin Price"
         ]
     },
     {
@@ -1283,6 +1287,28 @@
     },
     {
         "source": "BlockWorks",
+        "title": "Funding Roundup: Stablecoin fundraising and M&amp;A activity heats up",
+        "link": "https://blockworks.co/news/stablecoin-fundraising-europe",
+        "published": "2024-11-24T17:00:00.000Z",
+        "summary": "Two stablecoin firms made announcements this week, with one raising an undisclosed amount and Paxos expanding into the EU through an acquisition",
+        "content": "<p>Tether made moves this week, investing in Quantoz alongside Kraken and Fabric Ventures. The team did not disclose the amount invested.</p>\n\n\n\n<p>Alongside the announcement, the Dutch-based stablecoin company also announced it was launching euro and US dollar stablecoins.&nbsp;</p>\n\n\n\n<p>\u201cEURQ and USDQ are respectively euro and US dollar-referenced E-Money Tokens (EMTs), issued on the Ethereum blockchain by Quantoz, an Electronic Money Institution (EMI) authorised and supervised by De Nederlandsche Bank (DNB), the Dutch Central Bank,\u201d a press release said.</p>\n\n\n\n<p><strong>Read more from our opinion section: </strong><a href=\"https://blockworks.co/news/stablecoin-regulation-necessary-now-us\">The time for US stablecoin regulation is now&nbsp;</a></p>\n\n\n\n<p>Both EURQ and USDQ were listed by Bitfinex and Kraken earlier this week, making both available to \u201celigible clients.\u201d</p>\n\n\n\n<p>\u201cEuropeans speak loudly about MICAR making stablecoin issuance seamless in Europe and whilst there are clearer rules, there are very few players that can pull it off at scale,\u201d Fabric ventures general partner Anil Hansjee said in a <a href=\"https://quantozpay.com/quantoz-payments-issues-euro-and-us-dollar-stablecoins/\">press release</a>.</p>\n\n\n\n<p><strong>Read more from our opinion section:</strong><a href=\"https://blockworks.co/news/mica-compliance-eu-crypto-consolidation\"> MiCA compliance will drive Europe into a crypto consolidation frenzy</a></p>\n\n\n\n<p>\u201cThink regulatory licenses, tier 1 banking partners with adequate liquidity ratios and balance sheets, blockchain expertise, state of the art and scalable compliance onboarding, onchain transaction monitoring, treasury and risk management, security DNA, let alone an ability to convince major European exchanges to list you and market makers to provide liquidity, as well as dapps to build use cases around you,\u201d Hansjee continued.</p>\n\n\n\n<p>Not to be outdone, another <a href=\"https://blockworks.co/tag/stablecoins\">stablecoin</a> company, <a href=\"https://blockworks.co/tag/paxos\">Paxos</a>, had its own news to share earlier this week.</p>\n\n\n\n<p>Paxos <a href=\"https://paxos.com/blog/paxos-to-acquire-finnish-e-money-institution-membrane-finance/\">announced</a> that it acquired Membrane Finance, also for an undisclosed amount. The purchase sets Paxos up to be a regulated entity in the <a href=\"https://blockworks.co/tag/eu\">EU</a>, where it plans to issue <a href=\"https://blockworks.co/tag/mica\">MiCA</a>-compliant stablecoins.&nbsp;</p>\n\n\n\n<p>Membrane is a Finnish company with an Electronic Money Institution (EMI) license.&nbsp;</p>\n\n\n\n<h2 class=\"wp-block-heading\">Other notable funding rounds:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Monkey Tilt <a href=\"https://x.com/MonkeyTiltPlay/status/1859327528739201374\">announced</a> a $30 million Series A led by Pantera Capital. Hack VC and Polychain also participated.&nbsp;</li>\n\n\n\n<li>Valantis Labs <a href=\"https://x.com/ValantisLabs/status/1859285814821388325\">raised</a> $7.5 million across pre-seed and seed rounds led by Cyber Fund, Kraken Ventures and Seven X Ventures.</li>\n\n\n\n<li>OpenLayer <a href=\"https://x.com/OpenLayerHQ/status/1858938617819000885\">said</a> it raised $5 million, with a16z\u2019s CSX, Geometry and Spartan all contributing.</li>\n\n\n\n<li>Barter DeFi <a href=\"https://x.com/BarterDeFi/status/1858893556447891968\">announced</a> a $3 million seed round led by Maven 11 Capital.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "categories": [
+            "Business"
+        ]
+    },
+    {
+        "source": "BlockWorks",
+        "title": "Crypto Hiring: Industry waits for more Trump appointments",
+        "link": "https://blockworks.co/news/trump-appointments-cantor-fitzgerald-sec",
+        "published": "2024-11-24T15:00:00.000Z",
+        "summary": "The president-elect nominated Cantor Fitzgerald CEO Howard Lutnick to run the commerce department",
+        "content": "<p>Though not the type of crypto hire we typically cover in these roundups, President-elect Donald Trump nominated Cantor Fitzgerald CEO Howard Lutnick to lead the Department of Commerce this week.</p>\n\n\n\n<p>We highlighted Lutnick\u2019s <a href=\"https://link.mail.beehiiv.com/ss/c/u001.VIz4fB9RgLaqgT0Ji6lSIMhLGx1BG6y6FX8v5LSXYwgUk16fXNbzd9DTUZWINQEf822GPTmvyxixSLBlUzCfKEiY7xc0k6NQw_Om4FA0ED4DeLOcBwhii-0F9NXtu_zQSpEgbeAkqPWj8FN7nb3EkSxZPYvduKlbYQ1oEIxnJPWkCNRQwlBaHZdQG-r-825rKPPIeL_nMIm7e9pJJmQgtBrC08tfpE_1H778ia1rOCUuFQdINNfOeOsD4UvOjPUS9HtR9c01KKfn9luJAfBVu213XdyebUOsBSN3pAUqVP4/4bl/IH224rKYS1q1ONJ1-gW0DA/h20/h001.77vd-pY95ElrlwXXb3i5dZ-R-fIDLipP7mXZqCpSjJA\">remarks on bitcoin</a> in a September edition of the Forward Guidance newsletter. At the time, the CEO noted that traditional finance players \u2014 including banks and brokerages \u2014 would \u201cgo headfirst into bitcoin\u201d when the regulatory environment improved.&nbsp;</p>\n\n\n\n<p>Trump\u2019s election win has seemed to set the stage for that, given the <a href=\"https://link.mail.beehiiv.com/ss/c/u001.VIz4fB9RgLaqgT0Ji6lSIMhLGx1BG6y6FX8v5LSXYwigNEM9nXQOp7Y6rYnk4N-VViTtVUBtTUFuOw3Y0SGzqJaLC5YCGtHdUh7zP8F08Vctj5GIA_3ToEZLQ-kWSVRg5HyB_Zgs4WgDo4Bo71rdFSv0iWIROf_jyIKSs-zr1Igy57Aam05L-wIEFb5cRS_FsOx11mCqK8KyzrB3tagk7o7SJX8ylRAcFhLMnRsD5vIPwoT9jSF6Pxpggmn7j6fl_PYeWPZdAy6v7tsa_mD5mNTZoydJIuZ9GyoXQhFPprZFrQA6HgXfnAG1PprcQdez/4bl/IH224rKYS1q1ONJ1-gW0DA/h21/h001.FBU8i7legpmz1J4JxNUxzwposhly6rBZfSbAy03MBcc\">crypto promises</a> he has made (namely, \u201cfiring\u201d Securities and Exchange Chair Gary Gensler).</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/trump-nominates-commerce-dept-leader\">Trump nominates pro-crypto CEO to lead commerce department</a></p>\n\n\n\n<p>Lutnick <a href=\"https://x.com/howardlutnick/status/1831080474124681316?s=46&amp;utm_source=forward-guidance.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=options-open&amp;_bhlid=e85ffb801808c011874423cc190af9f43a1861ef\">said</a> in a September X video that bitcoin adoption will proliferate once banks can more freely clear, custody and transact in bitcoin \u2014 a reality hindered by the SEC\u2019s Staff Accounting Bulletin <a href=\"https://link.mail.beehiiv.com/ss/c/u001.VIz4fB9RgLaqgT0Ji6lSIMhLGx1BG6y6FX8v5LSXYwjkzkkNq3FGLJqh4wkyHMJY_s1SVlapX0RF6tXS-mB7PtUyAgVzHOHJvr74YCtLOTNQFQf_Vz_SJQU8j1vQZY-hyHjncXDc8a_L-KY5zLWmRtgHN4pnFtIDa8YK-pnPFIRPHyxSE_prxEa_TeMBs_2l_nz7-le2zouwKD4qmeg2h2LSkXt01JZKHJffWqdmSeJ5dQ7gZH2BOo8C8-zjEycOtfCdA4c-5Jj7yPg1lG_OUQ/4bl/IH224rKYS1q1ONJ1-gW0DA/h23/h001.0fIErinHJecrQsGq3Imi39lmmH8ZZwAKRakgiayAoPg\">(SAB) 121</a>.</p>\n\n\n\n<p>Lutnick\u2019s firm has stablecoin issuer Tether as a client \u2014 a company that has denied being <a href=\"https://link.mail.beehiiv.com/ss/c/u001.VIz4fB9RgLaqgT0Ji6lSIMhLGx1BG6y6FX8v5LSXYwgZQzTpD9i20l7fRn4fMOxRNJ-OYOLpnRBKvC5u7r-5IMmkjkDsEmfGeWHM3_abYXfZAVDyVXFX_04IvI1yUKgRLHoNAFPYoiA67it2Gv6DnH81LyqIpwcyyoHyffm1gcXB3TVkSQnDaLXw785tbjBkIwbAgwkk89IKeJZzUfPMdMz_HpQZ-QW3WsRT_GOUi-QvPGwdOYOg4IBOlN5usMcFIGy6iWiEuXMcvAhe_gPazUF-80jrqhnP7WFJQGb200Y/4bl/IH224rKYS1q1ONJ1-gW0DA/h24/h001.EbF974gF-xuBcsYq229KAI_PCDC4k3YiQc37tFu5ArU\">under federal investigation</a>.</p>\n\n\n\n<p>Speaking of Trump appointments, reports surfaced this week of him potentially <a href=\"https://www.forbes.com/sites/digital-assets/2024/11/21/leak-reveals-trump-crypto-bombshell-as-bitcoin-suddenly-surges-toward-100000-price/\">selecting</a> a crypto czar and forming a <a href=\"https://www.reuters.com/technology/crypto-industry-jockeys-seats-trumps-promised-council-2024-11-21/\">crypto council</a> that could be housed under the White House\u2019s National Economic Council.</p>\n\n\n\n<p>Still, Blockchain Association CEO Kristin Smith said she is watching out for who could fill two other roles.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">We\u2019ll have lots of time to debate who would be best for positions like a \u201ccrypto czar.\u201d<br /><br />It\u2019s a great idea, but the ones before us are Treasury Secretary and SEC Chair\u2013a crypto czar won\u2019t be able to get much done unless the people in those posts are strong.<br /><br />Let\u2019s stay focused.</p>\u2014 Kristin Smith (@KMSmithDC) <a href=\"https://twitter.com/KMSmithDC/status/1859339558342607023?ref_src=twsrc%5Etfw\">November 20, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p><a href=\"https://blockworks.co/tag/gary-gensler\">Gensler</a> said this week he would <a href=\"https://blockworks.co/news/gary-gensler-resigning\">step down from his SEC chair post</a> on Jan. 20.&nbsp;</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/sec-departures-regulation-changes\">Changes at the SEC start well ahead of Inauguration Day</a></p>\n\n\n\n<p>As for a crypto firm adding an executive, bitcoin infrastructure technology Blockstream appointed hedge fund veteran Sean Bill as its chief investment officer.&nbsp;</p>\n\n\n\n<p>Bill, who was most recently CIO of Prime Meridian Capital Management, is set to lead Blockstream\u2019s newly created asset management division.</p>\n\n\n\n<p>The firm\u2019s bitcoin financial products in development include a bitcoin yield fund (aiming to function like a money market fund for BTC holders) and a USD yield fund (providing lending opportunities that generate income through bitcoin-backed loans).&nbsp;&nbsp;</p>\n\n\n\n<p>In other soon-to-be hiring news, Wintermute Asia is set to double its headcount in the <a href=\"https://blockworks.co/tag/apac\">Asia Pacific</a> region upon establishing a new headquarters in Singapore, the company said earlier this week.&nbsp;</p>\n\n\n\n<p>The digital asset derivatives trading arm of Wintermute Group said Monday it is \u201cactively hiring for top-of-the-funnel roles that are critical to scaling its operations.\u201d</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "categories": [
+            "Business"
+        ]
+    },
+    {
+        "source": "BlockWorks",
         "title": "Web3 Watch: FIFA officially licenses blockchain-based mobile game",
         "link": "https://blockworks.co/news/fifa-blockchain-mobile-game",
         "published": "2024-11-23T17:00:00.000Z",
@@ -1845,26 +1871,26 @@
         ]
     },
     {
-        "source": "BlockWorks",
-        "title": "The Jersey City pension fund\u2019s path to BTC exposure",
-        "link": "https://blockworks.co/news/jersey-city-pension-funds-btc-exposure",
-        "published": "2024-11-14T17:16:32.000Z",
-        "summary": "The municipal pension fund plots a potential 2% allocation to bitcoin funds in the coming weeks, officials say, after months-long process",
-        "content": "<p>Jersey City\u2019s pension fund plans to buy bitcoin ETFs in the coming weeks after starting the process to allocate to such products earlier this year.</p>\n\n\n\n<p>The upcoming purchase comes after <a href=\"https://blockworks.co/news/revisiting-trumps-crypto-promises-after-his-election-win\">Donald Trump\u2019s election win</a>, which industry watchers have said is likely to spur <a href=\"https://blockworks.co/news/matt-hougan-crypto-reputational-risk\">another wave of institutional crypto adoption</a>.</p>\n\n\n\n<p>\u201cWould we have liked to get involved at $60,000 as opposed to $90,000?\u201d&nbsp;Jersey City Mayor Steven Fulop&nbsp;said Tuesday. \u201cThe answer\u2019s obviously yes. But I think if you look in a year or two years from now, it\u2019ll still be much higher than it is today.\u201d</p>\n\n\n\n<p>Fulop, a Democrat,&nbsp;said in July that Jersey City\u2019s pension fund was planning on getting exposure to BTC funds. </p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">Not my normal subject matter in a post but I\u2019ll share anyway \u2013 the question on whether Crypto/Bitcoin is here to stay is largely over + crypto/Bitcoin won. The <a href=\"https://twitter.com/hashtag/JerseyCity?src=hash&amp;ref_src=twsrc%5Etfw\">#JerseyCity</a> pension fund is in process of updating paperwork to the SEC to allocate % of the fund to Bitcoin ETFs\u2026 <a href=\"https://t.co/5iNEqRqHGM\">https://t.co/5iNEqRqHGM</a></p>\u2014 Steven Fulop (@StevenFulop) <a href=\"https://twitter.com/StevenFulop/status/1816452663191450015?ref_src=twsrc%5Etfw\">July 25, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p>Jersey City Business Administrator John Metro said he and Fulop started talking about this around the time <a href=\"https://blockworks.co/news/wisconsin-discloses-blackrock-ibit-shares\">Wisconsin\u2019s investment board revealed</a> a roughly $100 million allocation in bitcoin ETFs. That was back in May.</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/btc-exposure-pensions-endowments\">Pensions\u2019 move to BTC is slow, steady</a><strong>&nbsp;</strong></p>\n\n\n\n<p>Metro then presented the idea to the pension fund\u2019s board, composed of five commissioners. The board had questions \u2014 such as the time horizon it might hold the BTC products \u2014 but did not show opposition, the Jersey City officials noted.&nbsp;</p>\n\n\n\n<p>Because of the limited track record for the US spot bitcoin ETFs (they <a href=\"https://blockworks.co/news/how-we-got-here-bitcoin-etf\">launched in January</a>) compared to other assets with year-over-year track records, the board had to update some of its investment rules.&nbsp;</p>\n\n\n\n<p>That was done about a month ago, Metro said. And standard protocol, he added, is for the pension fund to abstain from making any significant changes in the month of an election, due to volatility.&nbsp;</p>\n\n\n\n<p>\u201cNow that the asset is identified as part of our investment strategy, we\u2019ll actually go to the physical market in the next three weeks,\u201d Metro told Blockworks Tuesday. He noted the post-election time was not intended, but rather how the timeline played out given the various steps needed before allocating.</p>\n\n\n\n<p>The pension fund \u2014 with about $225 million \u2014 is looking at the BTC products offered by BlackRock and Fidelity, given their high volumes. It could look to establish a 2% or so position in bitcoin ETFs as a start, the officials said \u2014 trimming allocations in other assets to make room.&nbsp;&nbsp;</p>\n\n\n\n<p>Fulop and Metro didn\u2019t detail which assets it would reduce exposure to. However, the mayor did note the similarity between gold and bitcoin when it comes to serving as a \u201cstore of value.\u201d</p>\n\n\n\n<p>\u201cAnd if you think about the utility relative to gold, in many ways bitcoin is more advantageous in the sense that you can move bitcoin around instantaneously,\u201d Fulop added.</p>\n\n\n\n<p>Keep reading for more excerpts from my interview with Fulop.</p>\n\n\n\n<p>______________________________________________________________________</p>\n\n\n\n<p><strong>Blockworks: </strong>When did you first get interested in crypto?<strong><br /></strong><strong><br /></strong><strong>Fulop: </strong>I have been a believer in the importance of crypto and blockchain \u2014 both separately \u2014 since 2018, 2019. I\u2019ve been a personal investor for some time in different cryptocurrencies.<br /><br />I believe in the technology, I think it\u2019s important and I think at this point it\u2019s inevitable. The conversation about whether it\u2019s going to exist long term, or not exist, has been put to bed. I think we all recognize it\u2019s here to stay long term and it\u2019s an asset class in and of its own.</p>\n\n\n\n<p><strong>Blockworks: </strong>What do you make of Donald Trump\u2019s crypto stance?</p>\n\n\n\n<p><strong>Fulop:</strong> His policies and his comments certainly reflect the fact that he\u2019s a supporter. Now, who knows in actuality how he feels about it. But I do think that he\u2019s politically smart in the fact there are tens of millions of crypto wallets out there among Americans \u2014 particularly younger Americans.&nbsp;</p>\n\n\n\n<p>So capturing that audience, he was very smart to do, and the reality is the people who have those crypto wallets are not only skewing younger but they\u2019re people who certainly believe in the technology, have concerns about fiat money and are looking to be engaged in the political system in a way to make sure that this remains a viable asset class.<br /><br />Do I think he\u2019s going to follow through in promoting or appointing an SEC chairman and individuals that are crypto friendly? Yes. So I think you\u2019re still in the early phases of all this stuff.</p>\n\n\n\n<p><strong>Blockworks: </strong>Might Jersey City\u2019s pension fund look to allocate to ether ETFs next?</p>\n\n\n\n<p><strong>Fulop: </strong>The pension fund has only looked at bitcoin at this point. I think that we\u2019re in the early phases of getting people comfortable with a pension fund allocating any resources toward crypto.</p>\n\n\n\n<p>I personally think Ethereum is here to stay and I would feel comfortable, but it\u2019s not all my money in the pension funds. And I think pension fund fiduciaries and the board recognize they need to be cautious with that.</p>\n\n\n\n<p><strong>Blockworks: </strong>Are you considering any other crypto-related policies or initiatives?</p>\n\n\n\n<p><strong>Fulop: </strong>We haven\u2019t started thinking about accepting crypto or bitcoin as an official payment for anything with regards to City Hall\u2019s day-to-day operations.&nbsp;</p>\n\n\n\n<p>And one of the reasons for that is I think there\u2019s a little bit of time before there\u2019s more stability in the price. You\u2019ve seen even over the last week the huge run from $68,000 to $90,000 per coin \u2014 and, like I said, I think you\u2019re in the early phases of that.<br /><br />Is that related to Trump? Is that post-halving? What does it look like in 10 years? There\u2019s a lot of questions that create fluctuation. It\u2019s clearly a volatile space; I think that\u2019s fair to say. And, generally speaking, when city governments get involved in accepting a payment for something, you\u2019re not looking for extreme volatility because we have to run an operation here day to day.</p>\n\n\n\n<p><em>This interview was edited for clarity and brevity.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "source": "Decrypt",
+        "title": "Dogecoin Jumps to 3-Year High Price\u2014Before Bitcoin Cools and Meme Coins Plunge",
+        "link": "https://decrypt.co/293296/dogecoin-3-year-high-bitcoin-cools",
+        "published": "Sun, 24 Nov 2024 15:07:31 +0000",
+        "summary": "It's another recent milestone for Dogecoin, but the market is now red with Bitcoin down and DOGE and other meme coins falling hard.",
+        "content": "",
         "categories": [
-            "Finance"
+            "dogecoin",
+            "Markets"
         ]
     },
     {
-        "source": "BlockWorks",
-        "title": "The US government might be cracking down on Polymarket",
-        "link": "https://blockworks.co/news/us-cracking-down-on-polymarket",
-        "published": "2024-11-14T14:58:01.000Z",
-        "summary": "FBI agents reportedly confiscated Polymarket CEO Shayne Coplan\u2019s phone and devices on Wednesday",
-        "content": "<p><em>This is a segment from the Empire newsletter. To read full editions,&nbsp;</em><a href=\"https://blockworks.co/newsletter/empire\" rel=\"noreferrer noopener\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>Blockchains, when implemented correctly, transcend borders. And US authorities can\u2019t seem to stand it.</p>\n\n\n\n<p>All anyone ever really needs to use crypto is a halfway decent device and an internet connection. Even by <a href=\"https://bitcoinmagazine.com/guides/how-to-run-a-bitcoin-node-from-satellite\">satellite</a>.&nbsp;</p>\n\n\n\n<p>To the blockchain itself, your location or nationality isn\u2019t a factor. Bitcoin, Ethereum and Solana don\u2019t care if you\u2019re signing transactions from a cafe in Belize, a WeWork in New York or the mountains of Nepal.&nbsp;</p>\n\n\n\n<p>But your IP address \u2014 and thus your approximate location \u2014 is logged when you use most services built on top of those blockchains. MetaMask collects user IP addresses when using its default relay Infura, for instance, which caused a <a href=\"https://blockworks.co/news/consensys-update-data-practices-privacy-backlash\">big fuss</a> when it was found in its privacy policy in 2022.</p>\n\n\n\n<p>Uniswap Labs <a href=\"https://support.uniswap.org/hc/en-us/articles/30934457771405-Uniswap-Labs-Privacy-Policy#:~:text=Uniswap%20Labs%20does%20not%20collect,your%20use%20of%20the%20Services.\">says</a> it does not retain personal information, including IP addresses, but the data is still transmitted to its servers whenever you visit its website.&nbsp;</p>\n\n\n\n<p>It\u2019s part of how the internet works, and it allows Uniswap and MetaMask front-ends to geoblock visitors from OFAC-sanctioned jurisdictions. The law states that giving crypto access to users based in those countries would constitute sanctions evasion and even terrorism financing.&nbsp;</p>\n\n\n\n<p>It\u2019s also how Polymarket can restrict US users from accessing its platform. If their website\u2019s backend detects an IP address from a local service provider, they\u2019ll be shown an unclosable popup telling them to scram.</p>\n\n\n\n<p>Most crypto apps and services do the same or risk a visit from a three-letter agency.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">It\u2019s discouraging that the current administration would seek a last-ditch effort to go after companies they deem to be associated with political opponents. We are deeply committed to being non-partisan, and today is no different, but the incumbents should do some self-reflecting\u2026</p>\u2014 Shayne Coplan \ud83e\udd85 (@shayne_coplan) <a href=\"https://twitter.com/shayne_coplan/status/1856838409861386722?ref_src=twsrc%5Etfw\">November 13, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p>FBI agents reportedly <a href=\"https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/\">confiscated</a> Polymarket CEO Shayne Coplan\u2019s phone and devices on Wednesday over concerns that US-based users were skirting Polymarket\u2019s geoblock, which has been in place since a CFTC <a href=\"https://www.cftc.gov/PressRoom/PressReleases/8478-22\">penalty</a> in 2022.</p>\n\n\n\n<p>At this point, the geoblock is one of the last \u201cgotcha\u201d tactics from regulators. Of course, geoblocks aren\u2019t completely effective. A basic VPN gets around them, so it\u2019s entirely imaginable that US-based users indeed gambled on the US election via Polymarket.</p>\n\n\n\n<p>That\u2019s how Binance was stung by the US government this time last year \u2014 knowingly <a href=\"https://ofac.treasury.gov/system/files/2023-11/20231121_binance.pdf\">allowing</a> users from the US, as well as sanctioned countries including Iran, to trade on the platform. Binance settled for a combined $4.4 billion over the charges.</p>\n\n\n\n<p>Authorities stated that Binance executed more than 1.67 million trades between US persons and users in sanctioned locations across five years. Polymarket handled more than 12 million trades in October alone.&nbsp;</p>\n\n\n\n<p>How many of those trades included someone in the US? Who knows, and over a long enough timeline, that question will become practically unanswerable.</p>\n\n\n\n<p>Anyone from any jurisdiction in the world can, hypothetically, code their own transactions and interact with these smart contracts directly, or at least, fork an app and run the instance themselves without the geoblocking functionality.</p>\n\n\n\n<p>After all, there is no need for VPNs to avoid geoblocks if you trade on Uniswap via the command line.&nbsp;</p>\n\n\n\n<p>Perhaps blockchain-enabled AI agents that handle our crypto for us directly will be the answer.</p>\n\n\n\n<p>Apparently, for US-based crypto entrepreneurs like Coplan, they can\u2019t come soon enough.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "source": "Decrypt",
+        "title": "AI Models \u2018Secretly\u2019 Learn Capabilities Long Before They Show Them, Researchers Find",
+        "link": "https://decrypt.co/292892/ai-models-secretly-learn-capabilities-long-before-they-show-them-researchers-find",
+        "published": "Sun, 24 Nov 2024 15:01:02 +0000",
+        "summary": "A recent study reveals that models can grasp underlying concepts before fully demonstrating the ability to process and apply them.",
+        "content": "",
         "categories": [
-            "Empire Newsletter",
-            "People"
+            "Artificial Intelligence"
         ]
     },
     {
@@ -2220,17 +2246,6 @@
     },
     {
         "source": "Decrypt",
-        "title": "MicroStrategy Hits All-Time High Price After Bitcoin Tops $98,000",
-        "link": "https://decrypt.co/292850/microstrategy-all-time-high-bitcoin-98000",
-        "published": "Thu, 21 Nov 2024 16:37:07 +0000",
-        "summary": "Bitcoin's largest corporate treasury holder opened at an all-time high, then fell, then rebounded after BTC swung closer to $100K than ever.",
-        "content": "",
-        "categories": [
-            "Markets"
-        ]
-    },
-    {
-        "source": "Decrypt",
         "title": "BTC new ATH, SOL fee record, CHILLGUY hits $250M",
         "link": "https://decrypt.co/videos/interviews/93f92EPP/btc-new-ath-sol-fee-record-chillguy-hits-250m",
         "published": "Wed, 20 Nov 2024 16:18:15 +0000",
@@ -2401,6 +2416,7 @@
         "categories": [
             "Featured",
             "Gaming",
+            "Guest Post",
             "NFTs",
             "Opinion",
             "Web3"
@@ -2527,20 +2543,65 @@
     },
     {
         "source": "TechCrunch",
+        "title": "Australian government drops misinformation bill",
+        "link": "https://techcrunch.com/2024/11/24/australian-government-drops-misinformation-bill/",
+        "published": "Sun, 24 Nov 2024 18:12:09 +0000",
+        "summary": "<p>The Australian government has withdrawn a bill that would have fined online platforms up to 5 percent of their global revenue if they failed to stop the spread of misinformation. The bill, which was backed by the Labor government, would have allowed the Australian Communications and Media Authority to create enforceable rules around misinformation on [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Government & Policy",
+            "Social",
+            "Australia"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "Latin America fintech will be a market to watch in 2025",
+        "link": "https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/",
+        "published": "Sun, 24 Nov 2024 16:00:00 +0000",
+        "summary": "<p>Midway through 2024, Mike Packer, a partner at fintech-focused QED Investors, predicted we&#8217;d already hit the bottom for funding to Latin American fintech startups, and that a bounce back was coming. While momentum hasn&#8217;t been a straight shot up and to the right ever since, it&#8217;s looking like he was right. The volume of venture [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Fintech",
+            "Fundraising",
+            "Startups",
+            "fintech startups",
+            "LatAM fintech",
+            "LatAm startups",
+            "venture capital"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC",
+        "link": "https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/",
+        "published": "Sun, 24 Nov 2024 15:00:00 +0000",
+        "summary": "<p>While most seed investors believe founders should spend their raised cash however they want to, those VCs will still be judging founders\u2019 cash management.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "TC",
+            "Venture",
+            "early stage funding",
+            "cash management",
+            "pre-seed funding"
+        ]
+    },
+    {
+        "source": "TechCrunch",
         "title": "These alternatives to popular apps can help reclaim your online life from billionaires and surveillance",
         "link": "https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/",
         "published": "Sun, 24 Nov 2024 14:05:55 +0000",
         "summary": "<p>Not every app or service is trying to monetize your personal data. Here are some of our favorite alternatives to popular apps.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "content": "",
         "categories": [
-            "Security",
-            "Privacy",
             "Apps",
-            "open source",
-            "Evergreen",
-            "productivity",
+            "Privacy",
+            "Security",
             "cybersecurity",
-            "encrypted chat apps"
+            "encrypted chat apps",
+            "Evergreen",
+            "open source",
+            "productivity"
         ]
     },
     {
@@ -2806,52 +2867,6 @@
             "Exclusive",
             "point-of-sale",
             "Y Combinator"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Hyundai and Kia recall 208,000 EVs",
-        "link": "https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/",
-        "published": "Fri, 22 Nov 2024 21:17:56 +0000",
-        "summary": "<p>Hyundai, Kia, and Genesis are recalling about 208,000 EVs in the United States due to an issue that could cause the vehicles to suddenly lose power, according to several filings with the National Highway Traffic Safety Administration. The recall was first reported by Reuters. The problem originates with the integrated charging control unit (ICCU), which [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Transportation",
-            "electric vehicles",
-            "EVs",
-            "hyundai",
-            "Kia"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Money for tech that matters",
-        "link": "https://techcrunch.com/2024/11/22/money-for-tech-that-matters/",
-        "published": "Fri, 22 Nov 2024 20:04:00 +0000",
-        "summary": "<p>Welcome to\u00a0Startups\u00a0Weekly\u00a0\u2014 your\u00a0weekly\u00a0recap of everything you can\u2019t miss from the world of\u00a0startups.\u00a0If you&#8217;d like to receive this newsletter in your inbox every Friday, sign up here! The week before Thanksgiving is typically busy with announcements of all sorts, but this week has been particularly interesting. Money was flowing to big problems, like defense, cybersecurity, and [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Startups",
-            "Fundraising",
-            "venture capital",
-            "newsletter",
-            "Startups Weekly"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Fondo wants to mitigate the American accountant shortage with its AI bookkeeping service",
-        "link": "https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/",
-        "published": "Fri, 22 Nov 2024 19:59:00 +0000",
-        "summary": "<p>Despite all the talk of doom and gloom about the economy, entrepreneurship is actually on the rise in the U.S.: In 2024, an average of 430,000 new business applications were submitted every month, marking a 50% rise from 2019. But the number of accountants these new businesses will need to maintain their books, file taxes, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "AI",
-            "Startups",
-            "accounting software",
-            "artificial intelligence",
-            "digital bookkeeping",
-            "Fondo"
         ]
     }
 ]
