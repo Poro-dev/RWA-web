@@ -1,71 +1,61 @@
 import json
 import re
-from datetime import datetime
 
-# Input file (combined JSON)
-input_file = "9. Combined_Feeds.json"
-# Output file (formatted JSON)
-output_file = "9. Formatted_Feeds.json"
+# Define a function to clean up the title
+def clean_title(title):
+    # Remove trailing ellipsis (...)
+    title = title.strip().rstrip("...")
+    # Remove "- Source Name" if it exists at the end
+    title = re.sub(r" - \w+$", "", title)
+    return title
 
-# Function to reformat dates to 'YYYY-MM-DD HH:MM'
-def reformat_date(date_str):
+# Define a function to reformat the date
+def reformat_date(date):
     try:
-        # Parse the original date
-        dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")
-        # Format to 'YYYY-MM-DD HH:MM'
-        return dt.strftime("%Y-%m-%d %H:%M")
-    except ValueError:
-        try:
-            # Try the format without milliseconds
-            dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
-            return dt.strftime("%Y-%m-%d %H:%M")
-        except Exception as e:
-            print(f"Error reformatting date '{date_str}': {e}")
-            return date_str  # Return the original date if formatting fails
-
-# Function to clean text (remove HTML tags and encoded characters)
-def clean_text(text):
-    if not isinstance(text, str):
-        return text  # Skip cleaning if it's not a string
-    try:
-        # Remove HTML tags using regex
-        clean = re.sub(r"<[^>]+>", "", text)
-        # Decode HTML entities like &#39;
-        clean = re.sub(r"&#39;", "'", clean)
-        clean = re.sub(r"&amp;", "&", clean)
-        clean = re.sub(r"&quot;", '"', clean)
-        clean = re.sub(r"&lt;", "<", clean)
-        clean = re.sub(r"&gt;", ">", clean)
-        return clean.strip()
+        return date.replace("T", " ")[:-3]  # Removes seconds and replaces 'T' with a space
     except Exception as e:
-        print(f"Error cleaning text '{text}': {e}")
-        return text  # Return the original text if cleaning fails
+        print(f"Error reformatting date '{date}': {e}")
+        return date
 
-# Main formatting function
-def format_json(input_file, output_file):
+# Define a function to deduplicate entries based on the 'link' field
+def remove_duplicates(data):
+    seen_links = set()
+    unique_data = []
+    for entry in data:
+        link = entry.get('link', '')
+        if link and link not in seen_links:  # Check if the link is already seen
+            seen_links.add(link)
+            unique_data.append(entry)
+    return unique_data
+
+# Load the combined JSON file
+with open("9.Combined_Feeds.json", "r") as f:
+    data = json.load(f)
+
+# Process the data
+cleaned_data = []
+for entry in data:
     try:
-        # Load the combined JSON data
-        with open(input_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
+        title = clean_title(entry.get('title', ''))
+        source = entry.get('source', '')
+        link = entry.get('link', '')
+        published = reformat_date(entry.get('published', ''))
 
-        # Format each entry
-        for entry in data:
-            if "published" in entry:
-                entry["published"] = reformat_date(entry["published"])
-            if "title" in entry:
-                entry["title"] = clean_text(entry["title"])
-            if "summary" in entry:
-                entry["summary"] = clean_text(entry["summary"])
-
-        # Save the formatted data to a new JSON file
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-
-        print(f"Formatted JSON file saved as {output_file}")
-
+        # Append cleaned data
+        cleaned_data.append({
+            "source": source,
+            "title": title,
+            "link": link,
+            "published": published
+        })
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error processing entry: {e}")
 
-# Run the script
-if __name__ == "__main__":
-    format_json(input_file, output_file)
+# Remove duplicates
+cleaned_data = remove_duplicates(cleaned_data)
+
+# Save the final cleaned and deduplicated data
+with open("9. Formatted_Feeds.json", "w") as f:
+    json.dump(cleaned_data, f, indent=4)
+
+print("Formatted and deduplicated data saved to '9. Formatted_Feeds.json'")

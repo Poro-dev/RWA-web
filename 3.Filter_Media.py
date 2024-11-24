@@ -49,7 +49,7 @@ def filter_articles(articles, keywords):
 # Main function to filter and update articles
 def main():
     # Load the consolidated JSON
-    with open("9. Media_consolidated_feeds.json", "r", encoding="utf-8") as f:
+    with open("9.Media_consolidated_feeds.json", "r", encoding="utf-8") as f:
         all_articles = json.load(f)
 
     print(f"Loaded {len(all_articles)} articles. Filtering...")
@@ -65,9 +65,9 @@ def main():
             article["published"] = converted_date
 
     # Save the filtered and updated articles to a new JSON file
-    with open("9. Media_filtered_feeds.json", "w", encoding="utf-8") as f:
+    with open("9.Media_filtered_feeds.json", "w", encoding="utf-8") as f:
         json.dump(filtered_articles, f, indent=4)
-    print("Filtered and updated articles saved to 9. Media_filtered_feeds.json.")
+    print("Filtered and updated articles saved to 9.Media_filtered_feeds.json.")
 
 # Entry point for the script
 if __name__ == "__main__":

@@ -3,11 +3,11 @@ from datetime import datetime, timezone, timedelta
 import re
 
 # Input file paths
-file1 = "9. G_Alerts_feed.json"  # Google Alerts
-file2 = "9. Media_filtered_feeds.json"  # Media Feeds
+file1 = "9.G_Alerts_feed.json"  # Google Alerts
+file2 = "9.Media_filtered_feeds.json"  # Media Feeds
 
 # Output file path
-output_file = "9. Combined_Feeds.json"
+output_file = "9.Combined_Feeds.json"
 
 # Keywords to check in the title
 KEYWORDS = ["real world assets", "real-world assets", "RWA", "Tokenisation", "Tokenization", "Tokenized"]

@@ -65,7 +65,7 @@ def fetch_and_normalize_feeds(feeds):
 
 
 # Save all feeds to a consolidated JSON file
-def save_to_json(data, filename="9. Media_consolidated_feeds.json"):
+def save_to_json(data, filename="9.Media_consolidated_feeds.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
     print(f"Consolidated JSON saved to {filename}")

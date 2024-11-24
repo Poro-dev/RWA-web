@@ -69,7 +69,7 @@ def parse_rss_feed(url):
 
 
 # Save the consolidated feed to JSON
-def save_to_json(articles, output_file="9. G_Alerts_feed.json"):
+def save_to_json(articles, output_file="9.G_Alerts_feed.json"):
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=4)
     print(f"Consolidated JSON feed saved to {output_file}")
