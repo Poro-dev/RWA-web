@@ -1,61 +1,67 @@
 import json
+from datetime import datetime
 import re
 
-# Define a function to clean up the title
-def clean_title(title):
-    # Remove trailing ellipsis (...)
-    title = title.strip().rstrip("...")
-    # Remove "- Source Name" if it exists at the end
-    title = re.sub(r" - \w+$", "", title)
+def normalize_text(text):
+    """Normalize text by converting to lowercase and stripping whitespace."""
+    return text.lower().strip() if text else ""
+
+def clean_title(title, source):
+    """Cleans up the title by removing the repeated source after a hyphen."""
+    if not title or not source:
+        return title
+    # Normalize title and source for consistent comparison
+    normalized_source = normalize_text(source)
+    title_parts = title.split(" - ")
+
+    # Check if any part of the title matches the normalized source
+    if len(title_parts) > 1 and normalize_text(title_parts[-1]) == normalized_source:
+        return " - ".join(title_parts[:-1])  # Remove the last part if it matches the source
     return title
 
-# Define a function to reformat the date
-def reformat_date(date):
+def clean_text(text):
+    """Removes HTML tags and decodes HTML entities."""
+    if not text:
+        return text
+    # Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    # Decode HTML entities
+    text = text.replace("&#39;", "'")
+    text = text.replace("&quot;", '"')
+    text = text.replace("&amp;", "&")
+    return text
+
+def format_date(date_str):
+    """Formats the date into dd-MMM-yy hh:mm."""
     try:
-        return date.replace("T", " ")[:-3]  # Removes seconds and replaces 'T' with a space
-    except Exception as e:
-        print(f"Error reformatting date '{date}': {e}")
-        return date
+        date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")  # Fix datetime string parsing
+        return date_obj.strftime("%d-%b-%y %H:%M")
+    except ValueError:
+        try:
+            date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")  # Handle millisecond timestamps
+            return date_obj.strftime("%d-%b-%y %H:%M")
+        except ValueError:
+            return date_str
 
-# Define a function to deduplicate entries based on the 'link' field
-def remove_duplicates(data):
-    seen_links = set()
-    unique_data = []
-    for entry in data:
-        link = entry.get('link', '')
-        if link and link not in seen_links:  # Check if the link is already seen
-            seen_links.add(link)
-            unique_data.append(entry)
-    return unique_data
+def process_data(data):
+    for item in data:
+        # Clean title and remove repeated source
+        item["title"] = clean_title(clean_text(item.get("title")), item.get("source"))
+        # Format the date
+        if "published" in item:
+            item["published"] = format_date(item["published"])
+    return data
 
-# Load the combined JSON file
-with open("9.Combined_Feeds.json", "r") as f:
-    data = json.load(f)
+# Load JSON data from the input file
+input_file = "9.Combined_Feeds.json"
+output_file = "9.Formatted_Feeds.json"
+
+with open(input_file, "r") as infile:
+    data = json.load(infile)
 
 # Process the data
-cleaned_data = []
-for entry in data:
-    try:
-        title = clean_title(entry.get('title', ''))
-        source = entry.get('source', '')
-        link = entry.get('link', '')
-        published = reformat_date(entry.get('published', ''))
+formatted_data = process_data(data)
 
-        # Append cleaned data
-        cleaned_data.append({
-            "source": source,
-            "title": title,
-            "link": link,
-            "published": published
-        })
-    except Exception as e:
-        print(f"Error processing entry: {e}")
-
-# Remove duplicates
-cleaned_data = remove_duplicates(cleaned_data)
-
-# Save the final cleaned and deduplicated data
-with open("9. Formatted_Feeds.json", "w") as f:
-    json.dump(cleaned_data, f, indent=4)
-
-print("Formatted and deduplicated data saved to '9. Formatted_Feeds.json'")
+# Save the formatted data back to a new JSON file
+with open(output_file, "w") as outfile:
+    json.dump(formatted_data, outfile, indent=4)
