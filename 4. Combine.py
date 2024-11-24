@@ -1,9 +1,10 @@
 import json
 from datetime import datetime, timezone, timedelta
+import re
 
 # Input file paths
-file1 = "9. G_Alerts_feed.json"
-file2 = "9. Media_filtered_feeds.json"
+file1 = "9. G_Alerts_feed.json"  # Google Alerts
+file2 = "9. Media_filtered_feeds.json"  # Media Feeds
 
 # Output file path
 output_file = "9. Combined_Feeds.json"
@@ -14,21 +15,15 @@ KEYWORDS = ["real world assets", "real-world assets", "RWA", "Tokenisation", "To
 # Trusted sources
 TRUSTED_SOURCES = ["Cointelegraph", "Coindesk", "Blockworks", "TechCrunch"]
 
-# Function to parse dates with multiple formats
-def parse_date(date_str):
-    date_formats = [
-        "%Y-%m-%dT%H:%M:%SZ",  # ISO 8601 (standard format)
-        "%Y-%m-%dT%H:%M:%S.%fZ",  # ISO 8601 with microseconds
-        "%a, %d %b %Y %H:%M:%S %z"  # RSS pubDate format
-    ]
-    for fmt in date_formats:
-        try:
-            return datetime.strptime(date_str, fmt).replace(tzinfo=timezone.utc)
-        except ValueError:
-            continue
-    # Log the issue with unrecognized date formats
-    print(f"Unrecognized date format: {date_str}")
-    return None
+# Function to clean Google Alert links
+def clean_google_link(google_link):
+    try:
+        # Extract the actual URL from the `link` field
+        match = re.search(r'url=(https?://[^&]+)', google_link)
+        return match.group(1) if match else None
+    except Exception as e:
+        print(f"Error cleaning Google link: {e}")
+        return None
 
 # Scoring logic for ranking
 def calculate_ranking_score(item):
@@ -41,16 +36,15 @@ def calculate_ranking_score(item):
     # Recency-based score
     if item.get("published"):
         try:
-            published_date = parse_date(item["published"])
-            if published_date:
-                now = datetime.now(timezone.utc)
-                time_diff = now - published_date
-                if time_diff <= timedelta(hours=3):
-                    score += 30
-                elif time_diff <= timedelta(hours=6):
-                    score += 20
-                elif time_diff <= timedelta(hours=24):
-                    score += 10
+            published_date = datetime.strptime(item["published"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            now = datetime.now(timezone.utc)
+            time_diff = now - published_date
+            if time_diff <= timedelta(hours=3):
+                score += 30
+            elif time_diff <= timedelta(hours=6):
+                score += 20
+            elif time_diff <= timedelta(hours=24):
+                score += 10
         except Exception as e:
             print(f"Error parsing date for ranking: {e}")
 
@@ -62,21 +56,35 @@ def calculate_ranking_score(item):
 
     return score
 
-# Function to extract only the required fields and calculate ranking score
+# Function to extract and clean required fields
 def filter_fields(data, is_g_alerts=False):
     filtered_data = []
     for item in data:
-        filtered_item = {
-            "source": item.get("source"),
-            "title": item.get("title"),
-            "link": item.get("media_link") if is_g_alerts else item.get("link"),
-            "published": item.get("published"),
-            "content": item.get("content"),
-            "summary": item.get("summary"),
-        }
-        # Add ranking score
-        filtered_item["ranking_score"] = calculate_ranking_score(filtered_item)
-        filtered_data.append(filtered_item)
+        try:
+            # Handle links differently for Google Alerts and Media
+            if is_g_alerts:
+                # Use `cleaned_link` if it exists, otherwise clean the `link`
+                link = item.get("cleaned_link") or clean_google_link(item.get("link", ""))
+            else:
+                # Use `link` field for Media Feeds
+                link = item.get("link")
+
+            if not link:
+                print(f"Warning: Missing or invalid link for article titled '{item.get('title')}'")
+
+            filtered_item = {
+                "source": item.get("source"),
+                "title": item.get("title"),
+                "link": link,
+                "published": item.get("published"),
+                "content": item.get("content"),
+                "summary": item.get("summary"),
+            }
+            # Add ranking score
+            filtered_item["ranking_score"] = calculate_ranking_score(filtered_item)
+            filtered_data.append(filtered_item)
+        except Exception as e:
+            print(f"Error processing item: {e}")
     return filtered_data
 
 # Function to combine JSON files
@@ -87,7 +95,7 @@ def combine_json_files(file1, file2, output_file):
             data1 = json.load(f1)
             filtered_data1 = filter_fields(data1, is_g_alerts=True)
 
-        # Read the second file (Media)
+        # Read the second file (Media Feeds)
         with open(file2, "r", encoding="utf-8") as f2:
             data2 = json.load(f2)
             filtered_data2 = filter_fields(data2)
