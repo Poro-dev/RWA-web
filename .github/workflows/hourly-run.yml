@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Python scripts
-        run: python scripts/0. Run.py
+        run: python 0.Run.py
 
 
 

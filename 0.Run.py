@@ -10,7 +10,7 @@ scripts = [
     "2. Media_RSS.py",
     "3. Filter_Media.py",
     "4. Combine.py",
-    "5. Formatted Output.py"
+    "5. pipFormatted Output.py"
 ]
 
 # Run each script
