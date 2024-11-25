@@ -1,6 +1,23 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Wrapped Bitcoin flash crashes to $5K on Binance exchange",
+        "link": "https://cointelegraph.com/news/wrapped-bitcoin-flash-crashes-5-k-binance-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "2024-11-24T21:47:20Z",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzVmZTAtYjhiNS03ODc1LWJjNjctMWExMTRkMjc4NjNk.jpg\" /></p><p>Wrapped Bitcoin was launched in 2019 to give Bitcoin investors an option to use the asset in decentralized finance applications.</p>",
+        "content": "",
+        "categories": [
+            "Wrapped Bitcoin",
+            "WBTC",
+            "Binance",
+            "Bitcoin",
+            "BTC",
+            "Bitcoin wrappers",
+            "tokenized Bitcoin"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "CFTC report endorses tokenizing trading collateral",
         "link": "https://cointelegraph.com/news/cftc-endorses-tokenizing-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "2024-11-22T21:46:46Z",
@@ -18,25 +35,6 @@
             "gary gensler",
             "donald trump",
             "us elections 2024"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Sui, Franklin Templeton launch ecosystem partnership",
-        "link": "https://cointelegraph.com/news/sui-franklin-templeton-ecosystem-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "2024-11-22T18:38:23Z",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU0ZGYtMTcyYy03NGZhLTkxYTMtMzRhMzM5ZWM5YTg3.jpg\" /></p><p>The asset manager will support builders on Sui and pilot emerging blockchain technologies on the network.\u00a0</p>",
-        "content": "",
-        "categories": [
-            "franklin templeton",
-            "sui",
-            "blackrock",
-            "fobxx",
-            "tokenization",
-            "arbitrum",
-            "base",
-            "ethereum",
-            "solana"
         ]
     },
     {

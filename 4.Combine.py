@@ -31,7 +31,7 @@ def calculate_ranking_score(item):
 
     # Source-based score
     if item.get("source") in TRUSTED_SOURCES:
-        score += 50
+        score += 40
 
     # Recency-based score
     if item.get("published"):
@@ -40,11 +40,11 @@ def calculate_ranking_score(item):
             now = datetime.now(timezone.utc)
             time_diff = now - published_date
             if time_diff <= timedelta(hours=3):
-                score += 30
+                score += 25
             elif time_diff <= timedelta(hours=6):
-                score += 20
+                score += 15
             elif time_diff <= timedelta(hours=24):
-                score += 10
+                score += 5
         except Exception as e:
             print(f"Error parsing date for ranking: {e}")
 
@@ -52,7 +52,7 @@ def calculate_ranking_score(item):
     if item.get("title"):
         title = item["title"].lower()
         if any(keyword.lower() in title for keyword in KEYWORDS):
-            score += 15
+            score += 25
 
     return score
 

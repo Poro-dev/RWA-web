@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import re
 
 def normalize_text(text):
@@ -32,7 +32,7 @@ def clean_text(text):
     return text
 
 def format_date(date_str):
-    """Formats the date into dd-MMM-yy hh:mm."""
+    """Formats the date into a more readable format."""
     try:
         date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")  # Fix datetime string parsing
         return date_obj.strftime("%d-%b-%y %H:%M")
@@ -41,16 +41,24 @@ def format_date(date_str):
             date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")  # Handle millisecond timestamps
             return date_obj.strftime("%d-%b-%y %H:%M")
         except ValueError:
-            return date_str
+            return date_str  # Return the original date string if parsing fails
 
 def process_data(data):
+    unique_titles = {}
     for item in data:
         # Clean title and remove repeated source
         item["title"] = clean_title(clean_text(item.get("title")), item.get("source"))
         # Format the date
-        if "published" in item:
-            item["published"] = format_date(item["published"])
-    return data
+        item["published"] = format_date(item.get("published"))
+        # Create a unique identifier for each entry based on title and source
+        key = (item["title"], item.get("source"))
+
+        # Only add the item if the title has not been added before
+        if key not in unique_titles:
+            unique_titles[key] = item
+
+    # Return only the values from the dictionary, which will be a list of unique items
+    return list(unique_titles.values())
 
 # Load JSON data from the input file
 input_file = "9.Combined_Feeds.json"
@@ -65,3 +73,4 @@ formatted_data = process_data(data)
 # Save the formatted data back to a new JSON file
 with open(output_file, "w") as outfile:
     json.dump(formatted_data, outfile, indent=4)
+
