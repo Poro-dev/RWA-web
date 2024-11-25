@@ -2,8 +2,8 @@ name: Run Python Scripts Hourly
 
 on:
   schedule:
-    - cron: '0 * * * *' # This runs every hour
-  workflow_dispatch: # Allows manual runs
+    - cron: '0 * * * *'  # This runs every hour
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   run-scripts:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # Replace with the Python version you are using
+          python-version: '3.9'  # Replace with the Python version you are using
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -23,5 +23,10 @@ jobs:
       - name: Run Python scripts
         run: python 0.Run.py
 
-
-
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "Update JSON outputs" -a || echo "No changes to commit"
+          git push
