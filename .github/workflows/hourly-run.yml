@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,10 +25,10 @@ jobs:
       - name: Run Python scripts
         run: python 0.Run.py
 
-      - name: Commit and push changes
+      - name: Push changes
         run: |
-          git config --global user.email "you@example.com"
+          git config --global user.email "varelrod@gmail.com"
           git config --global user.name "GitHub Action"
           git add -A
           git commit -m "Update JSON outputs" -a || echo "No changes to commit"
-          git push
+          git push https://github-actions:${{ secrets.GITHUB_PAT }}@github.com/Poro-dev/RWA-web.git
