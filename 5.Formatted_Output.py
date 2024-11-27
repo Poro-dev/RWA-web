@@ -7,17 +7,26 @@ def normalize_text(text):
     return text.lower().strip() if text else ""
 
 def clean_title(title, source):
-    """Cleans up the title by removing the repeated source after a hyphen."""
-    if not title or not source:
+    """Cleans up the title by removing unnecessary parts."""
+    if not title:
         return title
-    # Normalize title and source for consistent comparison
-    normalized_source = normalize_text(source)
-    title_parts = title.split(" - ")
 
-    # Check if any part of the title matches the normalized source
-    if len(title_parts) > 1 and normalize_text(title_parts[-1]) == normalized_source:
-        return " - ".join(title_parts[:-1])  # Remove the last part if it matches the source
-    return title
+    # Remove everything after " - "
+    if " - " in title:
+        title = title.split(" - ")[0]
+
+    # Remove everything after "|"
+    if "|" in title:
+        title = title.split("|")[0]
+
+    # Clean repeated source if present
+    if source:
+        normalized_source = normalize_text(source)
+        title_parts = title.split(" - ")
+        if len(title_parts) > 1 and normalize_text(title_parts[-1]) == normalized_source:
+            title = " - ".join(title_parts[:-1])  # Remove the last part if it matches the source
+
+    return title.strip()  # Ensure there’s no trailing whitespace
 
 def clean_text(text):
     """Removes HTML tags and decodes HTML entities."""
