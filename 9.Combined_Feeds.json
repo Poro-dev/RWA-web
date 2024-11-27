@@ -1,14 +1,5 @@
 [
     {
-        "source": "Coindesk",
-        "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms - CoinDesk",
-        "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
-        "published": "2024-11-27T14:52:37Z",
-        "content": "Instead, the company will focus on backing new stablecoin ventures such as its recent investment in Quantoz and its <b>tokenization</b> platform Hadron.",
-        "summary": null,
-        "ranking_score": 75
-    },
-    {
         "source": "Bybit",
         "title": "Ondo Launches Institutional-Grade Bridging for <b>Tokenized</b> RWAs with LayerZero Security",
         "link": "https://learn.bybit.com/daily-bits/ondo-launches-institutional-grade-bridging-for-tokenized-rwas/",
@@ -27,22 +18,22 @@
         "ranking_score": 70
     },
     {
+        "source": "Coindesk",
+        "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms - CoinDesk",
+        "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
+        "published": "2024-11-27T14:52:37Z",
+        "content": "Instead, the company will focus on backing new stablecoin ventures such as its recent investment in Quantoz and its <b>tokenization</b> platform Hadron.",
+        "summary": null,
+        "ranking_score": 65
+    },
+    {
         "source": "Crowdfundinsider",
         "title": "RWAs: OpenTrade Raises $4 Million In Seed Funding To Build <b>Asset</b> Backed Lending ...",
         "link": "https://www.crowdfundinsider.com/2024/11/233478-rwas-opentrade-raises-4-million-in-seed-funding-to-build-asset-backed-lending-stablecoin-products/",
         "published": "2024-11-27T15:27:12Z",
         "content": "OpenTrade has closed on a $4 million &quot;Seed extension round&quot; as it seeks to build out <b>real</b>-<b>world asset</b>-backed lending and stablecoin yield&nbsp;...",
         "summary": null,
-        "ranking_score": 60
-    },
-    {
-        "source": "Livebitcoinnews",
-        "title": "Zodia Custody and Securitize Partner to Advance <b>Tokenized</b> Finance | Live Bitcoin News",
-        "link": "https://www.livebitcoinnews.com/zodia-custody-and-securitize-partner-to-advance-tokenized-finance/",
-        "published": "2024-11-27T14:52:14Z",
-        "content": "... potential of <b>tokenization</b>. <b>Tokenized</b> Assets Lead Financial Innovation with $530M BUIDL Fund. The current trends in the market serve this vision&nbsp;...",
-        "summary": null,
-        "ranking_score": 60
+        "ranking_score": 50
     },
     {
         "source": "Blockchainreporter",
@@ -68,6 +59,15 @@
         "link": "https://bitcoinist.com/kima-successfully-executes-the-first-cbdc-purchase-of-tokenized-stocks-on-a-stock-exchange/",
         "published": "2024-11-27T20:01:14Z",
         "content": "Kima completes the first CBDC transaction of a <b>tokenized</b> stock during the Bank of Israel event at the Tel Aviv Stock Exchange.",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Livebitcoinnews",
+        "title": "Zodia Custody and Securitize Partner to Advance <b>Tokenized</b> Finance | Live Bitcoin News",
+        "link": "https://www.livebitcoinnews.com/zodia-custody-and-securitize-partner-to-advance-tokenized-finance/",
+        "published": "2024-11-27T14:52:14Z",
+        "content": "... potential of <b>tokenization</b>. <b>Tokenized</b> Assets Lead Financial Innovation with $530M BUIDL Fund. The current trends in the market serve this vision&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
@@ -106,15 +106,6 @@
         "content": "<b>Tokenization</b> involves converting physical assets like real estate, stocks, or funds into digital tokens stored on a blockchain. These tokens represent&nbsp;...",
         "summary": null,
         "ranking_score": 50
-    },
-    {
-        "source": "CoinDesk",
-        "title": "EU Approves Commissioners, Including Ones Who Will Likely Oversee Crypto Rules",
-        "link": "https://www.coindesk.com/policy/2024/11/27/eu-approves-commissioners-including-ones-who-will-likely-oversee-crypto-rules",
-        "published": "2024-11-27T18:17:41Z",
-        "content": "<p>The European Parliament approved its slate of commissioners <a href=\"https://www.europarl.europa.eu/news/en/press-room/20241121IPR25546/parliament-approves-the-von-der-leyen-ii-commission\" target=\"_blank\">on Wednesday</a>, including the individuals who will be responsible for monitoring regulations around digital assets.</p><p>In September, European Parliament President Ursula Von der Leyen <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_24_4723\" target=\"_blank\">proposed a list of commissioners</a>. While crypto did not stand out as a core topic amongst the roles, this group will be responsible for ensuring digital asset rules are implemented.</p><p>The European Union (EU), a bloc of 27 nations, was the first major jurisdiction in the world to establish <a href=\"https://www.coindesk.com/policy/2023/05/31/eu-formally-signs-new-crypto-licensing-money-laundering-rules-into-law/\" target=\"_blank\">a bespoke crypto legislative package last year, otherwise known as the Markets in Crypto Assets</a> legislation (MiCA). <a href=\"https://www.coindesk.com/policy/2024/06/27/eus-restrictive-stablecoin-rules-take-effect-soon-and-issuers-are-running-out-of-time/\" target=\"_blank\">Stablecoin rules came into force in June, while the rest of the rules are expected to come in force by December</a>.</p><p>\"I don't expect a big legislative agenda in the blockchain space and in the digital space per se, over the next year or so,\" said Mark Foster, EU policy lead at the Crypto Council for Innovation.</p><p>Though no commissioner role is solely dedicated to crypto, the EU still has to ensure MiCA is being followed. Some commissioners will have digital assets fall within their remit as the nation advances its crypto rules, Foster said.</p><p>\"What the industry is really wanting is the EU to continue to discuss with its international partners and ensure that the rules that are being developed across the globe are to the extent possible, interoperable, consistent, and have the same goals,\" Foster said.</p><p>The commissioners have also been tasked with exploring whether or not more regulation is needed.</p><p>\"According, to MiCA, we are also required to present a report on the latest developments with respect to crypto assets, including an assessment of the necessity and feasibility of regulating decentralized finance activities, lending and borrowing of crypto assets, as well as non-fungible tokens,\" said Marcel Haag, director of Horizontal Policies at the European Commission, at a Crypto Council for Innovation Forum last week.</p><p>They will also have to decide whether or not to terminate the <a href=\"https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime\" target=\"_blank\">Distributed Ledger Technology</a> pilot or make it permanent and review a proposal for establishing a legal framework for the digital euro, a central bank digital currency issued by the European Central Bank.</p><p>The commission is also set to launch a legal analysis on the suitability of member states' legislation for financial asset tokenization, Haag said.</p><p>Read more: <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA, EU’s Comprehensive New Crypto Regulation, Explained</a></p><h2>The Commission</h2><p>The EU commission is the executive branch of the EU. Each member state has to select one person to form the commission.</p><p>Von der Leyen, who asked for a balanced gender group of commissioners, had the task of choosing what roles each person will take on for the next five years. People were appointed for roles on trade, climate, technology, economy, international partnership, finance and more.</p><p>Each commissioner will have their own focus, but Von der Leyen said in her <a href=\"https://commission.europa.eu/about-european-commission/towards-new-commission-2024-2029/commissioners-designate-2024-2029_en\" target=\"_blank\">mission letters</a> the priorities are not standalone and will affect each other.</p><p>Plus, crypto is a trans-sectoral topic, Faustine Fleuret, president of industry group ADAN that focuses on Web3 said, adding that they could \"engage with everyone\" in the commission when it comes to the sector.</p><p>Commissioners from Portugal, Finland and France will likely have some purview over crypto.</p><h2>Stéphane Séjourné</h2><p>France's Stéphane Séjourné has been chosen to be the executive vice-president for prosperity and industrial strategy, as well as the commissioner for industry, small and medium-sized enterprises (SMEs) and the single market.</p><p>This <a href=\"https://commission.europa.eu/document/6ef52679-19b9-4a8d-b7b2-cb99eb384eca_en\" target=\"_blank\">job would include improving access to finance</a>, simplifying the regulatory environment and promoting innovation for small and medium-sized enterprises. He will also oversee a project called the \"horizontal single market strategy\" that will require him to address barriers to the movement of goods and services abroad. His role could bring crypto under his oversight, Fleuret said.</p><p>Fleuret said she could see the industry pushing Web3 interests and positions on \"trade and economic safety, finance, the capital market union, innovation and research\" to Séjourné.</p><p>\"We had previous relations with Stéphane Séjourné during the MiCA negotiation, and at that stage, he was quite open to innovation,\" Fleuret said, adding that he believed in regulating the sector but knew not to hamper crypto with rules that were too strict.</p><h2>Maria Luís Albuquerque</h2><p>Portugal's <a href=\"https://commission.europa.eu/document/ac06a896-2645-4857-9958-467d2ce6f221_en\" target=\"_blank\">Maria Luís Albuquerque</a> will be the commissioner for financial services and the savings and investment union. Her work will include ensuring rules for the financial sector are enforced and improving the EU's supervisory system. She will work on improving digital finance and payments.</p><p>Plus, Albuquerque will ensure the enforcement of the <a href=\"https://www.coindesk.com/policy/2024/04/26/eu-parliament-adopts-anti-money-laundering-rules-package-also-policing-crypto/\" target=\"_blank\">anti-money laundering package</a> that targets large cash payments, crypto firms and more.</p><p>The EU has been considering doing <a href=\"https://www.coindesk.com/policy/2022/06/27/nft-private-wallet-fates-hang-on-eu-crypto-talks-this-week/\" target=\"_blank\">a MiCA 2.0</a> to address issues like crypto staking, lending and decentralized finance.</p><p>\"If the commission were to come up with new legislation specifically for digital assets, it would most likely be the Portuguese Commissioner Albuquerque,\" Foster said.</p><p>She might have to coordinate and get input from one of the executive vice presidents, which would most likely be Séjourné, Foster added.</p><p>\"She has a background in financial services. She's a former finance minister... So she's very experienced in traditional finance,\" Foster said. Her crypto views were not available online.</p><h2>Henna Virkkunen</h2><p>Another figure the industry thinks is important to watch out for is <a href=\"https://commission.europa.eu/document/3b537594-9264-4249-a912-5b102b7b49a3_en\" target=\"_blank\">Finland's Henna Virkkunen</a>.</p><p>\"We also think that one really important portfolio will be the one of Henna Virkkunen, who will be in charge of tech, sovereignty, security and democracy, because of all the related topics within Web3,\" Fleuret said.</p><p>Virkkunen's role will include boosting artificial intelligence innovation, looking at how digital technologies will enhance law enforcement capabilities, strengthening cybersecurity and taking enforcement action using the Digital Services Act where necessary to promote online safety. She <a href=\"https://www.bloomberg.com/news/articles/2024-09-17/eu-picks-tech-enforcer-who-helped-write-its-social-media-rules?sref=3REHEaVI\" target=\"_blank\">will also have to work with Séjourné</a>.</p><p>Read more: <a href=\"https://www.coindesk.com/news-analysis/2024/06/28/elections-across-europe-wont-hinder-blocs-crypto-ambitions/\" target=\"_blank\">Elections Across Europe Won't Hinder Bloc's Crypto Ambitions</a></p>",
-        "summary": "<p>The European Parliament approved its new slate of commissioners on Wednesday.</p><p>Commissioners Stéphane Séjourné, Maria Luís Albuquerque and Henna Virkkunen are likely to have crypto within their purview. </p><p>The EU's markets in crypto assets legislation is going to be in full force by the end of December so more work might need to be done to ensure implementation, crypto advocates told CoinDesk.</p>",
-        "ranking_score": 45
     },
     {
         "source": "Abplive",
@@ -207,15 +198,6 @@
         "ranking_score": 35
     },
     {
-        "source": "Fintech",
-        "title": "OpenTrade secures $4m to expand <b>real</b>-<b>world asset</b>-backed stablecoin products",
-        "link": "https://fintech.global/2024/11/27/opentrade-secures-4m-to-expand-real-world-asset-backed-stablecoin-products/",
-        "published": "2024-11-27T15:28:37Z",
-        "content": "OpenTrade, a London-based platform specialising in <b>real</b>-<b>world asset</b>-backed stablecoin yield products, has raised $4m in a seed extension round led&nbsp;...",
-        "summary": null,
-        "ranking_score": 35
-    },
-    {
         "source": "Blockster",
         "title": "$GTAI Token Climbs to New Heights as Community Power Drives Momentum | Blockster",
         "link": "https://blockster.com/gtai-token-climbs-to-new-heights-as-community-power-drives-momentum",
@@ -253,11 +235,11 @@
     },
     {
         "source": "CoinDesk",
-        "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms",
-        "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
-        "published": "2024-11-27T14:49:46Z",
-        "content": "<p>Stablecoin issuing giant Tether is closing down its euro stablecoin, EURT.</p><p>\"After careful consideration, we have made the decision to discontinue support for EUR₮,\" the firm said in a <a href=\"https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/\" target=\"_blank\">press release</a> on Wednesday. Users will be able to redeem tokens until Nov. 27, 2025, the post added.</p><p>The decision comes as digital asset businesses operating in the EU are in crunch time before region-wide regulations, known as <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA</a>, enter into full force by the end of this year.\n\nMiCA requires stablecoin issuers to get compliant or potentially retreat from the market of 450 million consumers. Tether CEO Paolo Ardoino has been a <a href=\"https://cointelegraph.com/news/mica-regulation-systemic-risk-banking-system-tether-ceo\" target=\"_blank\">vocal critic</a> of the new rules and the company has not obtained the necessary Electronic Money Institution (EMI) license to operate in the EU. Meanwhile, rival issuer Circle, the company behind the $36 billion market cap USDC, <a href=\"https://www.businesswire.com/news/home/20240701820713/en/\" target=\"_blank\">said</a> it fulfilled the requirements to operate in the region.</p><p>EURT didn't attract considerable demand in the euro stablecoin market. It only has a $27 million market capitalization, per CoinGecko data, lagging behind Circle's EURC $90 million and Stasis Euro's $130 million. In comparison, Tether's flagship stablecoin USDT has a $132 billion market capitalization.</p><p>Tether recently <a href=\"https://www.coindesk.com/business/2024/11/18/kraken-tether-backed-dutch-firm-rolls-out-mica-compliant-euro-us-dollar-stablecoins\" target=\"_blank\">invested</a> in Netherlands-based stablecoin issuer Quantoz and also <a href=\"https://www.coindesk.com/business/2024/11/14/tether-unveils-new-platform-to-simplify-asset-tokenization-for-businesses-nation-states\" target=\"_blank\">launched</a> a tokenization platform, Hadron, that aims to support smaller, MiCA-compliant stablecoin companies to issue tokens.</p><p>\"At this time we will be focusing our support on new ventures such as the launch of Quantoz Payments’ revolutionary MiCAR-compliant stablecoins, EURQ, and USDQ which will be powered by Tether’s advanced technology solution, Hadron by Tether,\" the firm said in a statement.</p>",
-        "summary": "<p>Tether said it will phase out its euro stablecoin, EURT. Users will be able to redeem tokens for up until one year from now.</p><p>Instead, the company will focus on backing new stablecoin ventures such as its recent investment in Quantoz and its tokenization platform Hadron.</p>",
+        "title": "EU Approves Commissioners, Including Ones Who Will Likely Oversee Crypto Rules",
+        "link": "https://www.coindesk.com/policy/2024/11/27/eu-approves-commissioners-including-ones-who-will-likely-oversee-crypto-rules",
+        "published": "2024-11-27T18:17:41Z",
+        "content": "<p>The European Parliament approved its slate of commissioners <a href=\"https://www.europarl.europa.eu/news/en/press-room/20241121IPR25546/parliament-approves-the-von-der-leyen-ii-commission\" target=\"_blank\">on Wednesday</a>, including the individuals who will be responsible for monitoring regulations around digital assets.</p><p>In September, European Parliament President Ursula Von der Leyen <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_24_4723\" target=\"_blank\">proposed a list of commissioners</a>. While crypto did not stand out as a core topic amongst the roles, this group will be responsible for ensuring digital asset rules are implemented.</p><p>The European Union (EU), a bloc of 27 nations, was the first major jurisdiction in the world to establish <a href=\"https://www.coindesk.com/policy/2023/05/31/eu-formally-signs-new-crypto-licensing-money-laundering-rules-into-law/\" target=\"_blank\">a bespoke crypto legislative package last year, otherwise known as the Markets in Crypto Assets</a> legislation (MiCA). <a href=\"https://www.coindesk.com/policy/2024/06/27/eus-restrictive-stablecoin-rules-take-effect-soon-and-issuers-are-running-out-of-time/\" target=\"_blank\">Stablecoin rules came into force in June, while the rest of the rules are expected to come in force by December</a>.</p><p>\"I don't expect a big legislative agenda in the blockchain space and in the digital space per se, over the next year or so,\" said Mark Foster, EU policy lead at the Crypto Council for Innovation.</p><p>Though no commissioner role is solely dedicated to crypto, the EU still has to ensure MiCA is being followed. Some commissioners will have digital assets fall within their remit as the nation advances its crypto rules, Foster said.</p><p>\"What the industry is really wanting is the EU to continue to discuss with its international partners and ensure that the rules that are being developed across the globe are to the extent possible, interoperable, consistent, and have the same goals,\" Foster said.</p><p>The commissioners have also been tasked with exploring whether or not more regulation is needed.</p><p>\"According, to MiCA, we are also required to present a report on the latest developments with respect to crypto assets, including an assessment of the necessity and feasibility of regulating decentralized finance activities, lending and borrowing of crypto assets, as well as non-fungible tokens,\" said Marcel Haag, director of Horizontal Policies at the European Commission, at a Crypto Council for Innovation Forum last week.</p><p>They will also have to decide whether or not to terminate the <a href=\"https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime\" target=\"_blank\">Distributed Ledger Technology</a> pilot or make it permanent and review a proposal for establishing a legal framework for the digital euro, a central bank digital currency issued by the European Central Bank.</p><p>The commission is also set to launch a legal analysis on the suitability of member states' legislation for financial asset tokenization, Haag said.</p><p>Read more: <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA, EU’s Comprehensive New Crypto Regulation, Explained</a></p><h2>The Commission</h2><p>The EU commission is the executive branch of the EU. Each member state has to select one person to form the commission.</p><p>Von der Leyen, who asked for a balanced gender group of commissioners, had the task of choosing what roles each person will take on for the next five years. People were appointed for roles on trade, climate, technology, economy, international partnership, finance and more.</p><p>Each commissioner will have their own focus, but Von der Leyen said in her <a href=\"https://commission.europa.eu/about-european-commission/towards-new-commission-2024-2029/commissioners-designate-2024-2029_en\" target=\"_blank\">mission letters</a> the priorities are not standalone and will affect each other.</p><p>Plus, crypto is a trans-sectoral topic, Faustine Fleuret, president of industry group ADAN that focuses on Web3 said, adding that they could \"engage with everyone\" in the commission when it comes to the sector.</p><p>Commissioners from Portugal, Finland and France will likely have some purview over crypto.</p><h2>Stéphane Séjourné</h2><p>France's Stéphane Séjourné has been chosen to be the executive vice-president for prosperity and industrial strategy, as well as the commissioner for industry, small and medium-sized enterprises (SMEs) and the single market.</p><p>This <a href=\"https://commission.europa.eu/document/6ef52679-19b9-4a8d-b7b2-cb99eb384eca_en\" target=\"_blank\">job would include improving access to finance</a>, simplifying the regulatory environment and promoting innovation for small and medium-sized enterprises. He will also oversee a project called the \"horizontal single market strategy\" that will require him to address barriers to the movement of goods and services abroad. His role could bring crypto under his oversight, Fleuret said.</p><p>Fleuret said she could see the industry pushing Web3 interests and positions on \"trade and economic safety, finance, the capital market union, innovation and research\" to Séjourné.</p><p>\"We had previous relations with Stéphane Séjourné during the MiCA negotiation, and at that stage, he was quite open to innovation,\" Fleuret said, adding that he believed in regulating the sector but knew not to hamper crypto with rules that were too strict.</p><h2>Maria Luís Albuquerque</h2><p>Portugal's <a href=\"https://commission.europa.eu/document/ac06a896-2645-4857-9958-467d2ce6f221_en\" target=\"_blank\">Maria Luís Albuquerque</a> will be the commissioner for financial services and the savings and investment union. Her work will include ensuring rules for the financial sector are enforced and improving the EU's supervisory system. She will work on improving digital finance and payments.</p><p>Plus, Albuquerque will ensure the enforcement of the <a href=\"https://www.coindesk.com/policy/2024/04/26/eu-parliament-adopts-anti-money-laundering-rules-package-also-policing-crypto/\" target=\"_blank\">anti-money laundering package</a> that targets large cash payments, crypto firms and more.</p><p>The EU has been considering doing <a href=\"https://www.coindesk.com/policy/2022/06/27/nft-private-wallet-fates-hang-on-eu-crypto-talks-this-week/\" target=\"_blank\">a MiCA 2.0</a> to address issues like crypto staking, lending and decentralized finance.</p><p>\"If the commission were to come up with new legislation specifically for digital assets, it would most likely be the Portuguese Commissioner Albuquerque,\" Foster said.</p><p>She might have to coordinate and get input from one of the executive vice presidents, which would most likely be Séjourné, Foster added.</p><p>\"She has a background in financial services. She's a former finance minister... So she's very experienced in traditional finance,\" Foster said. Her crypto views were not available online.</p><h2>Henna Virkkunen</h2><p>Another figure the industry thinks is important to watch out for is <a href=\"https://commission.europa.eu/document/3b537594-9264-4249-a912-5b102b7b49a3_en\" target=\"_blank\">Finland's Henna Virkkunen</a>.</p><p>\"We also think that one really important portfolio will be the one of Henna Virkkunen, who will be in charge of tech, sovereignty, security and democracy, because of all the related topics within Web3,\" Fleuret said.</p><p>Virkkunen's role will include boosting artificial intelligence innovation, looking at how digital technologies will enhance law enforcement capabilities, strengthening cybersecurity and taking enforcement action using the Digital Services Act where necessary to promote online safety. She <a href=\"https://www.bloomberg.com/news/articles/2024-09-17/eu-picks-tech-enforcer-who-helped-write-its-social-media-rules?sref=3REHEaVI\" target=\"_blank\">will also have to work with Séjourné</a>.</p><p>Read more: <a href=\"https://www.coindesk.com/news-analysis/2024/06/28/elections-across-europe-wont-hinder-blocs-crypto-ambitions/\" target=\"_blank\">Elections Across Europe Won't Hinder Bloc's Crypto Ambitions</a></p>",
+        "summary": "<p>The European Parliament approved its new slate of commissioners on Wednesday.</p><p>Commissioners Stéphane Séjourné, Maria Luís Albuquerque and Henna Virkkunen are likely to have crypto within their purview. </p><p>The EU's markets in crypto assets legislation is going to be in full force by the end of December so more work might need to be done to ensure implementation, crypto advocates told CoinDesk.</p>",
         "ranking_score": 35
     },
     {
@@ -267,15 +249,6 @@
         "published": "2024-11-27T16:09:53Z",
         "content": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, <a href=\"https://cryptoslate.com/coins/tether-eurt/\">EURt</a>, in a Nov. 27 statement.</p>\n<p>The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025.</p>\n<p>The decision marks the end of EURt&#8217;s challenging journey in a market where competitors like Circle&#8217;s MiCA-compliant EURC dominate.</p>\n<p>According to <em>CryptoSlate&#8217;s</em> <a href=\"https://cryptoslate.com/cryptos/eur-stablecoin/\">data</a>, EURt struggled to gain traction in Europe, holding a market capitalization of just $38 million. This figure trails <a href=\"https://cryptoslate.com/coins/euro-coin/\">Circle&#8217;s EURC</a>, valued at $90.5 million, and <a href=\"https://cryptoslate.com/coins/stasis-euro/\">Stasis&#8217; Euro</a>, which boasts a $130 million valuation.</p>\n<p>In stark contrast, Tether&#8217;s flagship stablecoin, USDt, commands a robust $132 billion market cap—  more than three times higher than its closest competitor, USDC.</p>\n<h2>Why Tether is ending EURt support</h2>\n<p>Tether CEO <a href=\"https://cryptoslate.com/people/paolo-ardoino/\">Paolo Ardoino</a> attributed the move to Europe&#8217;s evolving regulatory landscape for stablecoins.</p>\n<p>The EU&#8217;s Markets in Crypto-Assets Regulation (MiCA) introduces a stringent regulatory environment that requires stablecoin issuers to obtain e-money authorization in at least one EU member country. This law has drawn significant backlash from Ardoino, who claims the strict cash reserve requirements could present systemic risks to banks and digital assets.</p>\n<p>Ardoino emphasized the need for a framework that balances risk management with innovation and user protection. He stated:</p>\n<blockquote><p>&#8220;Tether&#8217;s decision to delist EURt has not been taken lightly, but until a more risk-averse regulatory framework in Europe is in place—one that fosters innovation, offers the stability and protection our users deserve and avoids potential banking systemic risks—we have chosen to prioritize other initiatives.&#8221;</p></blockquote>\n<p>While Tether might not comply with MiCA, Ardoino pointed out that the firm&#8217;s new initiative, Hadron, will be a top priority in the European region. According to him, Hadron has the potential to revolutionize the accessibility of asset tokenization for institutions, governments, fund managers, and private companies.</p>\n<p>Dutch fintech firm Quantoz has already <a href=\"https://cryptoslate.com/tether-invests-in-dutch-firm-to-launch-mica-compliant-stablecoins/\">leveraged Hadron to issue EURQ and USDQ stablecoins</a>. These tokens fully comply with the EU&#8217;s Markets in Crypto-Assets Regulation (MiCA), demonstrating the platform&#8217;s adaptability to stringent regulatory requirements.</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
         "summary": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, EURt, in a Nov. 27 statement. The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025. The decision marks the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "ranking_score": 35
-    },
-    {
-        "source": "CryptoSlate",
-        "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
-        "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
-        "published": "2024-11-27T15:17:12Z",
-        "content": "<p>Blockchain firm <a href=\"https://cryptoslate.com/companies/ripple/\">Ripple</a> is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation.</p>\n<p>Established on Nov. 26 in France, the <a href=\"https://xrpl.org/blog/2024/a-new-era-for-the-xrp-ledger\">organization</a> aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community.</p>\n<p>The foundation is committed to ensuring long-term growth, security, and decentralized contributions to the XRPL. Its primary mission is to foster a thriving, inclusive, and resilient XRPL community. Developers and users will have a trusted platform to create decentralized applications, financial tools, and blockchain infrastructure.</p>\n<p>The group&#8217;s initial focus will be reclaiming assets from the previous XRPL Foundation. It also plans to implement a governance model representing developers, users, validators, academia, and infrastructure providers. Key contributors—including XRPL Commons, XRPL Labs, Ripple, and XAO DAO—will guide the foundation through board representation and decision-making roles.</p>\n<p>The XRPL blockchain continues to gain traction for its scalability, low costs, and regulatory compliance. Notably, its growing <a href=\"https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/\">role in tokenizing real-world assets (RWAs)</a> has attracted major institutional players like <a href=\"https://cryptoslate.com/societe-generale-expands-its-stablecoin-to-ripples-xrp-ledger-to-drive-further-adoption/\">SG-FORGE, the crypto division of Societe Generale.</a></p>\n<h2>Support for Bitwise XRP Fund</h2>\n<p>Meanwhile, Ripple is also ramping up support for <a href=\"https://cryptoslate.com/coins/xrp/\">XRP</a> through a strategic investment in <a href=\"https://cryptoslate.com/companies/bitwise/\">Bitwise&#8217;s</a> newly rebranded Physical XRP Exchange-Traded Product (ETP).</p>\n<p>Formerly known as ETC Group Physical XRP, the product exposes European investors to XRP through a physically backed structure holding the token.</p>\n<p>Bitwise CEO <a href=\"https://cryptoslate.com/people/hunter-horsley/\">Hunter Horsley</a> emphasized XRP&#8217;s reputation as one of the most recognized and reliable blockchain networks. He <a href=\"https://etc-group.com/newsroom/Press_Release_27_11_2024/\">added</a>:</p>\n<blockquote><p>&#8220;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto. XRPL is unique with over 10 years of track record in reliability, while continuing to expand in capabilities.&#8221;</p></blockquote>\n<p>Ripple CEO <a href=\"https://cryptoslate.com/people/brad-garlinghouse/\">Brad Garlinghouse</a> echoed this sentiment while noting a surge in global demand for crypto-backed investment products. He noted that recent regulatory clarity in the US will likely accelerate this trend, further boosting interest in offerings like the Bitwise Physical XRP ETP.</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "summary": "<p>Blockchain firm Ripple is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation. Established on Nov. 26 in France, the organization aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community. The [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
         "ranking_score": 35
     },
     {
@@ -486,20 +459,11 @@
         "ranking_score": 30
     },
     {
-        "source": "Bitcoinist",
-        "title": "$0.10 Solana Competitor Predicted to Skyrocket to $15 and Secure a Top 20 Spot, Before ...",
-        "link": "https://bitcoinist.com/0-10-solana-competitor-predicted-to-skyrocket-to-15-and-secure-a-top-20-spot-before-sol-touches-500/",
-        "published": "2024-11-27T17:51:14Z",
-        "content": "Rexas Finance is a <b>real</b>-<b>world asset</b> (RWA) tokenizing game-changer not just another token. Imagine with just a click owning a fraction of a Manhattan&nbsp;...",
-        "summary": null,
-        "ranking_score": 25
-    },
-    {
-        "source": "Benzinga",
-        "title": "$3 Trillion Opportunity: Infineo Chief Economist Discusses Blockchain And The Future Of ...",
-        "link": "https://www.benzinga.com/24/11/42218767/the-3-trillion-opportunity-blockchain-and-the-future-of-life-insurance",
-        "published": "2024-11-27T17:44:58Z",
-        "content": "He also expressed optimism for regulatory clarity and predicted further integration of <b>real</b>-<b>world assets</b> onto the blockchain. Dr. Robert Murphy, the&nbsp;...",
+        "source": "Fintech",
+        "title": "OpenTrade secures $4m to expand <b>real</b>-<b>world asset</b>-backed stablecoin products",
+        "link": "https://fintech.global/2024/11/27/opentrade-secures-4m-to-expand-real-world-asset-backed-stablecoin-products/",
+        "published": "2024-11-27T15:28:37Z",
+        "content": "OpenTrade, a London-based platform specialising in <b>real</b>-<b>world asset</b>-backed stablecoin yield products, has raised $4m in a seed extension round led&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
@@ -522,15 +486,6 @@
         "ranking_score": 25
     },
     {
-        "source": "Thecryptobasic",
-        "title": "AI And DeFi Cryptos Lead The Charge In 2024: Top 5 Picks For Stunning ROI",
-        "link": "https://thecryptobasic.com/2024/11/27/ai-and-defi-cryptos-lead-the-charge-in-2024-top-5-picks-for-stunning-roi/",
-        "published": "2024-11-27T18:07:02Z",
-        "content": "CYBRO Trending <b>RWA</b> Altcoins. As 2024 draws near, a new wave is sweeping through the crypto&nbsp;...",
-        "summary": null,
-        "ranking_score": 25
-    },
-    {
         "source": "Chaincatcher",
         "title": "Matrixdock has partnered with Avalon Finance to launch the gold token XAUm for over ...",
         "link": "https://www.chaincatcher.com/en/article/2153952",
@@ -549,6 +504,15 @@
         "ranking_score": 25
     },
     {
+        "source": "Cryptodnes",
+        "title": "Crypto Experts Predict Unprecedented Bull Market in 2025",
+        "link": "https://cryptodnes.bg/en/crypto-experts-predict-unprecedented-bull-market-in-2025/",
+        "published": "2024-11-27T20:01:41Z",
+        "content": "... <b>tokenization</b>, artificial intelligence, and more. Svanevik envisions a significant resurgence in decentralized finance (DeFi), driven by increased&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
         "source": "Coinpedia",
         "title": "Tether-Backed Northern Data Striking Deals To Sell Its Crypto-Mining Arm: Bloomberg",
         "link": "https://coinpedia.org/news/tether-backed-northern-data-striking-deals-to-sell-its-crypto-mining-arm-bloomberg/",
@@ -559,11 +523,29 @@
     },
     {
         "source": "CoinDesk",
+        "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms",
+        "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
+        "published": "2024-11-27T14:49:46Z",
+        "content": "<p>Stablecoin issuing giant Tether is closing down its euro stablecoin, EURT.</p><p>\"After careful consideration, we have made the decision to discontinue support for EUR₮,\" the firm said in a <a href=\"https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/\" target=\"_blank\">press release</a> on Wednesday. Users will be able to redeem tokens until Nov. 27, 2025, the post added.</p><p>The decision comes as digital asset businesses operating in the EU are in crunch time before region-wide regulations, known as <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA</a>, enter into full force by the end of this year.\n\nMiCA requires stablecoin issuers to get compliant or potentially retreat from the market of 450 million consumers. Tether CEO Paolo Ardoino has been a <a href=\"https://cointelegraph.com/news/mica-regulation-systemic-risk-banking-system-tether-ceo\" target=\"_blank\">vocal critic</a> of the new rules and the company has not obtained the necessary Electronic Money Institution (EMI) license to operate in the EU. Meanwhile, rival issuer Circle, the company behind the $36 billion market cap USDC, <a href=\"https://www.businesswire.com/news/home/20240701820713/en/\" target=\"_blank\">said</a> it fulfilled the requirements to operate in the region.</p><p>EURT didn't attract considerable demand in the euro stablecoin market. It only has a $27 million market capitalization, per CoinGecko data, lagging behind Circle's EURC $90 million and Stasis Euro's $130 million. In comparison, Tether's flagship stablecoin USDT has a $132 billion market capitalization.</p><p>Tether recently <a href=\"https://www.coindesk.com/business/2024/11/18/kraken-tether-backed-dutch-firm-rolls-out-mica-compliant-euro-us-dollar-stablecoins\" target=\"_blank\">invested</a> in Netherlands-based stablecoin issuer Quantoz and also <a href=\"https://www.coindesk.com/business/2024/11/14/tether-unveils-new-platform-to-simplify-asset-tokenization-for-businesses-nation-states\" target=\"_blank\">launched</a> a tokenization platform, Hadron, that aims to support smaller, MiCA-compliant stablecoin companies to issue tokens.</p><p>\"At this time we will be focusing our support on new ventures such as the launch of Quantoz Payments’ revolutionary MiCAR-compliant stablecoins, EURQ, and USDQ which will be powered by Tether’s advanced technology solution, Hadron by Tether,\" the firm said in a statement.</p>",
+        "summary": "<p>Tether said it will phase out its euro stablecoin, EURT. Users will be able to redeem tokens for up until one year from now.</p><p>Instead, the company will focus on backing new stablecoin ventures such as its recent investment in Quantoz and its tokenization platform Hadron.</p>",
+        "ranking_score": 25
+    },
+    {
+        "source": "CoinDesk",
         "title": "Stablecoins Hit Record $190B Market Cap, Surpassing Pre-Terra Crash Peak: CCData",
         "link": "https://www.coindesk.com/markets/2024/11/27/stablecoins-hit-record-190-b-market-cap-surpassing-pre-terra-crash-peak-cc-data",
         "published": "2024-11-27T13:04:40Z",
         "content": "<p>Following <a href=\"https://www.coindesk.com/markets/2024/11/22/bitcoin-nears-100k-with-crypto-market-cap-at-record-34t/\" target=\"_blank\">bitcoin</a> (<a href=\"https://www.coindesk.com/price/bitcoin\" target=\"_blank\">BTC</a>) and <a href=\"https://www.coindesk.com/markets/2024/11/22/solanas-sol-surges-to-record-high-above-260\" target=\"_blank\">solana</a> (<a href=\"https://www.coindesk.com/price/solana\" target=\"_blank\">SOL</a>) reaching all-time high prices earlier this month, the stablecoin sector has now joined crypto's record-breaking streak.</p><p>The combined market size of stablecoins hit $190 billion this month for the first time ever, Wednesday's <a href=\"https://ccdata.io/reports/stablecoins-cbdcs-report-november-2024\" target=\"_blank\">report</a> by digital asset analytics firm CCData noted. CCData is owned by Bullish, CoinDesk's parent company. The previous peak of $188 billion was recorded in April 2022, just before the cataclysmic implosion of the <a href=\"https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna/\" target=\"_blank\">Terra-Luna stablecoin</a> that added fuel to the digital asset bear market now referred to as crypto winter.</p><p><a href=\"https://www.coindesk.com/markets/2024/11/12/stablecoin-supply-expands-by-5b-since-us-election-as-investors-pile-into-crypto\" target=\"_blank\">Demand for stablecoins</a> soared as cryptocurrency prices exploded in November as investors rushed into crypto, expecting that the U.S. government will be friendlier toward the industry following Donald Trump's election victory. Stablecoins are a key piece of plumbing in the crypto ecosystem. With their prices anchored to an external asset, predominantly the U.S. dollar, they are a popular source of liquidity for crypto trading, serving as dry powder on exchanges.</p><p>Read more: <a href=\"https://www.coindesk.com/business/2024/09/12/stablecoins-increasingly-used-for-savings-payments-in-emerging-countries-but-crypto-trading-still-leads-report\" target=\"_blank\">Stablecoins Increasingly Used for Savings, Payments in Emerging Countries, but Crypto Trading Still Leads</a></p><p>This year also brought an explosion of novel tokenized products with prices also pegged to $1, including tokenized money market funds like BlackRock's BUIDL and investment strategies wrapped into a token like Ethena's \"synthetic dollar\" USDe, which is backed by a crypto carry trade. The CCData report included these platforms in the tally.</p><p>Tether's <a href=\"https://www.coindesk.com/price/tether\" target=\"_blank\">USDT</a> continues to dominate the stablecoin sector. The token's market cap rose 10% over the past month to a new peak of $132 billion, CCData noted. Meanwhile, Circle's <a href=\"https://www.coindesk.com/price/usd-coin\" target=\"_blank\">USDC</a>, grew 12% to a nearly $39 billion market cap, the highest since the March 2023 regional banking crisis that <a href=\"https://www.coindesk.com/markets/2023/03/11/usdc-stablecoin-and-crypto-market-go-haywire-after-silicon-valley-bank-collapses\" target=\"_blank\">heavily impacted</a> the token. USDT claims a 69.9% market share currently, while USDC is second-largest with a 20.5% share.</p><p>It was not just the top two that saw rapid growth: 38 of the nearly 200 tokens tracked made a new all-time high supply over the past month, CCData said.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/1b8c6f3a5c3ff4f229f3903007988134fab434d7-2196x706.png\" /><p>Ethena's USDe, for example, saw a 42% increase to a new record of $3.8 billion in November. The token generates yield to investors by holding spot BTC and ETH and simultaneously shorting (selling) an equal amount of perpetual futures farming the funding rate. Ethena <a href=\"https://app.ethena.fi/\" target=\"_blank\">now</a> offers 25% annualized yield (APY) to token holders, as frothy crypto markets elevated funding rates, <a href=\"https://www.coindesk.com/markets/2024/11/19/ethena-sees-1b-inflows-as-crypto-rally-brings-back-double-digit-yields\" target=\"_blank\">benefitting the protocol</a>.</p><p>The broad-market crypto rally also boosted trading volumes with stablecoin pairs on centralized exchanges, rising 77% month-over-month to $1.8 trillion, the report said. USDT was responsible for about 83% of the volumes, followed by Hong Kong-based First Digital's <a href=\"https://www.coindesk.com/markets/2023/06/01/first-digital-unveils-usd-stablecoin-as-hong-kong-crypto-rules-kick-in\" target=\"_blank\">FDUSD</a> 9% and USDC's 8% share.</p>",
         "summary": "<p>Stablecoin market capitalization rose to $190 billion this month, surpassing the pre-crypto winter peak of April 2022, CCData reported.</p><p>The crypto rally this year and particularly since the U.S. presidential election fueled demand for stablecoins, which are widely used for trading. </p><p>The emergence of novel tokenized investment products with fixed prices such as BlackRock's BUIDL and Ethena's USDe also helped growth for the sector.</p><p>Tether's USDT supply rose 10% over the last month to a new peak of $132 billion, while Circle's USDC grew 12% to almost $39 billion, the report said.</p>",
+        "ranking_score": 25
+    },
+    {
+        "source": "CryptoSlate",
+        "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
+        "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
+        "published": "2024-11-27T15:17:12Z",
+        "content": "<p>Blockchain firm <a href=\"https://cryptoslate.com/companies/ripple/\">Ripple</a> is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation.</p>\n<p>Established on Nov. 26 in France, the <a href=\"https://xrpl.org/blog/2024/a-new-era-for-the-xrp-ledger\">organization</a> aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community.</p>\n<p>The foundation is committed to ensuring long-term growth, security, and decentralized contributions to the XRPL. Its primary mission is to foster a thriving, inclusive, and resilient XRPL community. Developers and users will have a trusted platform to create decentralized applications, financial tools, and blockchain infrastructure.</p>\n<p>The group&#8217;s initial focus will be reclaiming assets from the previous XRPL Foundation. It also plans to implement a governance model representing developers, users, validators, academia, and infrastructure providers. Key contributors—including XRPL Commons, XRPL Labs, Ripple, and XAO DAO—will guide the foundation through board representation and decision-making roles.</p>\n<p>The XRPL blockchain continues to gain traction for its scalability, low costs, and regulatory compliance. Notably, its growing <a href=\"https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/\">role in tokenizing real-world assets (RWAs)</a> has attracted major institutional players like <a href=\"https://cryptoslate.com/societe-generale-expands-its-stablecoin-to-ripples-xrp-ledger-to-drive-further-adoption/\">SG-FORGE, the crypto division of Societe Generale.</a></p>\n<h2>Support for Bitwise XRP Fund</h2>\n<p>Meanwhile, Ripple is also ramping up support for <a href=\"https://cryptoslate.com/coins/xrp/\">XRP</a> through a strategic investment in <a href=\"https://cryptoslate.com/companies/bitwise/\">Bitwise&#8217;s</a> newly rebranded Physical XRP Exchange-Traded Product (ETP).</p>\n<p>Formerly known as ETC Group Physical XRP, the product exposes European investors to XRP through a physically backed structure holding the token.</p>\n<p>Bitwise CEO <a href=\"https://cryptoslate.com/people/hunter-horsley/\">Hunter Horsley</a> emphasized XRP&#8217;s reputation as one of the most recognized and reliable blockchain networks. He <a href=\"https://etc-group.com/newsroom/Press_Release_27_11_2024/\">added</a>:</p>\n<blockquote><p>&#8220;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto. XRPL is unique with over 10 years of track record in reliability, while continuing to expand in capabilities.&#8221;</p></blockquote>\n<p>Ripple CEO <a href=\"https://cryptoslate.com/people/brad-garlinghouse/\">Brad Garlinghouse</a> echoed this sentiment while noting a surge in global demand for crypto-backed investment products. He noted that recent regulatory clarity in the US will likely accelerate this trend, further boosting interest in offerings like the Bitwise Physical XRP ETP.</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "summary": "<p>Blockchain firm Ripple is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation. Established on Nov. 26 in France, the organization aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community. The [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
         "ranking_score": 25
     },
     {
@@ -603,6 +585,24 @@
         "ranking_score": 20
     },
     {
+        "source": "Bitcoinist",
+        "title": "$0.10 Solana Competitor Predicted to Skyrocket to $15 and Secure a Top 20 Spot, Before ...",
+        "link": "https://bitcoinist.com/0-10-solana-competitor-predicted-to-skyrocket-to-15-and-secure-a-top-20-spot-before-sol-touches-500/",
+        "published": "2024-11-27T17:51:14Z",
+        "content": "Rexas Finance is a <b>real</b>-<b>world asset</b> (RWA) tokenizing game-changer not just another token. Imagine with just a click owning a fraction of a Manhattan&nbsp;...",
+        "summary": null,
+        "ranking_score": 15
+    },
+    {
+        "source": "Benzinga",
+        "title": "$3 Trillion Opportunity: Infineo Chief Economist Discusses Blockchain And The Future Of ...",
+        "link": "https://www.benzinga.com/24/11/42218767/the-3-trillion-opportunity-blockchain-and-the-future-of-life-insurance",
+        "published": "2024-11-27T17:44:58Z",
+        "content": "He also expressed optimism for regulatory clarity and predicted further integration of <b>real</b>-<b>world assets</b> onto the blockchain. Dr. Robert Murphy, the&nbsp;...",
+        "summary": null,
+        "ranking_score": 15
+    },
+    {
         "source": "Cryptoglobe",
         "title": "Ripple Invests in Bitwise&#39;s XRP ETP as Token Price Surge | Cryptoglobe",
         "link": "https://www.cryptoglobe.com/latest/2024/11/ripple-invests-in-bitwises-xrp-etp-as-token-price-surge/",
@@ -621,29 +621,11 @@
         "ranking_score": 15
     },
     {
-        "source": "Cryptobriefing",
-        "title": "Ripple backs Bitwise Physical XRP ETP following its rebranding - Crypto Briefing",
-        "link": "https://cryptobriefing.com/ripple-invests-in-xrp-etp/",
-        "published": "2024-11-27T15:29:50Z",
-        "content": "... <b>real world</b> tokenization. “XRP and the XRP Ledger are among the most ... <b>assets</b> that are resilient and have <b>real</b>-<b>world</b> utility.” Bitwise&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Bravenewcoin",
-        "title": "Turning $750 into $1500000: In 2021 It Was Shiba Inu, In 2023 Pepe Coin, Which Penny ...",
-        "link": "https://bravenewcoin.com/insights/turning-750-into-1500000-in-2021-it-was-shiba-inu-in-2023-pepe-coin-which-penny-token-will-be-the-next",
-        "published": "2024-11-27T14:56:25Z",
-        "content": "... actual assets. ... Rexas Finance distinguishes itself from the sea of meme coins by emphasizing <b>real</b>-<b>world asset</b> tokenization, therefore orienting it&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Bitcoinist",
-        "title": "Top 10 <b>Real</b>-<b>World</b>-<b>Asset</b> Tokens to Buy in the 2024/25 Bull Run | Bitcoinist.com",
-        "link": "https://bitcoinist.com/top-10-real-world-asset-tokens-to-buy-in-the-2024-25-bull-run/",
-        "published": "2024-11-27T14:55:54Z",
-        "content": "Tokenized RWAs are booking. As of November 2024, <b>real</b>-<b>world assets</b> constitute one of the fastest-growing sectors within decentralized finance,&nbsp;...",
+        "source": "Thecryptobasic",
+        "title": "AI And DeFi Cryptos Lead The Charge In 2024: Top 5 Picks For Stunning ROI",
+        "link": "https://thecryptobasic.com/2024/11/27/ai-and-defi-cryptos-lead-the-charge-in-2024-top-5-picks-for-stunning-roi/",
+        "published": "2024-11-27T18:07:02Z",
+        "content": "CYBRO Trending <b>RWA</b> Altcoins. As 2024 draws near, a new wave is sweeping through the crypto&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -653,24 +635,6 @@
         "link": "https://www.crypto-news-flash.com/bitcoin-and-ethereum-whales-dump-billions-in-a-month-but-they-are-secretly-buying-this-rwa-altcoin-at-0-004/",
         "published": "2024-11-27T16:24:28Z",
         "content": "Ethereum (ETH) and Bitcoin (BTC) holders diversify their portfolios with the new PropiChain <b>RWA</b> altcoin, aiming for a 22403% rally from its&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Analyticsinsight",
-        "title": "Ripple (XRP) Gearing Up for a Bull Run: Will It be Anything Like 2017 After Trump&#39;s First Election?",
-        "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ripple-xrp-gearing-up-for-a-bull-run-will-it-be-anything-like-2017-after-trumps-first-election",
-        "published": "2024-11-27T15:04:48Z",
-        "content": "Rather, Rexas Finance (RXS), a project aiming at a $900 trillion market with its ambitious <b>RWA</b> tokenization approach, may provide the solution for&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Bitcoinist",
-        "title": "Top 10 Real-World-Asset Tokens to Buy in the 2024/25 Bull Run | Bitcoinist.com",
-        "link": "https://bitcoinist.com/top-10-real-world-asset-tokens-to-buy-in-the-2024-25-bull-run/",
-        "published": "2024-11-27T14:55:54Z",
-        "content": "As investors flock to the <b>RWA</b> revolution, many are searching for the next big <b>RWA</b> project and are weighing up the best <b>RWA</b> investments for Q4 of 2024&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -702,31 +666,31 @@
         "ranking_score": 15
     },
     {
-        "source": "Analyticsinsight",
-        "title": "Ripple (XRP) Gearing Up for a Bull Run: Will It be Anything Like 2017 After Trump&#39;s First Election?",
-        "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ripple-xrp-gearing-up-for-a-bull-run-will-it-be-anything-like-2017-after-trumps-first-election",
-        "published": "2024-11-27T15:04:48Z",
-        "content": "Ripple XRP Bull Run gains momentum, but Rexas Finance RXS and its Real-World Asset <b>Tokenization</b> offer unmatched growth. Don&#39;t miss the RXS Presale&nbsp;...",
+        "source": "Cryptobriefing",
+        "title": "Ripple backs Bitwise Physical XRP ETP following its rebranding - Crypto Briefing",
+        "link": "https://cryptobriefing.com/ripple-invests-in-xrp-etp/",
+        "published": "2024-11-27T15:29:50Z",
+        "content": "... <b>real world</b> tokenization. “XRP and the XRP Ledger are among the most ... <b>assets</b> that are resilient and have <b>real</b>-<b>world</b> utility.” Bitwise&nbsp;...",
         "summary": null,
-        "ranking_score": 15
+        "ranking_score": 5
     },
     {
-        "source": "Theprint",
-        "title": "Rexas Finance Presale Demand Exceeds Expectations, Stage 7 Ends Weeks Ahead of Schedule",
-        "link": "https://theprint.in/brandstand/adon/rexas-finance-presale-demand-exceeds-expectations-stage-7-ends-weeks-ahead-of-schedule/2376988/",
-        "published": "2024-11-27T14:48:28Z",
-        "content": "With <b>tokenization</b>, investors from any part of the world can own portions of properties, diversifying their portfolios without requiring significant&nbsp;...",
+        "source": "Bravenewcoin",
+        "title": "Turning $750 into $1500000: In 2021 It Was Shiba Inu, In 2023 Pepe Coin, Which Penny ...",
+        "link": "https://bravenewcoin.com/insights/turning-750-into-1500000-in-2021-it-was-shiba-inu-in-2023-pepe-coin-which-penny-token-will-be-the-next",
+        "published": "2024-11-27T14:56:25Z",
+        "content": "... actual assets. ... Rexas Finance distinguishes itself from the sea of meme coins by emphasizing <b>real</b>-<b>world asset</b> tokenization, therefore orienting it&nbsp;...",
         "summary": null,
-        "ranking_score": 15
+        "ranking_score": 5
     },
     {
-        "source": "Timesnownews",
-        "title": "Rexas Finance Crypto Price Prediction: RXS Will Hit $50 with Ease, Here&#39;s the Timeline",
-        "link": "https://www.timesnownews.com/bizz-impact/rexas-finance-crypto-price-prediction-rxs-will-hit-50-with-ease-heres-the-timeline-article-115704828",
-        "published": "2024-11-27T14:35:34Z",
-        "content": "Rexas Finance (RXS) distinguishes itself with its goal of providing efficient and real-world asset <b>tokenizing</b> access. , Bizz Impact News - Times&nbsp;...",
+        "source": "Bitcoinist",
+        "title": "Top 10 <b>Real</b>-<b>World</b>-<b>Asset</b> Tokens to Buy in the 2024/25 Bull Run | Bitcoinist.com",
+        "link": "https://bitcoinist.com/top-10-real-world-asset-tokens-to-buy-in-the-2024-25-bull-run/",
+        "published": "2024-11-27T14:55:54Z",
+        "content": "Tokenized RWAs are booking. As of November 2024, <b>real</b>-<b>world assets</b> constitute one of the fastest-growing sectors within decentralized finance,&nbsp;...",
         "summary": null,
-        "ranking_score": 15
+        "ranking_score": 5
     },
     {
         "source": "Bravenewcoin",
@@ -761,6 +725,24 @@
         "link": "https://en.cryptonomist.ch/2024/11/27/solana-trader-identifies-unmissable-opportunity-0-10-sol-alternative-predicted-hit-12-under-100-days/",
         "published": "2024-11-27T14:13:54Z",
         "content": "First, the initiative is capitalizing on the unexplored <b>real</b>-<b>world asset</b> tokenization market. Tokenized <b>real</b>-<b>world assets</b> are becoming more and&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
+        "source": "Analyticsinsight",
+        "title": "Ripple (XRP) Gearing Up for a Bull Run: Will It be Anything Like 2017 After Trump&#39;s First Election?",
+        "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ripple-xrp-gearing-up-for-a-bull-run-will-it-be-anything-like-2017-after-trumps-first-election",
+        "published": "2024-11-27T15:04:48Z",
+        "content": "Rather, Rexas Finance (RXS), a project aiming at a $900 trillion market with its ambitious <b>RWA</b> tokenization approach, may provide the solution for&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
+        "source": "Bitcoinist",
+        "title": "Top 10 Real-World-Asset Tokens to Buy in the 2024/25 Bull Run | Bitcoinist.com",
+        "link": "https://bitcoinist.com/top-10-real-world-asset-tokens-to-buy-in-the-2024-25-bull-run/",
+        "published": "2024-11-27T14:55:54Z",
+        "content": "As investors flock to the <b>RWA</b> revolution, many are searching for the next big <b>RWA</b> project and are weighing up the best <b>RWA</b> investments for Q4 of 2024&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
@@ -856,6 +838,33 @@
     },
     {
         "source": "Analyticsinsight",
+        "title": "Ripple (XRP) Gearing Up for a Bull Run: Will It be Anything Like 2017 After Trump&#39;s First Election?",
+        "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ripple-xrp-gearing-up-for-a-bull-run-will-it-be-anything-like-2017-after-trumps-first-election",
+        "published": "2024-11-27T15:04:48Z",
+        "content": "Ripple XRP Bull Run gains momentum, but Rexas Finance RXS and its Real-World Asset <b>Tokenization</b> offer unmatched growth. Don&#39;t miss the RXS Presale&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
+        "source": "Theprint",
+        "title": "Rexas Finance Presale Demand Exceeds Expectations, Stage 7 Ends Weeks Ahead of Schedule",
+        "link": "https://theprint.in/brandstand/adon/rexas-finance-presale-demand-exceeds-expectations-stage-7-ends-weeks-ahead-of-schedule/2376988/",
+        "published": "2024-11-27T14:48:28Z",
+        "content": "With <b>tokenization</b>, investors from any part of the world can own portions of properties, diversifying their portfolios without requiring significant&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
+        "source": "Timesnownews",
+        "title": "Rexas Finance Crypto Price Prediction: RXS Will Hit $50 with Ease, Here&#39;s the Timeline",
+        "link": "https://www.timesnownews.com/bizz-impact/rexas-finance-crypto-price-prediction-rxs-will-hit-50-with-ease-heres-the-timeline-article-115704828",
+        "published": "2024-11-27T14:35:34Z",
+        "content": "Rexas Finance (RXS) distinguishes itself with its goal of providing efficient and real-world asset <b>tokenizing</b> access. , Bizz Impact News - Times&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
+        "source": "Analyticsinsight",
         "title": "Is Cardano (ADA) in a Bull Run? Why $1.78 Could Be the Next Price Target",
         "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/is-cardano-ada-in-a-bull-run-why-178-could-be-the-next-price-target",
         "published": "2024-11-27T14:34:39Z",
@@ -878,15 +887,6 @@
         "link": "https://bitcoinist.com/8-altcoins-that-will-potentially-make-you-very-wealthy-in-the-next-8-weeks/",
         "published": "2024-11-27T14:25:53Z",
         "content": "Rexas Finance (RXS) is implementing revolutionary asset <b>tokenization</b> across the blockchain. With its price at $0.10 in the eighth presale stage, RXS&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Tradingview",
-        "title": "Ripple backs Bitwise Physical XRP ETP following its rebranding - TradingView",
-        "link": "https://www.tradingview.com/news/cryptobriefing:57f9323a9094b:0-ripple-backs-bitwise-physical-xrp-etp-following-its-rebranding/",
-        "published": "2024-11-27T14:19:01Z",
-        "content": "... <b>tokenization</b>. &quot;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto,&quot; said Hunter Horsley, CEO and co-founder of&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
