@@ -1,6 +1,60 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Institutions won&#039;t embrace Web3 without privacy options \u2014 Web3 exec",
+        "link": "https://cointelegraph.com/news/institutions-wont-embrace-web3-without-privacy-options-dop-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 17:21:27 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlMWEtMWY5My03Y2JiLTk5NzQtNzYyZjg1ZGVlYzEx.jpg\" /></p><p>Paradoxically, one of crypto's biggest selling points keeps institutions from embracing Web3 and distributed ledger technologies.</p>",
+        "content": "",
+        "categories": [
+            "Data Ownership Protocol",
+            "privacy",
+            "zero-knowledge tech",
+            "ZK",
+            "DOP",
+            "blockchain transparency"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Stablecoin trading volume surges to $1.8T in November",
+        "link": "https://cointelegraph.com/news/stablecoin-trading-volume-surges-1-8-t-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 17:00:00 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlN2QtMjRhNi03OWI1LWIxODMtOTkyM2U5OGJiMjJh.jpg\" /></p><p>Stablecoins trading volume saw a sharp increase, placing monthly volumes on exchanges on track to new highs in 2024.\u00a0</p>",
+        "content": "",
+        "categories": [
+            "Stablecoins",
+            "trading volume",
+            "records",
+            "USDT",
+            "USDC",
+            "USDE"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Watford FC partners with Cointelegraph to boost crypto adoption",
+        "link": "https://cointelegraph.com/news/watford-fc-cointelegraph-expand-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 16:50:42 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkMjgtY2M5Yy03MDZjLWI2OTMtZjM2NDE2OTg2YTcx.jpg\" /></p><p>Watford\u2019s collaboration with Cointelegraph reinforces the club\u2019s commitment to crypto, marking a new milestone in its crypto journey, which began in 2019.</p>",
+        "content": "",
+        "categories": [
+            "Watford FC",
+            "Bitcoin",
+            "Cryptocurrency",
+            "Adoption",
+            "Sport",
+            "Football",
+            "Soccer",
+            "Cointelegraph",
+            "Partnership",
+            "Bitcoin adoption",
+            "Sponsorship",
+            "Mainstream"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Vancouver mayor plans to introduce \u2018Bitcoin-friendly city\u2019 plans",
         "link": "https://cointelegraph.com/news/vancouver-mayor-ken-sim-bitcoin-reserve-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 27 Nov 2024 16:45:48 +0000",
@@ -453,51 +507,17 @@
         ]
     },
     {
-        "source": "CoinTelegraph",
-        "title": "Bitcoin down as Jim Cramer says crypto \u2018deserve a spot\u2019 in portfolio",
-        "link": "https://cointelegraph.com/news/bitcoin-down-jim-cramer-says-to-add-to-portfolio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 05:26:51 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiN2YtY2Q3Zi03YzZiLTlmN2YtNGNlMDI5YzA1NDc1.jpg\" /></p><p>Jim Cramer doubled down on his tip to buy crypto, saying he was \u201cgoing to call the top by recommending it yet again.\u201d</p>",
-        "content": "",
+        "source": "CoinDesk",
+        "title": "Bitcoin Miner IREN Surges on Renewed AI Interest, Possible BTC Dividend Payment",
+        "link": "https://www.coindesk.com/business/2024/11/27/bitcoin-miner-iren-surges-on-renewed-ai-interest-possible-btc-dividend-payment",
+        "published": "Wed, 27 Nov 2024 16:58:45 +0000",
+        "summary": "<p>IREN is seeing a resurgence of interest from tech data centers to host their AI-related computing machines.</p><p>Company executives also see the potential to pay a dividend in 2025.</p><p>The shares rose nearly 30% after the earnings conference call, outperforming peers.</p>",
+        "content": "<p>Bitcoin miner IREN (IREN) rose nearly 30% on Wednesday after executives said the company had received interest from an artificial intelligence (AI) firm and mentioned a potential dividend in BTC during an earnings conference call.</p><p>The Sydney-based company has been approached by a hyperscaler firm (large cloud service provider) for potentially hosting computing infrastructure at IREN's Sweetwater mining site in Texas, co-CEO and co-founder Daniel Roberts said on the call.</p><p>\"Two hours ago, we got an email from a trillion-dollar hyperscaler that said they weren't interested in Sweetwater, and now they are,\" Roberts said without giving out too many details.</p><p>\"We will continue not to provide guidance on specific terms or timing, given the uncertainties. Given the nature that we are dealing with counterparties, it is not all within our control. However, we continue to progress negotiations with some very large counterparties and hyperscalers,\" he said.</p><p>IREN is one of many miners attempting to diversify their revenue sources by securely hosting big tech companies' data centers for running machines to support surging demand for AI and high-performance computing (HPC). The shift started earlier this year after Bitcoin's fourth halving cut rewards by 50%, squeezing miners' profit margins. Rival Core Scientific (CORZ) <a href=\"https://www.coindesk.com/business/2024/10/23/bitcoin-miners-are-pivoting-to-ai-to-survive-core-scientific-entered-the-race-years-ago\" target=\"_blank\">started the trend</a> by signing AI hosting deals for billions of dollars, leading to its stock price surging and others to follow suit.</p><p>Read more: <a href=\"https://www.coindesk.com/markets/2024/10/08/bitcoin-miners-at-a-crossroads-gain-market-share-or-go-all-in-on-ai\" target=\"_blank\">Bitcoin Miners at a Crossroads: Gain Market Share or Go All-In on AI?</a></p><p>The mining company, formerly known as Iris Energy, <a href=\"https://www.globenewswire.com/news-release/2024/07/16/2913742/0/en/IREN-appoints-Morgan-Stanley-as-Financial-Advisor.html\" target=\"_blank\">appointed</a> Morgan Stanley in July to potentially monetize its mining facilities for the AI data center market. Its share price, however, languished most of this year and underperformed peers after a <a href=\"https://www.coindesk.com/markets/2024/07/12/iris-energy-has-committed-most-of-childress-site-to-expansion-of-bitcoin-mining-bernstein/?_gl=1*uu3ao5*_up*MQ..*_ga*MjEzNTI4NTIyNi4xNzMyNzIyOTk2*_ga_VM3STRYVN8*MTczMjcyMjk5NS4xLjAuMTczMjcyMjk5NS4wLjAuMTE4NDk0Mjg1Mg..\" target=\"_blank\">short seller</a> said one of its sites wasn't suitable for that type of work.</p><p>Comments from the conference call might have changed market perception as the stock outperformed on Wednesday.</p><h2>'Powerful' cashflow</h2><p>Executives also said bitcoin's surge to near-record highs may enable the company to pay a dividend.</p><p>\"The achievement of positive operating cash flows may support a potential for investor distribution in calendar year 2025,\" CFO Belinda Nucifora said.</p><p>The move would likely be seen as positive by the market, as many investors are looking to gain exposure to the surging bitcoin price. Aside from spot buying, traders are also looking to buy into the bull market through either exchange-traded funds or publicly traded firms such as MicroStrategy (MSTR) and MARA Holdings (MARA) that are purchasing bitcoin.</p><p>With IREN mining bitcoin at a significantly lower cost of about $29,000 compared with the market price of around $96,000, co-CEO Roberts said the company has opportunities to accumulate BTC at discounted prices, as opposed to other companies that pay spot prices.</p><p>\"When you look at the market today and you see a number of different companies accumulating bitcoin on their balance sheet, paying market price or close,\" Roberts said. \"I think the opportunity to generate $29,000-cash-cost bitcoin for investors and effectively distribute that coin out either through the physical coin \u2026 or as cash flow is pretty powerful,\" he added.</p><p>Read more: <a href=\"https://www.coindesk.com/markets/2024/07/24/iris-energy-is-positioned-to-become-one-of-the-biggest-listed-bitcoin-miners-canaccord\" target=\"_blank\">Iren Is Positioned to Become One of the Biggest Listed Bitcoin Miners: Canaccord</a></p><p>\n</p>",
         "categories": [
-            "Jim Cramer",
-            "Crypto investment",
-            "inverse Cramer effect",
-            "Mad Money",
-            "Cramer predictions",
-            "cryptocurrency market correction",
-            "market volatility",
-            "financial commentary."
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Bitcoin could drop 20% if moves stay tied with M2 money supply: Analyst",
-        "link": "https://cointelegraph.com/news/bitcoin-analyst-claims-price-correction-m2-money-supply-correlation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 04:14:42 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiODAtYjY5MC03ZTQ4LTg1MTUtMWYzMzlhYjY4Y2M4.jpg\" /></p><p>An analyst says Bitcoin\u2019s correlation with the global M2 suggests it could imminently drop 20%, but not all observers agree.</p>",
-        "content": "",
-        "categories": [
-            "Joe Consorti",
-            "David Quintieri",
-            "James Check",
-            "Scott Bessent"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Oracle Corp again sues crypto firm for alleged trademark infringement",
-        "link": "https://cointelegraph.com/news/oracle-corp-again-sues-crypto-oracle-trademark-infringement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 04:09:18 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiNWQtMjQ3ZS03NTljLThkZjQtNWEwNTcwNmNiMDBl.jpg\" /></p><p>Oracle Corporation sued Crypto Oracle, claiming it had \u201cegregiously and flagrantly violated\u201d a past settlement agreement and court injunction.</p>",
-        "content": "",
-        "categories": [
-            "Oracle",
-            "software",
-            "lawsuit",
-            "trademark",
-            "CryptoOracle",
-            "court"
+            "Finance",
+            "Earnings",
+            "Earnings Calls",
+            "Bitcoin Mining"
         ]
     },
     {
@@ -838,21 +858,6 @@
             "Bitcoin",
             "Ether",
             "First Mover"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Bitcoin Long-Term Holders Have 163K More BTC to Sell, History Indicates: Van Straten",
-        "link": "https://www.coindesk.com/markets/2024/11/26/bitcoin-long-term-holders-have-163-k-more-btc-to-sell-history-indicates-van-straten",
-        "published": "Tue, 26 Nov 2024 11:12:47 +0000",
-        "summary": "<p>Long-term investors have sold almost 550,000 BTC, almost 4% of their holdings.</p><p>Last week, one-day profit-taking touched a record high in dollar terms, more than $10.5 billion. </p><p>The percentage drop from long-term holders continues to fall each cycle.</p>",
-        "content": "<p>Bitcoin (BTC) has dropped 7.6% since it almost \u2014 but not quite \u2014 touched the psychological wall of $100,000 on Nov. 22.</p><p>That's the biggest drop since Donald Trump won the U.S. presidential election, sparking a rally that sent the largest cryptocurrency by market capitalization soaring from a level of around $66,000 through its record high.</p><p>Even so, the slide isn't out of the ordinary. In bull markets bitcoin typically tumbles as much as 20% or even 30%, so-called corrections that tend to flush out leverage in an overheated market. </p><p>A large part of the reason the bitcoin price didn't get to $100,000 was the amount of profit-taking that took place. A record dollar value of $10.5 billion of profit-taking took place on Nov. 21, according to Glassnode data, the biggest day of profit-taking ever witnessed in bitcoin. </p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/30f9977f1dc943c1019a32c872a8fafa5d563166-1800x1013.png\" /><p>At the root of the action are the long-term holders (LTH), a group Glassnode defines as having held their bitcoin for more than 155 days. These investors are considered \"smart money\" because they tend to buy when the BTC price is depressed and sell in times of greed or euphoria. </p><p>From September to November 2024, these investors have sold 549,119 BTC, or about 3.85% of their holdings. Their sales, which started in October and have accelerated since, even outweighed buying from the likes of <a href=\"https://www.coindesk.com/business/2024/11/25/michael-saylors-micro-strategy-makes-mammoth-btc-purchase-adding-55-500-tokens-for-5-4-b\" target=\"_blank\">MicroStrategy (MSTR)</a> and the U.S. spot-listed exchange-traded funds (ETFs).</p><p></p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/bc722dce2b3fc059e78353e21055aaa0e66feb26-844x363.png\" /><p></p><p>How long is this selling pressure going to last? </p><p>What's noticeable from patterns in previous bull markets in 2017, 2021 and early 2024, is that the percentage drop gets smaller each cycle. </p><p>In 2017, the percentage drop was 25.3%, in 2021 it reached 13.4% and earlier this year it was 6.51%. It's currently 3.85%. If this rate of decline were to continue, that would see another 1.19% drop or 163,031 BTC, which would take the cohort's supply to 13.54 million BTC. </p><p>Each time, the long-term investors' supply makes higher lows and higher highs, so this would also be in line with the trend. \n\n</p>",
-        "categories": [
-            "Markets",
-            "btc",
-            "Bitcoin",
-            "MicroStrategy",
-            "ETF"
         ]
     },
     {
@@ -1446,6 +1451,29 @@
     },
     {
         "source": "Decrypt",
+        "title": "Bitcoin Layer-2 GOAT Network Will Let Users Stake Dogecoin to Earn Crypto",
+        "link": "https://decrypt.co/293494/bitcoin-layer-2-goat-network-stake-dogecoin",
+        "published": "Wed, 27 Nov 2024 17:01:02 +0000",
+        "summary": "GOAT Network said that Dogecoin holders can lock up their meme coins to help secure the yet-to-be-launched Bitcoin layer-2.",
+        "content": "",
+        "categories": [
+            "dogecoin",
+            "DeFi"
+        ]
+    },
+    {
+        "source": "Decrypt",
+        "title": "What Are Coin Mixers and How Do They Work?",
+        "link": "https://decrypt.co/resources/what-are-coin-mixers-tornado-cash-how-do-they-work",
+        "published": "Wed, 27 Nov 2024 17:00:46 +0000",
+        "summary": "Coin mixers like Tornado Cash have faced sanctions for aiding money laundering, but advocates argue they have legitimate use cases.",
+        "content": "",
+        "categories": [
+            "Technology Guides"
+        ]
+    },
+    {
+        "source": "Decrypt",
         "title": "This Public Company's Stock Price Just Doubled After Revealing Bitcoin Buying Plan",
         "link": "https://decrypt.co/293850/sos-ltd-bitcoin-treasury-reserve",
         "published": "Wed, 27 Nov 2024 16:46:31 +0000",
@@ -1767,28 +1795,6 @@
     },
     {
         "source": "Decrypt",
-        "title": "Bitcoin Dips to $93,000 With $400 Million in Longs Rekt. Where to From Here?",
-        "link": "https://decrypt.co/293537/bitcoin-dips-to-93000-with-400-million-in-longs-rekt-where-to-from-here",
-        "published": "Mon, 25 Nov 2024 23:41:05 +0000",
-        "summary": "Market makers may be intentionally driving prices down to trigger a liquidation of leveraged longs, Decrypt was told.",
-        "content": "",
-        "categories": [
-            "Markets"
-        ]
-    },
-    {
-        "source": "Decrypt",
-        "title": "Rumble Adopts Bitcoin Treasury Strategy, Echoing Moves by MicroStrategy",
-        "link": "https://decrypt.co/293529/rumble-adopts-bitcoin-treasury-strategy-echoing-moves-by-microstrategy",
-        "published": "Mon, 25 Nov 2024 23:16:14 +0000",
-        "summary": "The timing and extent of Rumble\u2019s Bitcoin purchases will depend on market conditions,  trading prices, and the company\u2019s liquidity needs",
-        "content": "",
-        "categories": [
-            "Business"
-        ]
-    },
-    {
-        "source": "Decrypt",
         "title": "Bitcoin Dominance Falls, Bessent picked for Treasury, PumpFun streams Criticised",
         "link": "https://decrypt.co/videos/interviews/zFg1kbd8/bitcoin-dominance-falls-bessent-picked-for-treasury-pumpfun-streams-criticised",
         "published": "Mon, 25 Nov 2024 16:15:37 +0000",
@@ -2097,6 +2103,64 @@
     },
     {
         "source": "TechCrunch",
+        "title": "OpenAI moves to trademark its \u2018reasoning\u2019 models",
+        "link": "https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/",
+        "published": "Wed, 27 Nov 2024 17:17:19 +0000",
+        "summary": "<p>OpenAI has filed a trademark application for its latest AI model, o1, as the firm moves to shield its IP. On Tuesday, OpenAI submitted paperwork to the U.S. Patent and Trademark Office (USPTO) to register the trademark &#8220;OpenAI o1.&#8221; Interestingly, the documents reveal that OpenAI filed for a foreign trademark application in Jamaica in May, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "AI"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for DOGE and other Trump committees",
+        "link": "https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/",
+        "published": "Wed, 27 Nov 2024 17:10:37 +0000",
+        "summary": "<p>With Elon Musk playing such a high-profile role in Donald Trump\u2019s transition team, Musk\u2019s buddies, many of them Silicon Valley venture capitalists, are reportedly being tapped to help out. For instance, VC firm Andreessen Horowitz, and in particular co-founder Marc Andreessen, is repeatedly being mentioned. He, along with Antonio Gracias and Joe Lonsdale, are reportedly [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Crypto",
+            "Government & Policy",
+            "Venture",
+            "Andreessen Horowitz",
+            "Joe Lonsdale",
+            "Trump"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "ElevenLabs\u2019 new feature is a NotebookLM competitor for creating GenAI podcasts",
+        "link": "https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/",
+        "published": "Wed, 27 Nov 2024 17:00:00 +0000",
+        "summary": "<p>Voice AI startup ElevenLabs on Wednesday introduced a feature that lets you upload different types of content to create a multi-speaker podcast for you, similar to Google&#8217;s NotebookLM. The feature, called GenFM, can be found on the company&#8217;s ElevenLabs Reader iOS app. Currently, GenFM supports 32 languages, including English, Hindi, Portuguese, Chinese, Spanish, French, German, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "AI",
+            "Apps",
+            "podcasts",
+            "ai voices",
+            "ElevenLabs",
+            "Google NotebookLM"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "TuSimple co-founder demands liquidation, sues company for control of his shares",
+        "link": "https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/",
+        "published": "Wed, 27 Nov 2024 16:48:45 +0000",
+        "summary": "<p>Xiaodi Hou, the co-founder and former CEO of self-driving truck startup TuSimple, is demanding that the board immediately liquidate the company and return all remaining funds \u2013 roughly $450 million \u2013 to shareholders \u201con a pure pro-rata basis, regardless of share class,\u201d according to a letter that TechCrunch has viewed.&#160; Hou is also suing TuSimple [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Startups",
+            "Transportation",
+            "bot auto",
+            "TuSimple",
+            "xiaodi hou"
+        ]
+    },
+    {
+        "source": "TechCrunch",
         "title": "Elon Musk\u2019s AI company may release a consumer app",
         "link": "https://techcrunch.com/2024/11/27/elon-musks-ai-company-may-release-a-consumer-app/",
         "published": "Wed, 27 Nov 2024 16:46:29 +0000",
@@ -2190,11 +2254,11 @@
         "content": "",
         "categories": [
             "Hardware",
+            "Raspberry Pi",
+            "Raspberry Pi Foundation",
             "Compute Module",
             "Compute Module 5",
-            "Raspberry Pi",
-            "Raspberry Pi Compute Module 5",
-            "Raspberry Pi Foundation"
+            "Raspberry Pi Compute Module 5"
         ]
     },
     {
@@ -2346,69 +2410,6 @@
             "IPO",
             "servicetitan",
             "term sheet"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Uber is building a fleet of gig workers to label data for AI models",
-        "link": "https://techcrunch.com/2024/11/26/uber-is-building-a-fleet-of-gig-workers-to-label-data-for-ai-models/",
-        "published": "Tue, 26 Nov 2024 19:52:43 +0000",
-        "summary": "<p>Uber is expanding its fleet of gig workers and creating a new category: AI annotation and data labeling. The ride-hailing company has started hiring contractors for a new AI and data labeling division called Scaled Solutions. These workers complete projects for Uber&#8217;s internal business units but are also serving outside customers including self-driving vehicle company [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "AI",
-            "Transportation",
-            "artificial intelligence",
-            "Aurora Innovation",
-            "data labeling",
-            "In Brief",
-            "niantic",
-            "Uber"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "FTC finds that smart device makers fail to make clear how long their products will be supported",
-        "link": "https://techcrunch.com/2024/11/26/ftc-finds-that-smart-device-makers-fail-to-make-clear-how-long-their-products-will-be-supported/",
-        "published": "Tue, 26 Nov 2024 19:48:49 +0000",
-        "summary": "<p>A new paper from the Federal Trade Commission found that many smart device makers fail to disclose to consumers how long they will provide software updates for their products. The agency looked at 184 different smart devices, ranging from hearing aids to security cameras, and found that nearly 89% of them don\u2019t provide buyers with [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Government & Policy",
-            "Hardware",
-            "FTC",
-            "smart devices"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Russia-linked hackers exploited Firefox and Windows bugs in \u2018widespread\u2019 hacking campaign",
-        "link": "https://techcrunch.com/2024/11/26/russia-linked-hackers-exploited-firefox-and-windows-zero-day-bugs-in-widespread-hacking-campaign/",
-        "published": "Tue, 26 Nov 2024 19:33:26 +0000",
-        "summary": "<p>The Russia-aligned RomCom gang exploited the vulnerabilities to target hundreds of Firefox users across Europe and North America.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Security",
-            "security",
-            "hacking",
-            "vulnerability",
-            "cybersecurity",
-            "zero day",
-            "ESET"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "This Mexican fintech isn\u2019t too worried about Trump\u2019s tariff threats",
-        "link": "https://techcrunch.com/2024/11/26/this-mexican-fintech-isnt-too-worried-about-trumps-tariff-threats/",
-        "published": "Tue, 26 Nov 2024 19:05:00 +0000",
-        "summary": "<p>Welcome to TechCrunch Fintech! This week, we\u2019re taking a look at: If you&#8217;d like to receive the Fintech newsletter in your inbox every Tuesday, sign up here! The big story Trump\u2019s tariff threats don\u2019t scare this Mexican fintech Mexico\u2019s economic development has made it a fertile ground for startups. But the trend is under threat [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Fintech",
-            "LATAM",
-            "Tariffs",
-            "TechCrunch Fintech"
         ]
     }
 ]
