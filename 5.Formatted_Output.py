@@ -31,25 +31,32 @@ def clean_text(text):
     text = text.replace("&amp;", "&")
     return text
 
-def format_date(date_str):
-    """Formats the date into a more readable format."""
+def relative_time(date_str):
+    """Converts a timestamp into a relative time string with emojis."""
     try:
-        date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")  # Fix datetime string parsing
-        return date_obj.strftime("%d-%b-%y %H:%M")
+        date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        now = datetime.now(timezone.utc)
+        delta = now - date_obj
+
+        # Convert time delta into a human-readable string with emojis
+        if delta < timedelta(hours=1):
+            return f"⚡ Just now"
+        elif delta < timedelta(days=1):
+            hours = int(delta.total_seconds() / 3600)
+            return f"⌚ {hours} hour{'s' if hours > 1 else ''} ago"
+        else:
+            days = delta.days
+            return f"📅 {days} day{'s' if days > 1 else ''} ago"
     except ValueError:
-        try:
-            date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")  # Handle millisecond timestamps
-            return date_obj.strftime("%d-%b-%y %H:%M")
-        except ValueError:
-            return date_str  # Return the original date string if parsing fails
+        return "unknown time"
 
 def process_data(data):
     unique_titles = {}
     for item in data:
         # Clean title and remove repeated source
         item["title"] = clean_title(clean_text(item.get("title")), item.get("source"))
-        # Format the date
-        item["published"] = format_date(item.get("published"))
+        # Convert published date to relative time with emojis
+        item["published"] = relative_time(item.get("published"))
         # Create a unique identifier for each entry based on title and source
         key = (item["title"], item.get("source"))
 
@@ -73,4 +80,3 @@ formatted_data = process_data(data)
 # Save the formatted data back to a new JSON file
 with open(output_file, "w") as outfile:
     json.dump(formatted_data, outfile, indent=4)
-
