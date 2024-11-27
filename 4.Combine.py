@@ -15,7 +15,7 @@ KEYWORDS = ["real world assets", "real-world assets", "RWA", "Tokenisation", "To
 
 # Source tiers for scoring
 TOP_SOURCES = ["Cointelegraph", "Coindesk", "Blockworks", "TechCrunch"]
-MID_SOURCES = ["Decrypt", "The Block", "Byit", "Binance"]
+MID_SOURCES = ["Decrypt", "The Block", "Bybit", "Binance"]
 LOW_SOURCES = ["Unknown"]
 
 # Load the company list from a .txt file
