@@ -1,23 +1,5 @@
 [
     {
-        "source": "Binance",
-        "title": "When it comes to the RWA trend then there is non-stop talk o",
-        "link": "https://www.binance.com/fr-AF/square/post/16761190097081",
-        "published": "13h ago",
-        "content": "When it comes to the <b>RWA</b> trend then there is non-stop talk on Ondo Finance ($ONDO) or Realio Network ($RIO) but there is one <b>RWA</b> project with a 5&nbsp;...",
-        "summary": null,
-        "ranking_score": 90
-    },
-    {
-        "source": "Bybit",
-        "title": "Ondo Launches Institutional-Grade Bridging for Tokenized RWAs with LayerZero Security",
-        "link": "https://learn.bybit.com/daily-bits/ondo-launches-institutional-grade-bridging-for-tokenized-rwas/",
-        "published": "8h ago",
-        "content": "Ondo Finance has launched a new institutional-grade bridging solution for <b>tokenized</b> real-world assets (RWAs), leveraging LayerZero&#39;s decentralized&nbsp;...",
-        "summary": null,
-        "ranking_score": 90
-    },
-    {
         "source": "Coindesk",
         "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms",
         "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
@@ -27,20 +9,11 @@
         "ranking_score": 75
     },
     {
-        "source": "Crowdfundinsider",
-        "title": "RWAs: OpenTrade Raises $4 Million In Seed Funding To Build Asset Backed Lending ...",
-        "link": "https://www.crowdfundinsider.com/2024/11/233478-rwas-opentrade-raises-4-million-in-seed-funding-to-build-asset-backed-lending-stablecoin-products/",
-        "published": "2h ago",
-        "content": "OpenTrade has closed on a $4 million &quot;Seed extension round&quot; as it seeks to build out <b>real</b>-<b>world asset</b>-backed lending and stablecoin yield&nbsp;...",
-        "summary": null,
-        "ranking_score": 70
-    },
-    {
-        "source": "Binance",
-        "title": "Dogecoin Whales Quietly Accumulate a Rival RWA Altcoin Set to Match DOGE's 2021 Gains ...",
-        "link": "https://www.binance.com/en/square/post/16778744356929",
-        "published": "13h ago",
-        "content": "Below are lessons from Dogecoin&#39;s exponential growth, including how to make informed decisions about investing in this DOGE rival <b>RWA</b> altcoin. The&nbsp;...",
+        "source": "Bybit",
+        "title": "Ondo Launches Institutional-Grade Bridging for Tokenized RWAs with LayerZero Security",
+        "link": "https://learn.bybit.com/daily-bits/ondo-launches-institutional-grade-bridging-for-tokenized-rwas/",
+        "published": "8h ago",
+        "content": "Ondo Finance has launched a new institutional-grade bridging solution for <b>tokenized</b> real-world assets (RWAs), leveraging LayerZero&#39;s decentralized&nbsp;...",
         "summary": null,
         "ranking_score": 70
     },
@@ -48,10 +21,19 @@
         "source": "Cointelegraph",
         "title": "Ripple, Archax debut first tokenized money market fund on XRP Ledger",
         "link": "https://cointelegraph.com/news/ripple-launched-first-tokenized-money-market-fund-on-xrp-ledger",
-        "published": "11h ago",
+        "published": "12h ago",
         "content": "Ripple has <b>tokenized</b> asset manager abrdn&#39;s $4.77 billion US dollar Liquidity Fund on XRP Ledger, the first money market fund of its kind on its&nbsp;...",
         "summary": null,
         "ranking_score": 70
+    },
+    {
+        "source": "Crowdfundinsider",
+        "title": "RWAs: OpenTrade Raises $4 Million In Seed Funding To Build Asset Backed Lending ...",
+        "link": "https://www.crowdfundinsider.com/2024/11/233478-rwas-opentrade-raises-4-million-in-seed-funding-to-build-asset-backed-lending-stablecoin-products/",
+        "published": "3h ago",
+        "content": "OpenTrade has closed on a $4 million &quot;Seed extension round&quot; as it seeks to build out <b>real</b>-<b>world asset</b>-backed lending and stablecoin yield&nbsp;...",
+        "summary": null,
+        "ranking_score": 60
     },
     {
         "source": "Livebitcoinnews",
@@ -63,19 +45,10 @@
         "ranking_score": 60
     },
     {
-        "source": "Binance",
-        "title": "Solana and Cardano's 5x Growth Potential Has Top SOL and ADA Wallets Accumulating ...",
-        "link": "https://www.binance.com/en/square/post/16806392537330",
-        "published": "3h ago",
-        "content": "... <b>real</b>-<b>world asset</b> tokenization lets users invest in and trade physical assets worldwide. These elements taken together help Rexas Finance to be a&nbsp;...",
-        "summary": null,
-        "ranking_score": 55
-    },
-    {
         "source": "Blockchainreporter",
         "title": "The R0AR Team Sets Out Path To Crypto RWA Success",
         "link": "https://blockchainreporter.net/the-r0ar-team-sets-out-path-to-crypto-rwa-success/",
-        "published": "7h ago",
+        "published": "8h ago",
         "content": "RWAs refer to any tangible or intangible <b>asset</b> that exists in the physical <b>world</b> and has value. This can include a wide range of <b>assets</b>, such as <b>real</b>&nbsp;...",
         "summary": null,
         "ranking_score": 50
@@ -84,7 +57,7 @@
         "source": "Financefeeds",
         "title": "Zodia Taps Securitize To Expand Institutional Access To Tokenized Assets",
         "link": "https://financefeeds.com/zodia-taps-securitize-to-expand-institutional-access-to-tokenized-assets/",
-        "published": "11h ago",
+        "published": "12h ago",
         "content": "... <b>real</b>-<b>world assets</b>. This includes high-profile offerings like BUIDL, which has seen rapid adoption in the institutional market. \u201cBUIDL&#39;s sharp rise&nbsp;...",
         "summary": null,
         "ranking_score": 50
@@ -93,7 +66,7 @@
         "source": "Morungexpress",
         "title": "RWA organises 1st Open Ngada Mini Hornbill Naga Wrestling C'ship",
         "link": "https://morungexpress.com/rwa-organises-1st-open-ngada-mini-hornbill-naga-wrestling-cship",
-        "published": "\u26a1 Just now",
+        "published": "1h ago",
         "content": "Our Correspondent Kohima | November 27. The Rengma Wrestling Association (<b>RWA</b>) with the support of Rengma Sports&#39; Association today conducted 1st&nbsp;...",
         "summary": null,
         "ranking_score": 50
@@ -102,8 +75,17 @@
         "source": "Abplive",
         "title": "Rwa Giant Rexas Finance Ends Presale Stage 7 Faster Than Predicted Raising $16250000",
         "link": "https://news.abplive.com/brand-wire/rwa-giant-rexas-finance-ends-presale-stage-7-faster-than-predicted-raising-16250000-where-to-buy-rxs-crypto-1734231",
-        "published": "1h ago",
+        "published": "2h ago",
         "content": "Concluding Stage 7 ahead of schedule, the project raised $16,250,000, cementing its position as a leading force in real-world asset (<b>RWA</b>) tokenization&nbsp;...",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Binance",
+        "title": "Dogecoin Whales Quietly Accumulate a Rival RWA Altcoin Set to Match DOGE's 2021 Gains ...",
+        "link": "https://www.binance.com/en/square/post/16778744356929",
+        "published": "14h ago",
+        "content": "Below are lessons from Dogecoin&#39;s exponential growth, including how to make informed decisions about investing in this DOGE rival <b>RWA</b> altcoin. The&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
@@ -111,8 +93,17 @@
         "source": "Jdsupra",
         "title": "UK embraces DLT and tokenisation: direction of travel",
         "link": "https://www.jdsupra.com/legalnews/uk-embraces-dlt-and-tokenisation-6322497/",
-        "published": "\u26a1 Just now",
+        "published": "1h ago",
         "content": "Future regime for cryptoassets in the UK. During her keynote speech at the <b>Tokenisation</b> Summit 2024 on 21 November 2024, Tulip Siddiq MP (Economic&nbsp;...",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Panewslab",
+        "title": "An article explaining OpenEden in detail: Binance invests in RWA, a new option for U.S. ...",
+        "link": "https://www.panewslab.com/en/articledetails/9i78coow61z0.html",
+        "published": "1h ago",
+        "content": "As a RWA (real world asset) <b>tokenization</b> protocol, OpenEden mainly focuses on the field of U.S. Treasury bond on-chain, and its operating mechanism is&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
@@ -120,7 +111,7 @@
         "source": "Newsbtc",
         "title": "Kima successfully executes the first CBDC purchase of tokenized stocks on a stock exchange",
         "link": "https://www.newsbtc.com/news/kima-successfully-executes-the-first-cbdc-purchase-of-tokenized-stocks-on-a-stock-exchange/",
-        "published": "\u26a1 Just now",
+        "published": "1h ago",
         "content": "Kima completes the first CBDC transaction of a <b>tokenized</b> stock during the Bank of Israel event at the Tel Aviv Stock Exchange Kima&#39;s secure.",
         "summary": null,
         "ranking_score": 50
@@ -147,19 +138,10 @@
         "source": "Crypto",
         "title": "Zodia Custody teams up with Securitize for institutional access to tokenized assets",
         "link": "https://crypto.news/zodia-custody-teams-up-with-securitize-for-institutional-access-to-tokenized-assets/",
-        "published": "14h ago",
+        "published": "15h ago",
         "content": "<b>Tokenization</b> involves converting physical assets like real estate, stocks, or funds into digital tokens stored on a blockchain. These tokens represent&nbsp;...",
         "summary": null,
         "ranking_score": 50
-    },
-    {
-        "source": "Binance",
-        "title": "This Bull Run's Biggest Gainer Won't be Solana (SOL) or Shiba Inu (SHIB), But Here's One ...",
-        "link": "https://www.binance.com/en/square/post/16760251104954",
-        "published": "16h ago",
-        "content": "Rexas Finance is setting out to change how <b>real</b>-<b>world assets</b> (RWA) are tokenized, a trillion-dollar industry. By using this innovative approach,&nbsp;...",
-        "summary": null,
-        "ranking_score": 45
     },
     {
         "source": "Blockster",
@@ -174,27 +156,36 @@
         "source": "Benzinga",
         "title": "'Institutions Are Ready To Play': How Blockchain Is Gaining Traction In Traditional Finance",
         "link": "https://www.benzinga.com/24/11/42218282/institutions-are-ready-to-play-how-blockchain-is-gaining-traction-in-traditional-finance",
-        "published": "\u26a1 Just now",
+        "published": "1h ago",
         "content": "DiRaimondo also touched on real estate <b>tokenization</b> as a transformative development. SteelWave&#39;s focus on <b>tokenized</b> real estate aims to make&nbsp;...",
         "summary": null,
+        "ranking_score": 45
+    },
+    {
+        "source": "Blockchainreporter",
+        "title": "Mansa Finance, Clearpool Partners to Rollout DeFi Trade-Finance on Ozean blockchain",
+        "link": "https://blockchainreporter.net/mansa-finance-clearpool-partners-to-rollout-defi-trade-finance-on-ozean-blockchain/",
+        "published": "2h ago",
+        "content": "<b>Tokenization</b> can transform cross-border transactions and finance trade by making them more affordable, secure, and efficient. Real-world assets, like&nbsp;...",
+        "summary": null,
+        "ranking_score": 45
+    },
+    {
+        "source": "CoinDesk",
+        "title": "EU Approves Commissioners, Including Ones Who Will Likely Oversee Crypto Rules",
+        "link": "https://www.coindesk.com/policy/2024/11/27/eu-approves-commissioners-including-ones-who-will-likely-oversee-crypto-rules",
+        "published": "\u26a1 Just now",
+        "content": "<p>The European Parliament approved its slate of commissioners <a href=\"https://www.europarl.europa.eu/news/en/press-room/20241121IPR25546/parliament-approves-the-von-der-leyen-ii-commission\" target=\"_blank\">on Wednesday</a>, including the individuals who will be responsible for monitoring regulations around digital assets.</p><p>In September, European Parliament President Ursula Von der Leyen <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_24_4723\" target=\"_blank\">proposed a list of commissioners</a>. While crypto did not stand out as a core topic amongst the roles, this group will be responsible for ensuring digital asset rules are implemented.</p><p>The European Union (EU), a bloc of 27 nations, was the first major jurisdiction in the world to establish <a href=\"https://www.coindesk.com/policy/2023/05/31/eu-formally-signs-new-crypto-licensing-money-laundering-rules-into-law/\" target=\"_blank\">a bespoke crypto legislative package last year, otherwise known as the Markets in Crypto Assets</a> legislation (MiCA). <a href=\"https://www.coindesk.com/policy/2024/06/27/eus-restrictive-stablecoin-rules-take-effect-soon-and-issuers-are-running-out-of-time/\" target=\"_blank\">Stablecoin rules came into force in June, while the rest of the rules are expected to come in force by December</a>.</p><p>\"I don't expect a big legislative agenda in the blockchain space and in the digital space per se, over the next year or so,\" said Mark Foster, EU policy lead at the Crypto Council for Innovation.</p><p>Though no commissioner role is solely dedicated to crypto, the EU still has to ensure MiCA is being followed. Some commissioners will have digital assets fall within their remit as the nation advances its crypto rules, Foster said.</p><p>\"What the industry is really wanting is the EU to continue to discuss with its international partners and ensure that the rules that are being developed across the globe are to the extent possible, interoperable, consistent, and have the same goals,\" Foster said.</p><p>The commissioners have also been tasked with exploring whether or not more regulation is needed.</p><p>\"According, to MiCA, we are also required to present a report on the latest developments with respect to crypto assets, including an assessment of the necessity and feasibility of regulating decentralized finance activities, lending and borrowing of crypto assets, as well as non-fungible tokens,\" said Marcel Haag, director of Horizontal Policies at the European Commission, at a Crypto Council for Innovation Forum last week.</p><p>They will also have to decide whether or not to terminate the <a href=\"https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime\" target=\"_blank\">Distributed Ledger Technology</a> pilot or make it permanent and review a proposal for establishing a legal framework for the digital euro, a central bank digital currency issued by the European Central Bank.</p><p>The commission is also set to launch a legal analysis on the suitability of member states' legislation for financial asset tokenization, Haag said.</p><p>Read more: <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA, EU\u2019s Comprehensive New Crypto Regulation, Explained</a></p><h2>The Commission</h2><p>The EU commission is the executive branch of the EU. Each member state has to select one person to form the commission.</p><p>Von der Leyen, who asked for a balanced gender group of commissioners, had the task of choosing what roles each person will take on for the next five years. People were appointed for roles on trade, climate, technology, economy, international partnership, finance and more.</p><p>Each commissioner will have their own focus, but Von der Leyen said in her <a href=\"https://commission.europa.eu/about-european-commission/towards-new-commission-2024-2029/commissioners-designate-2024-2029_en\" target=\"_blank\">mission letters</a> the priorities are not standalone and will affect each other.</p><p>Plus, crypto is a trans-sectoral topic, Faustine Fleuret, president of industry group ADAN that focuses on Web3 said, adding that they could \"engage with everyone\" in the commission when it comes to the sector.</p><p>Commissioners from Portugal, Finland and France will likely have some purview over crypto.</p><h2>St\u00e9phane S\u00e9journ\u00e9</h2><p>France's St\u00e9phane S\u00e9journ\u00e9 has been chosen to be the executive vice-president for prosperity and industrial strategy, as well as the commissioner for industry, small and medium-sized enterprises (SMEs) and the single market.</p><p>This <a href=\"https://commission.europa.eu/document/6ef52679-19b9-4a8d-b7b2-cb99eb384eca_en\" target=\"_blank\">job would include improving access to finance</a>, simplifying the regulatory environment and promoting innovation for small and medium-sized enterprises. He will also oversee a project called the \"horizontal single market strategy\" that will require him to address barriers to the movement of goods and services abroad. His role could bring crypto under his oversight, Fleuret said.</p><p>Fleuret said she could see the industry pushing Web3 interests and positions on \"trade and economic safety, finance, the capital market union, innovation and research\" to S\u00e9journ\u00e9.</p><p>\"We had previous relations with St\u00e9phane S\u00e9journ\u00e9 during the MiCA negotiation, and at that stage, he was quite open to innovation,\" Fleuret said, adding that he believed in regulating the sector but knew not to hamper crypto with rules that were too strict.</p><h2>Maria Lu\u00eds Albuquerque</h2><p>Portugal's <a href=\"https://commission.europa.eu/document/ac06a896-2645-4857-9958-467d2ce6f221_en\" target=\"_blank\">Maria Lu\u00eds Albuquerque</a> will be the commissioner for financial services and the savings and investment union. Her work will include ensuring rules for the financial sector are enforced and improving the EU's supervisory system. She will work on improving digital finance and payments.</p><p>Plus, Albuquerque will ensure the enforcement of the <a href=\"https://www.coindesk.com/policy/2024/04/26/eu-parliament-adopts-anti-money-laundering-rules-package-also-policing-crypto/\" target=\"_blank\">anti-money laundering package</a> that targets large cash payments, crypto firms and more.</p><p>The EU has been considering doing <a href=\"https://www.coindesk.com/policy/2022/06/27/nft-private-wallet-fates-hang-on-eu-crypto-talks-this-week/\" target=\"_blank\">a MiCA 2.0</a> to address issues like crypto staking, lending and decentralized finance.</p><p>\"If the commission were to come up with new legislation specifically for digital assets, it would most likely be the Portuguese Commissioner Albuquerque,\" Foster said.</p><p>She might have to coordinate and get input from one of the executive vice presidents, which would most likely be S\u00e9journ\u00e9, Foster added.</p><p>\"She has a background in financial services. She's a former finance minister... So she's very experienced in traditional finance,\" Foster said. Her crypto views were not available online.</p><h2>Henna Virkkunen</h2><p>Another figure the industry thinks is important to watch out for is <a href=\"https://commission.europa.eu/document/3b537594-9264-4249-a912-5b102b7b49a3_en\" target=\"_blank\">Finland's Henna Virkkunen</a>.</p><p>\"We also think that one really important portfolio will be the one of Henna Virkkunen, who will be in charge of tech, sovereignty, security and democracy, because of all the related topics within Web3,\" Fleuret said.</p><p>Virkkunen's role will include boosting artificial intelligence innovation, looking at how digital technologies will enhance law enforcement capabilities, strengthening cybersecurity and taking enforcement action using the Digital Services Act where necessary to promote online safety. She <a href=\"https://www.bloomberg.com/news/articles/2024-09-17/eu-picks-tech-enforcer-who-helped-write-its-social-media-rules?sref=3REHEaVI\" target=\"_blank\">will also have to work with S\u00e9journ\u00e9</a>.</p><p>Read more: <a href=\"https://www.coindesk.com/news-analysis/2024/06/28/elections-across-europe-wont-hinder-blocs-crypto-ambitions/\" target=\"_blank\">Elections Across Europe Won't Hinder Bloc's Crypto Ambitions</a></p>",
+        "summary": "<p>The European Parliament approved its new slate of commissioners on Wednesday.</p><p>Commissioners St\u00e9phane S\u00e9journ\u00e9, Maria Lu\u00eds Albuquerque and Henna Virkkunen are likely to have crypto within their purview.\u00a0</p><p>The EU's markets in crypto assets legislation is going to be in full force by the end of December so more work might need to be done to ensure implementation, crypto advocates told CoinDesk.</p>",
         "ranking_score": 45
     },
     {
         "source": "CryptoSlate",
         "title": "Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe",
         "link": "https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/",
-        "published": "1h ago",
+        "published": "2h ago",
         "content": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, <a href=\"https://cryptoslate.com/coins/tether-eurt/\">EURt</a>, in\u00a0a Nov. 27 statement.</p>\n<p>The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025.</p>\n<p>The decision marks the end of EURt&#8217;s challenging journey in a market where competitors like Circle&#8217;s MiCA-compliant EURC dominate.</p>\n<p>According to <em>CryptoSlate&#8217;s</em> <a href=\"https://cryptoslate.com/cryptos/eur-stablecoin/\">data</a>, EURt struggled to gain traction in Europe, holding a market capitalization of just $38 million. This figure trails <a href=\"https://cryptoslate.com/coins/euro-coin/\">Circle&#8217;s EURC</a>, valued at $90.5 million, and <a href=\"https://cryptoslate.com/coins/stasis-euro/\">Stasis&#8217; Euro</a>, which boasts a $130 million valuation.</p>\n<p>In stark contrast, Tether&#8217;s flagship stablecoin, USDt, commands a robust $132 billion market cap\u2014\u00a0 more than three times higher than its closest competitor, USDC.</p>\n<h2>Why Tether is ending EURt support</h2>\n<p>Tether CEO <a href=\"https://cryptoslate.com/people/paolo-ardoino/\">Paolo Ardoino</a> attributed the move to Europe&#8217;s evolving regulatory landscape for stablecoins.</p>\n<p>The EU&#8217;s Markets in Crypto-Assets Regulation (MiCA) introduces a stringent regulatory environment that requires stablecoin issuers to obtain e-money authorization in at least one EU member country. This law has drawn significant backlash from Ardoino, who claims the strict cash reserve requirements could present systemic risks to banks and digital assets.</p>\n<p>Ardoino emphasized the need for a framework that balances risk management with innovation and user protection. He stated:</p>\n<blockquote><p>&#8220;Tether&#8217;s decision to delist EURt has not been taken lightly, but until a more risk-averse regulatory framework in Europe is in place\u2014one that fosters innovation, offers the stability and protection our users deserve and avoids potential banking systemic risks\u2014we have chosen to prioritize other initiatives.&#8221;</p></blockquote>\n<p>While Tether might not comply with MiCA, Ardoino pointed out that the firm&#8217;s new initiative, Hadron, will be a top priority in the European region. According to him, Hadron has the potential to revolutionize the accessibility of asset tokenization for institutions, governments, fund managers, and private companies.</p>\n<p>Dutch fintech firm Quantoz has already <a href=\"https://cryptoslate.com/tether-invests-in-dutch-firm-to-launch-mica-compliant-stablecoins/\">leveraged Hadron to issue EURQ and USDQ stablecoins</a>. These tokens fully comply with the EU&#8217;s Markets in Crypto-Assets Regulation (MiCA), demonstrating the platform&#8217;s adaptability to stringent regulatory requirements.</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
         "summary": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, EURt, in\u00a0a Nov. 27 statement. The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025. The decision marks the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "ranking_score": 45
-    },
-    {
-        "source": "CryptoSlate",
-        "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
-        "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
-        "published": "2h ago",
-        "content": "<p>Blockchain firm <a href=\"https://cryptoslate.com/companies/ripple/\">Ripple</a> is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation.</p>\n<p>Established on Nov. 26 in France, the <a href=\"https://xrpl.org/blog/2024/a-new-era-for-the-xrp-ledger\">organization</a> aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community.</p>\n<p>The foundation is committed to ensuring long-term growth, security, and decentralized contributions to the XRPL. Its primary mission is to foster a thriving, inclusive, and resilient XRPL community. Developers and users will have a trusted platform to create decentralized applications, financial tools, and blockchain infrastructure.</p>\n<p>The group&#8217;s initial focus will be reclaiming assets from the previous XRPL Foundation. It also plans to implement a governance model representing developers, users, validators, academia, and infrastructure providers. Key contributors\u2014including XRPL Commons, XRPL Labs, Ripple, and XAO DAO\u2014will guide the foundation through board representation and decision-making roles.</p>\n<p>The XRPL blockchain continues to gain traction for its scalability, low costs, and regulatory compliance. Notably, its growing <a href=\"https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/\">role in tokenizing real-world assets (RWAs)</a> has attracted major institutional players like <a href=\"https://cryptoslate.com/societe-generale-expands-its-stablecoin-to-ripples-xrp-ledger-to-drive-further-adoption/\">SG-FORGE, the crypto division of Societe Generale.</a></p>\n<h2>Support for Bitwise XRP Fund</h2>\n<p>Meanwhile, Ripple is also ramping up support for <a href=\"https://cryptoslate.com/coins/xrp/\">XRP</a> through a strategic investment in <a href=\"https://cryptoslate.com/companies/bitwise/\">Bitwise&#8217;s</a> newly rebranded Physical XRP Exchange-Traded Product (ETP).</p>\n<p>Formerly known as ETC Group Physical XRP, the product exposes European investors to XRP through a physically backed structure holding the token.</p>\n<p>Bitwise CEO <a href=\"https://cryptoslate.com/people/hunter-horsley/\">Hunter Horsley</a> emphasized XRP&#8217;s reputation as one of the most recognized and reliable blockchain networks. He <a href=\"https://etc-group.com/newsroom/Press_Release_27_11_2024/\">added</a>:</p>\n<blockquote><p>&#8220;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto. XRPL is unique with over 10 years of track record in reliability, while continuing to expand in capabilities.&#8221;</p></blockquote>\n<p>Ripple CEO <a href=\"https://cryptoslate.com/people/brad-garlinghouse/\">Brad Garlinghouse</a> echoed this sentiment while noting a surge in global demand for crypto-backed investment products. He noted that recent regulatory clarity in the US will likely accelerate this trend, further boosting interest in offerings like the Bitwise Physical XRP ETP.</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "summary": "<p>Blockchain firm Ripple is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation. Established on Nov. 26 in France, the organization aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community. The [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
         "ranking_score": 45
     },
     {
@@ -210,16 +201,25 @@
         "source": "Thedefiant",
         "title": "Ripple Introduces Tokenized Money Market Fund on XRP Ledger in RWA Push",
         "link": "https://thedefiant.io/news/blockchains/ripple-introduces-tokenized-money-market-fund-on-xrp-ledger-in-rwa-push",
-        "published": "4h ago",
+        "published": "5h ago",
         "content": "Ripple plans to allocate $5 million to purchase tokens representing shares in Abrdn&#39;s Lux fund.",
         "summary": null,
         "ranking_score": 40
     },
     {
+        "source": "Binance",
+        "title": "Solana and Cardano's 5x Growth Potential Has Top SOL and ADA Wallets Accumulating ...",
+        "link": "https://www.binance.com/en/square/post/16806392537330",
+        "published": "4h ago",
+        "content": "... <b>real</b>-<b>world asset</b> tokenization lets users invest in and trade physical assets worldwide. These elements taken together help Rexas Finance to be a&nbsp;...",
+        "summary": null,
+        "ranking_score": 35
+    },
+    {
         "source": "Tether",
         "title": "Tether Updates Users on a Strategic Transition to Better Support Community-Driven Product Support",
         "link": "https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "Hadron by Tether simplifies and accelerates the <b>tokenization</b> ... <b>tokenization</b> of everything from stocks to bonds, stablecoins, loyalty&nbsp;...",
         "summary": null,
         "ranking_score": 35
@@ -243,6 +243,15 @@
         "ranking_score": 35
     },
     {
+        "source": "CryptoSlate",
+        "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
+        "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
+        "published": "3h ago",
+        "content": "<p>Blockchain firm <a href=\"https://cryptoslate.com/companies/ripple/\">Ripple</a> is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation.</p>\n<p>Established on Nov. 26 in France, the <a href=\"https://xrpl.org/blog/2024/a-new-era-for-the-xrp-ledger\">organization</a> aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community.</p>\n<p>The foundation is committed to ensuring long-term growth, security, and decentralized contributions to the XRPL. Its primary mission is to foster a thriving, inclusive, and resilient XRPL community. Developers and users will have a trusted platform to create decentralized applications, financial tools, and blockchain infrastructure.</p>\n<p>The group&#8217;s initial focus will be reclaiming assets from the previous XRPL Foundation. It also plans to implement a governance model representing developers, users, validators, academia, and infrastructure providers. Key contributors\u2014including XRPL Commons, XRPL Labs, Ripple, and XAO DAO\u2014will guide the foundation through board representation and decision-making roles.</p>\n<p>The XRPL blockchain continues to gain traction for its scalability, low costs, and regulatory compliance. Notably, its growing <a href=\"https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/\">role in tokenizing real-world assets (RWAs)</a> has attracted major institutional players like <a href=\"https://cryptoslate.com/societe-generale-expands-its-stablecoin-to-ripples-xrp-ledger-to-drive-further-adoption/\">SG-FORGE, the crypto division of Societe Generale.</a></p>\n<h2>Support for Bitwise XRP Fund</h2>\n<p>Meanwhile, Ripple is also ramping up support for <a href=\"https://cryptoslate.com/coins/xrp/\">XRP</a> through a strategic investment in <a href=\"https://cryptoslate.com/companies/bitwise/\">Bitwise&#8217;s</a> newly rebranded Physical XRP Exchange-Traded Product (ETP).</p>\n<p>Formerly known as ETC Group Physical XRP, the product exposes European investors to XRP through a physically backed structure holding the token.</p>\n<p>Bitwise CEO <a href=\"https://cryptoslate.com/people/hunter-horsley/\">Hunter Horsley</a> emphasized XRP&#8217;s reputation as one of the most recognized and reliable blockchain networks. He <a href=\"https://etc-group.com/newsroom/Press_Release_27_11_2024/\">added</a>:</p>\n<blockquote><p>&#8220;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto. XRPL is unique with over 10 years of track record in reliability, while continuing to expand in capabilities.&#8221;</p></blockquote>\n<p>Ripple CEO <a href=\"https://cryptoslate.com/people/brad-garlinghouse/\">Brad Garlinghouse</a> echoed this sentiment while noting a surge in global demand for crypto-backed investment products. He noted that recent regulatory clarity in the US will likely accelerate this trend, further boosting interest in offerings like the Bitwise Physical XRP ETP.</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "summary": "<p>Blockchain firm Ripple is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation. Established on Nov. 26 in France, the organization aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community. The [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "ranking_score": 35
+    },
+    {
         "source": "Mondaq",
         "title": "Tokenisation: Information Hub Launched",
         "link": "https://www.mondaq.com/jersey/fund-finance/1548642/tokenisation-information-hub-launched",
@@ -255,7 +264,7 @@
         "source": "Chaincatcher",
         "title": "Besides AI and memes, what else is worth paying attention to in the trillion-dollar RWA market?",
         "link": "https://www.chaincatcher.com/en/article/2153920",
-        "published": "13h ago",
+        "published": "14h ago",
         "content": "Plume aims to lower the barriers to on-chain reality world asset tokenization, supporting issuers in tokenizing <b>real</b>-<b>world assets</b> such as real estate,&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -273,7 +282,7 @@
         "source": "Tekedia",
         "title": "Will Solana (SOL) Price Reach $400 By Christmas? RWA Titan Rexas Finance (RXS) Sells ...",
         "link": "https://www.tekedia.com/will-solana-sol-price-reach-400-by-christmas-rwa-titan-rexas-finance-rxs-sells-out-7th-presale-stage-weeks-early-total-raise-hits-16-25-million/",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "SOL shows potential to reach $400 by Christmas while <b>RWA</b> titan Rexas Finance (RXS) sells out the 7th presale stage weeks early, total raise hits&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -282,17 +291,8 @@
         "source": "Crypto-reporter",
         "title": "Rexas Finance (RXS): RWA Titan Looking to Reshape $300 Trillion Real Estate Market Sells ...",
         "link": "https://www.crypto-reporter.com/press-releases/rexas-finance-rxs-rwa-titan-looking-to-reshape-300-trillion-real-estate-market-sells-out-presale-stage-7-total-raise-hits-16250000-83146/",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "Rexas Finance (RXS), the rising titan in real-world asset (<b>RWA</b>) tokenization, is making waves in the $300 trillion real estate market. With Stage&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Panewslab",
-        "title": "An article explaining OpenEden in detail: Binance invests in RWA, a new option for U.S. ...",
-        "link": "https://www.panewslab.com/en/articledetails/9i78coow61z0.html",
-        "published": "6h ago",
-        "content": "With strategic investment from Binance in September, OpenEden has taken an innovative path in the <b>RWA</b> field. It focuses on the U.S. Treasury bond&nbsp;...",
         "summary": null,
         "ranking_score": 30
     },
@@ -318,7 +318,7 @@
         "source": "Mondovisione",
         "title": "SIX Invests In OpenBrick, A Digital Platform Of Tokenized Securities For Real Estate Projects In Spain",
         "link": "https://mondovisione.com/media-and-resources/news/six-invests-in-openbrick-a-digital-platform-of-tokenized-securities-for-real-es/",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "BME today announced its investment in OpenBrick, a digital platform for the issuance, management, trading and settlement of <b>tokenized</b> securities&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -327,7 +327,7 @@
         "source": "Dailycoin",
         "title": "Kima Completes Israel's First CBDC Tokenized Stock Purchase",
         "link": "https://dailycoin.com/kima-completes-israels-first-cbdc-tokenized-stock-purchase/",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "Kima enabled the first CBDC purchase of a <b>tokenized</b> stock. The decentralized settlement layer showcased the practical use of CBDCs. A blockchain-based&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -336,7 +336,7 @@
         "source": "Coinpedia",
         "title": "Ripple News: $3.8B Tokenized Fund Launches on XRPL",
         "link": "https://coinpedia.org/news/ripple-news-3-8b-tokenized-fund-launches-on-xrpl/",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "Ripple and Archax launch the first <b>tokenized</b> money market fund on XRPL. Learn how <b>tokenized</b> assets could hit $16 trillion by 2030.",
         "summary": null,
         "ranking_score": 30
@@ -354,7 +354,7 @@
         "source": "Tronweekly",
         "title": "Ripple And Partners Launch $3.8B Tokenized Fund On XRPL",
         "link": "https://www.tronweekly.com/ripple-and-partners-launch-3-8b-tokenized-fund/",
-        "published": "7h ago",
+        "published": "8h ago",
         "content": "Ripple, in collaboration with Archax and abrdn, has launched the first-ever <b>tokenized</b> money market fund on the XRP Ledger (XRPL).",
         "summary": null,
         "ranking_score": 30
@@ -363,7 +363,7 @@
         "source": "Nftgators",
         "title": "DeFi Points Tokenization App Rumpel Jumps 760% in a Month to $46M in TVL",
         "link": "https://www.nftgators.com/defi-points-tokenization-app-rumpel-jumps-760-in-a-month-to-46m-in-tvl/",
-        "published": "10h ago",
+        "published": "11h ago",
         "content": "The platform positions itself as a point <b>tokenization</b> protocol. It allows users to <b>tokenize</b> off-chain loyalty points, which can then be traded on&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -372,7 +372,7 @@
         "source": "Bitcoinist",
         "title": "Ripple Announces First Tokenized Money Market Fund On The XRP Ledger",
         "link": "https://bitcoinist.com/ripple-first-tokenized-money-market-fund-xrp-ledger/",
-        "published": "10h ago",
+        "published": "11h ago",
         "content": "Ripple Labs has introduced the first <b>tokenized</b> money market fund on the XRP Ledger (XRPL). The initiative, in partnership with Archax and UK-based&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -381,7 +381,7 @@
         "source": "U",
         "title": "XRP Ledger (XRPL) Hosts First Ripple-Backed Tokenized Fund",
         "link": "https://u.today/xrp-ledger-xrpl-hosts-first-ripple-backed-tokenized-fund",
-        "published": "11h ago",
+        "published": "12h ago",
         "content": "... <b>tokenized</b> money market fund on the XRP Ledger. With $16T in <b>tokenized</b> assets projected by 2030, this milestone unlocks cost savings and settlement&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -390,7 +390,7 @@
         "source": "Cryptoslate",
         "title": "Ripple launches first tokenized money market fund on XRP ledger through UK partnership",
         "link": "https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/",
-        "published": "11h ago",
+        "published": "12h ago",
         "content": "The global RWA <b>tokenization</b> market is witnessing rapid growth, with McKinsey projecting it to exceed $16 trillion by 2030. <b>Tokenized</b> money market&nbsp;...",
         "summary": null,
         "ranking_score": 30
@@ -399,7 +399,7 @@
         "source": "Crypto-economy",
         "title": "RWA Market Surges as Tokenized U.S. Treasuries Hit $2.5 Billion",
         "link": "https://crypto-economy.com/rwa-market-surges-as-tokenized-u-s-treasuries-hit-2-5-billion/",
-        "published": "13h ago",
+        "published": "14h ago",
         "content": "The total value of <b>tokenized</b> RWA assets exceeds $13 billion, highlighting the growing demand for the <b>tokenization</b> of traditional assets.",
         "summary": null,
         "ranking_score": 30
@@ -426,7 +426,7 @@
         "source": "Altcoinbuzz",
         "title": "Archax Launches $3.8B Tokenized Fund on XRP",
         "link": "https://www.altcoinbuzz.io/cryptocurrency-news/archax-launches-3-8b-tokenized-fund-on-xrp/",
-        "published": "16h ago",
+        "published": "17h ago",
         "content": "The $3.8 billion <b>tokenized</b> fund on XRP is preparing us for what&#39;s to come next. <b>Tokenized</b> assets are here to stay.",
         "summary": null,
         "ranking_score": 30
@@ -435,26 +435,8 @@
         "source": "Benzinga",
         "title": "$3 Trillion Opportunity: Infineo Chief Economist Discusses Blockchain And The Future Of ...",
         "link": "https://www.benzinga.com/24/11/42218767/the-3-trillion-opportunity-blockchain-and-the-future-of-life-insurance",
-        "published": "\u26a1 Just now",
+        "published": "1h ago",
         "content": "He also expressed optimism for regulatory clarity and predicted further integration of <b>real</b>-<b>world assets</b> onto the blockchain. Dr. Robert Murphy, the&nbsp;...",
-        "summary": null,
-        "ranking_score": 25
-    },
-    {
-        "source": "Theafricalogistics",
-        "title": "Riding the waves: Key trends shaping global stock markets",
-        "link": "https://theafricalogistics.com/in-depth/riding-the-waves-key-trends-shaping-global-stock-markets/",
-        "published": "2h ago",
-        "content": "Tokenization of Assets. The tokenization of stocks and <b>real</b>-<b>world assets</b>, using blockchain technology, is another emerging trend. Tokenization&nbsp;...",
-        "summary": null,
-        "ranking_score": 25
-    },
-    {
-        "source": "Cryptobriefing",
-        "title": "Ripple backs Bitwise Physical XRP ETP following its rebranding",
-        "link": "https://cryptobriefing.com/ripple-invests-in-xrp-etp/",
-        "published": "2h ago",
-        "content": "... <b>real world</b> tokenization. \u201cXRP and the XRP Ledger are among the most ... <b>assets</b> that are resilient and have <b>real</b>-<b>world</b> utility.\u201d Bitwise&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
@@ -471,8 +453,26 @@
         "source": "Crypto",
         "title": "Ondo integrates LayerZero for multi-chain USDY support",
         "link": "https://crypto.news/ondo-integrates-layerzero-for-multi-chain-usdy-support/",
-        "published": "9h ago",
+        "published": "10h ago",
         "content": "Ondo Finance, a tokenized <b>real</b>-<b>world asset</b> platform, has integrated LayerZero&#39;s interoperability protocol for multi-chain transfers of its&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Binance",
+        "title": "This Bull Run's Biggest Gainer Won't be Solana (SOL) or Shiba Inu (SHIB), But Here's One ...",
+        "link": "https://www.binance.com/en/square/post/16760251104954",
+        "published": "17h ago",
+        "content": "Rexas Finance is setting out to change how <b>real</b>-<b>world assets</b> (RWA) are tokenized, a trillion-dollar industry. By using this innovative approach,&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Thecryptobasic",
+        "title": "AI And DeFi Cryptos Lead The Charge In 2024: Top 5 Picks For Stunning ROI",
+        "link": "https://thecryptobasic.com/2024/11/27/ai-and-defi-cryptos-lead-the-charge-in-2024-top-5-picks-for-stunning-roi/",
+        "published": "\u26a1 Just now",
+        "content": "CYBRO Trending <b>RWA</b> Altcoins. As 2024 draws near, a new wave is sweeping through the crypto&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
@@ -480,7 +480,7 @@
         "source": "Crypto-news-flash",
         "title": "Bitcoin and Ethereum Whales Dump Billions in a Month, but They are Secretly Buying this ...",
         "link": "https://www.crypto-news-flash.com/bitcoin-and-ethereum-whales-dump-billions-in-a-month-but-they-are-secretly-buying-this-rwa-altcoin-at-0-004/",
-        "published": "1h ago",
+        "published": "2h ago",
         "content": "Ethereum (ETH) and Bitcoin (BTC) holders diversify their portfolios with the new PropiChain <b>RWA</b> altcoin, aiming for a 22403% rally from its&nbsp;...",
         "summary": null,
         "ranking_score": 25
@@ -489,8 +489,17 @@
         "source": "Chaincatcher",
         "title": "Matrixdock has partnered with Avalon Finance to launch the gold token XAUm for over ...",
         "link": "https://www.chaincatcher.com/en/article/2153952",
-        "published": "10h ago",
+        "published": "11h ago",
         "content": "ChainCatcher news, Matrixdock, a leading <b>RWA</b> tokenization platform under Matrixport, announced a partnership with Avalon Finance, making its gold&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Ledgerinsights",
+        "title": "Deutsche Bank invests $20m in DLT payment infrastructure Partior",
+        "link": "https://www.ledgerinsights.com/deutsche-bank-invests-20m-in-dlt-payment-infrastructure-partior/",
+        "published": "1h ago",
+        "content": "Other single bank <b>tokenized</b> deposit solutions enable their corporate treasury clients to move money around the world 24/7. But most large enterprise&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
@@ -498,7 +507,7 @@
         "source": "Marktechpost",
         "title": "This AI Paper Introduces BEST-STD (Spoken Term Detection): A Novel Bidirectional Mamba ...",
         "link": "https://www.marktechpost.com/2024/11/27/this-ai-paper-introduces-best-std-spoken-term-detection-a-novel-bidirectional-mamba-enhanced-speech-tokenization-framework-for-efficient-spoken-term-detection/",
-        "published": "1h ago",
+        "published": "2h ago",
         "content": "Researchers from the Indian Institute of Technology Kanpur and imec \u2013 Ghent University have introduced a novel speech <b>tokenization</b> framework named&nbsp;...",
         "summary": null,
         "ranking_score": 25
@@ -507,19 +516,10 @@
         "source": "Bitcoinist",
         "title": "This Token Looks Like Dogecoin (DOGE) in 2021, Primed for a Sharp Price Spike to $18 from $0.09",
         "link": "https://bitcoinist.com/this-token-looks-like-dogecoin-doge-in-2021-primed-for-a-sharp-price-spike-to-18-from-0-09/",
-        "published": "1h ago",
+        "published": "2h ago",
         "content": "Rexas Finance is developing itself as a game-changing platform. Fundamentally, Rexas Finance enables people and companies to <b>tokenize</b> real-world&nbsp;...",
         "summary": null,
         "ranking_score": 25
-    },
-    {
-        "source": "Financefeeds",
-        "title": "Top Cryptos To Add To Your Portfolio Now: November 2024 Edition",
-        "link": "https://financefeeds.com/top-cryptos-to-add-to-your-portfolio-now-november-2024-edition/",
-        "published": "1d ago",
-        "content": "Qubetics and How It Is Democratising Real World Asset <b>Tokenisation</b> &middot; Ethereum and Its Growing Role in Layer 2 Scaling Solutions &middot; Chainlink and Its&nbsp;...",
-        "summary": null,
-        "ranking_score": 20
     },
     {
         "source": "BlockWorks",
@@ -538,6 +538,42 @@
         "content": "<p><br /><em>This is a segment from yesterday\u2019s Lightspeed newsletter. To read full editions, </em><a href=\"https://blockworks.co/newsletter/lightspeed\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>When I talk to Solana ecosystem people, I\u2019ll sometimes ask what new projects they\u2019ve been hearing about. One such project that\u2019s been catching apparent buzz is Perena, a stablecoin infrastructure protocol.</p>\n\n\n\n<p>Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid. The platform offers a Solana-based stablecoin liquidity pool, and it plans to offer an <a href=\"https://x.com/SamBroner/status/1857072872205730283\">asset-backed</a> stablecoin in the future.</p>\n\n\n\n<p>The project was founded by Anna Yuan, who started the Solana Foundation\u2019s stablecoin arm during her more than two years at the non-profit. While working at the foundation, Yuan began to see that new stablecoin issuers would mint a lot of tokens but would have limited integrations, and users consequently weren\u2019t able to benefit from stablecoins in the real world.&nbsp;</p>\n\n\n\n<p>She cited Ondo as an example \u2014 the tokenized US Treasury stablecoin has over $100 million in supply but only 3,500 holders, <a href=\"https://solscan.io/token/A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6\">according</a> to SolScan.</p>\n\n\n\n<p>I asked Yuan about the commonly cited claim in crypto that stablecoins have pulled off the difficult task of finding product-market fit, or satisfying the needs of an existing market.</p>\n\n\n\n<p>\u201cI don\u2019t agree,\u201d Yuan said, adding that liquidity begets PMF, and most stablecoins simply aren\u2019t liquid enough to be useful. She added that the real-world need for things like money transfers in emerging markets will help stablecoins \u201cget there.\u201d</p>\n\n\n\n<p>Perena is currently in closed beta, but the platform\u2019s main feature will initially be a multi-stablecoin liquidity pool which uses a liquidity provider token called USD* that represents a piece of a seed pool containing Tether, Circle, and PayPal USD. In simpler terms, the liquidity pool model should make it easier to issue stablecoins, since smaller coins can access the liquidity from the well-capitalized seed pool.</p>\n\n\n\n<p>The concept has raised to-be-announced seed funds, and Yuan\u2019s deep links in Solana helped her tap into the ecosystem\u2019s very-active angel investor community. Yuan said she decided to start raising funds on a Thursday, and by late Friday, she already had a couple dozen angel investors on board. Solana co-founders Anatoly Yakovenko and Raj Gokal are both noteworthy backers.&nbsp;</p>\n\n\n\n<p>At the end of our call, Yuan and I got chatting about how Solana\u2019s stablecoin market capitalization can meaningfully grow. The network currently accounts for just 2% of all stables, according to DeFiLlama.</p>\n\n\n\n<p>Yuan gave an interesting answer: Solana PayFi could grow the economy for people taking their paycheck in stablecoins. She estimated 2,000 people currently take their full-time salary in Solana stablecoins. That number could certainly get a lot bigger.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
         "summary": "Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid",
         "ranking_score": 20
+    },
+    {
+        "source": "Decrypt",
+        "title": "BTC new ATH, SOL fee record, CHILLGUY hits $250M",
+        "link": "https://decrypt.co/videos/interviews/93f92EPP/btc-new-ath-sol-fee-record-chillguy-hits-250m",
+        "published": "7d ago",
+        "content": "",
+        "summary": "BTC hits new ATH of $93.5k. Blackrock BTC ETF options see $1.9bn volume. Grayscale to launch BTC ETF options. SOL fees hit one day record amid memecoin frenzy. Phantom flips Chrome on app store. Saylor to pitch BTC strategy to Microsoft board. Rumble stock rises as CEO teases BTC adoption. Robinhood is best deregulation trade: Bernstein. Trump considers crypto lawyer to lead SEC. Pro-crypto Lutnick to lead commerce dept. Sky deploys stablecoin USDS on Solana. Archax to offer tokenized money market funds. Bitfinex offers tokenized T-bills in El Salvador. Coinbase to delist WBTC. MiCA compliance ignites EUR crypto M&amp;A surge. South Korea to launch 20% crypto tax. Chainlink joins Brazil CBDC trade pilot. Injective launches AI agent platform.",
+        "ranking_score": 20
+    },
+    {
+        "source": "Decrypt",
+        "title": "BTC pulls back to $87K, Hawkish Powell, MOODENG hits $650M",
+        "link": "https://decrypt.co/videos/interviews/3omKCxQz/btc-pulls-back-to-87k-hawkish-powell-moodeng-hits-650m",
+        "published": "12d ago",
+        "content": "",
+        "summary": "BTC briefly hits $87k amid ETF outflows. BTC ETFs get third highest outflow since launch. BTC miners moved $4bn BTC since Nov 12. Tump wants 0% capital gains tax on crypto. Lummis proposes selling gold to buy BTC. Pennsylvania introduces BTC reserve bill. Bhutan sold $100m BTC in last month. 18 US states and DeFi Lobby sue SEC over crypto. Gensler defends crypto stance amid exit rumours. XRP at 16 month high on Gensler exit rumours. Tether launches platform to simplify tokenization. Satoshi\u2019s BTC holdings $100bn. Bitwise files to list crypto index ETP. Bitfinex hacker sentenced to 5 years in prison. Sling Money opens \u2018global venmo\u2019 to US users. Web4 will involve \u2018crypto & AGI\u2019. S. Korea to fine Upbit for KYC violations.",
+        "ranking_score": 20
+    },
+    {
+        "source": "Theafricalogistics",
+        "title": "Riding the waves: Key trends shaping global stock markets",
+        "link": "https://theafricalogistics.com/in-depth/riding-the-waves-key-trends-shaping-global-stock-markets/",
+        "published": "3h ago",
+        "content": "Tokenization of Assets. The tokenization of stocks and <b>real</b>-<b>world assets</b>, using blockchain technology, is another emerging trend. Tokenization&nbsp;...",
+        "summary": null,
+        "ranking_score": 15
+    },
+    {
+        "source": "Cryptobriefing",
+        "title": "Ripple backs Bitwise Physical XRP ETP following its rebranding",
+        "link": "https://cryptobriefing.com/ripple-invests-in-xrp-etp/",
+        "published": "3h ago",
+        "content": "... <b>real world</b> tokenization. \u201cXRP and the XRP Ledger are among the most ... <b>assets</b> that are resilient and have <b>real</b>-<b>world</b> utility.\u201d Bitwise&nbsp;...",
+        "summary": null,
+        "ranking_score": 15
     },
     {
         "source": "Bravenewcoin",
@@ -561,7 +597,7 @@
         "source": "Cryptonomist",
         "title": "Solana Trader Identifies 'Unmissable Opportunity' in $0.10 SOL Alternative Predicted to Hit ...",
         "link": "https://en.cryptonomist.ch/2024/11/27/solana-trader-identifies-unmissable-opportunity-0-10-sol-alternative-predicted-hit-12-under-100-days/",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "First, the initiative is capitalizing on the unexplored <b>real</b>-<b>world asset</b> tokenization market. Tokenized <b>real</b>-<b>world assets</b> are becoming more and&nbsp;...",
         "summary": null,
         "ranking_score": 15
@@ -579,17 +615,8 @@
         "source": "Bravenewcoin",
         "title": "4 Altcoins That Could Repeat XRP's 2017 Bull Run",
         "link": "https://bravenewcoin.com/insights/4-altcoins-that-could-repeat-xrps-2017-bull-run",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "Rexas Finance (RXS): Democratizing Investment via <b>RWA</b> Tokenization &middot; Kaspa (KAS): Innovative Blockchain High-Speed &middot; Rendering (RNDR): Transforming&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Ibtimes",
-        "title": "New Use Cases Drive Activity In Onchain Economy, Institutions Locked In: Blockchain Report",
-        "link": "https://www.ibtimes.com/new-use-cases-drive-activity-onchain-economy-institutions-locked-blockchain-report-3752843",
-        "published": "5h ago",
-        "content": "<b>RWA</b> Value Highlights Increased Institutional Participation. Real-world assets (<b>RWA</b>) have taken the financial world by storm, and it underscores the&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -597,7 +624,7 @@
         "source": "Dimsumdaily",
         "title": "Archax and Ripple partner to launch tokenised money market fund on XRPL",
         "link": "https://www.dimsumdaily.hk/archax-and-ripple-partner-to-launch-tokenised-money-market-fund-on-xrpl/",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "This collaboration enables <b>tokenised</b> access to Abrdn&#39;s U.S. dollar Liquidity Fund (Lux) valued at $4.8 billion (\u00a33.8 billion), marking a significant&nbsp;...",
         "summary": null,
         "ranking_score": 15
@@ -615,8 +642,17 @@
         "source": "Timesnownews",
         "title": "Rexas Finance Crypto Price Prediction: RXS Will Hit $50 with Ease, Here's the Timeline",
         "link": "https://www.timesnownews.com/bizz-impact/rexas-finance-crypto-price-prediction-rxs-will-hit-50-with-ease-heres-the-timeline-article-115704828",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "Rexas Finance (RXS) distinguishes itself with its goal of providing efficient and real-world asset <b>tokenizing</b> access. , Bizz Impact News - Times&nbsp;...",
+        "summary": null,
+        "ranking_score": 15
+    },
+    {
+        "source": "Analyticsinsight",
+        "title": "Is Cardano (ADA) in a Bull Run? Why $1.78 Could Be the Next Price Target",
+        "link": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/is-cardano-ada-in-a-bull-run-why-178-could-be-the-next-price-target",
+        "published": "4h ago",
+        "content": "Discover Cardano&#39;s (ADA) bullish momentum targeting $1.78 and Rexas Finance&#39;s (RXS) groundbreaking RWA <b>tokenization</b> model, set to deliver up to&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -624,7 +660,7 @@
         "source": "Bitcoinist",
         "title": "8 Altcoins That Will Potentially Make You Very Wealthy in the Next 8 Weeks",
         "link": "https://bitcoinist.com/8-altcoins-that-will-potentially-make-you-very-wealthy-in-the-next-8-weeks/",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "Rexas Finance (RXS) is implementing revolutionary asset <b>tokenization</b> across the blockchain. With its price at $0.10 in the eighth presale stage, RXS&nbsp;...",
         "summary": null,
         "ranking_score": 15
@@ -633,7 +669,7 @@
         "source": "Co",
         "title": "Shiba Inu (SHIB) Bulls Charge as SHIB Accumulation Hints at a 200% Rally",
         "link": "https://cryptodaily.co.uk/2024/11/shiba-inu-shib-bulls-charge-as-shib-accumulation-hints-at-a-200-rally",
-        "published": "3h ago",
+        "published": "4h ago",
         "content": "Innovations Driving Rexas Finance &middot; A no-code tool called Token Builder lets users quickly <b>tokenize</b> assets &middot; Rexas Launchpad: New <b>tokenized</b> project&nbsp;...",
         "summary": null,
         "ranking_score": 15
@@ -644,33 +680,6 @@
         "link": "https://www.ledgerinsights.com/six-invests-in-openbrick-its-spanish-csd-iberclear-plans-dlt-pilot-regime-platform/",
         "published": "4h ago",
         "content": "SIX is investing in real estate <b>tokenization</b> firm OpenBrick. Its Spanish CSD subsidiary plans a trading platform under EU&#39;s DLT Pilot Regime.",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Morningstar",
-        "title": "I-ON Digital Corp. Licenses Instruxi's Mesh ID to Bolster Revolutionary Digital Banking Platform",
-        "link": "https://www.morningstar.com/news/accesswire/947738msn/i-on-digital-corp-licenses-instruxis-mesh-id-to-bolster-revolutionary-digital-banking-platform",
-        "published": "4h ago",
-        "content": "... <b>tokenization</b> marketplace. &quot;I-ON Digital has been a valued partner and ... Instruxi Mesh ID adds another feature for I-ON&#39;s gold digitization,&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Co",
-        "title": "3 Altcoins Cheaper Than a Cup of Latte That Will Deliver a Lambo in 60 Days",
-        "link": "https://cryptodaily.co.uk/2024/11/3-altcoins-cheaper-than-a-cup-of-latte-that-will-deliver-a-lambo-in-60-days",
-        "published": "4h ago",
-        "content": "RXS is taking blockchain technology in a new direction through its asset <b>tokenization</b> model, which allows users to <b>tokenize</b> assets such as real estate&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Stocktitan",
-        "title": "I-ON Digital Partners with Instruxi to Enhance Banking Platform with Decentralized KYC",
-        "link": "https://www.stocktitan.net/news/IONI/i-on-digital-corp-licenses-instruxi-s-mesh-id-to-bolster-i566mrkm3mp5.html",
-        "published": "4h ago",
-        "content": "The partnership strengthens I-ON&#39;s gold digitization, <b>tokenization</b>, and securitization platform by implementing advanced identity verification&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -687,7 +696,7 @@
         "source": "Globenewswire",
         "title": "Bitwise Rebrands XRP ETP; Ripple To Invest in Product",
         "link": "https://www.globenewswire.com/news-release/2024/11/27/2987978/0/en/Bitwise-Rebrands-XRP-ETP-Ripple-To-Invest-in-Product.html",
-        "published": "9h ago",
+        "published": "10h ago",
         "content": "... <b>assets</b> that are resilient and have <b>real</b>-<b>world</b> utility.&quot; Bitwise has seen significant growth in 2024, recently crossing over $10B in total client&nbsp;...",
         "summary": null,
         "ranking_score": 5
@@ -711,10 +720,19 @@
         "ranking_score": 5
     },
     {
+        "source": "Ibtimes",
+        "title": "New Use Cases Drive Activity In Onchain Economy, Institutions Locked In: Blockchain Report",
+        "link": "https://www.ibtimes.com/new-use-cases-drive-activity-onchain-economy-institutions-locked-blockchain-report-3752843",
+        "published": "6h ago",
+        "content": "<b>RWA</b> Value Highlights Increased Institutional Participation. Real-world assets (<b>RWA</b>) have taken the financial world by storm, and it underscores the&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
         "source": "Blockster",
         "title": "Emergence Unveils the New Worlds Initiative: A Playable Cinematic Universe Powered by $OMETA",
         "link": "https://blockster.com/emergence-unveils-the-new-worlds-initiative-a-playable-cinematic-universe-powered-by-ometa",
-        "published": "10h ago",
+        "published": "11h ago",
         "content": "Singularity Finance Expands Ecosystem with Strategic Partnerships in AI and <b>RWA</b> Economy. November 22, 2024. 916 views &middot; People. Transak Joins Forces&nbsp;...",
         "summary": null,
         "ranking_score": 5
@@ -723,7 +741,7 @@
         "source": "Blockchainreporter",
         "title": "Best Cryptos to Buy in November 2024: Whale Activity Reported in Qubetics Amid Polkadot ...",
         "link": "https://blockchainreporter.net/best-cryptos-to-buy-in-november-2024-whale-activity-reported-in-qubetics-amid-polkadot-rally-and-celestias-potential-price-rise/",
-        "published": "8h ago",
+        "published": "9h ago",
         "content": "Qubetics ($TICS): Transforming Real-World Asset <b>Tokenisation</b>. Qubetics isn&#39;t just making noise; it&#39;s rewriting the crypto playbook. As the world&#39;s&nbsp;...",
         "summary": null,
         "ranking_score": 5
@@ -741,7 +759,7 @@
         "source": "Lexology",
         "title": "The Payments Newsletter including Digital Assets & Blockchain, March 2024",
         "link": "https://www.lexology.com/library/detail.aspx%3Fg%3Da4ddb0fc-b866-4ae5-866d-b236d325fb27",
-        "published": "13h ago",
+        "published": "14h ago",
         "content": "... <b>tokenised</b> funds to enable the adoption of asset <b>tokenisation</b> ... &#39;The Financial Stability Implications of <b>Tokenisation</b>&#39; report examines <b>tokenisation</b>&nbsp;...",
         "summary": null,
         "ranking_score": 5
@@ -750,7 +768,7 @@
         "source": "Co",
         "title": "Tokenised wine investment makes a debut",
         "link": "https://www.moneyweb.co.za/moneyweb-crypto/crypto-podcasts/tokenised-wine-investment-makes-a-debut/",
-        "published": "15h ago",
+        "published": "16h ago",
         "content": "Meza Wines has broken new ground with its <b>tokenised</b> wine investment built on the blockchain. Fine wine investments have historically beaten&nbsp;...",
         "summary": null,
         "ranking_score": 5
@@ -768,17 +786,8 @@
         "source": "Finextra",
         "title": "How Finance Can be a Conduit for Environmental Health",
         "link": "https://www.finextra.com/videoarticle/3209/how-finance-can-be-a-conduit-for-environmental-health",
-        "published": "20h ago",
+        "published": "21h ago",
         "content": "<b>Tokenisation</b> use cases to be excited about &middot; /sibos &middot; <b>Tokenisation</b> use cases to be excited about. 24 October 2024. Can Every Product Be Climate&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Capitalbrief",
-        "title": "ANZ blockchain pilot aims for rapid payment and investment of super",
-        "link": "https://www.capitalbrief.com/article/anz-blockchain-pilot-aims-for-rapid-payment-and-investment-of-super-dc31a450-ce57-4eea-a8ad-235c8851c8f5/",
-        "published": "23h ago",
-        "content": "It explored <b>tokenisation</b> of superannuation payments, which would dramatically expedite payments from employers and their subsequent investment. It&#39;s&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
@@ -795,7 +804,7 @@
         "source": "CoinDesk",
         "title": "XRP Rally Sees Record Profit-Taking as Ripple Labs Plans to Invest in Bitwise XRP ETF",
         "link": "https://www.coindesk.com/markets/2024/11/27/xrp-rally-sees-record-profit-taking-as-ripple-labs-plans-to-invest-in-bitwise-xrp-etf",
-        "published": "6h ago",
+        "published": "7h ago",
         "content": "<p>Long-term holders of XRP realized over $1.5 billion in profits last week as the payments-focused cryptocurrency zoomed to a three-year high, <a href=\"https://www.fxstreet.com/cryptocurrencies/news/ripple-donates-25-million-to-crypto-super-pac-again-amid-record-profit-taking-levels-among-xrp-investors-202411262145\" target=\"_blank\">data shows</a>, marking the highest profit realization since April 2021.\n\nProfit-taking is usual investor behavior after rallies and doesn\u2019t indicate a change in the long-term sentiment for any token.\n\nThe Market Value to Realized Value (MVRV) ratio surged to 217% on Tuesday, according to an <a href=\"https://www.fxstreet.com/cryptocurrencies/news/ripple-donates-25-million-to-crypto-super-pac-again-amid-record-profit-taking-levels-among-xrp-investors-202411262145\" target=\"_blank\">FXStreet report</a> citing Santiment data, suggesting that the current market valuation of XRP is significantly higher than its average purchase price \u2014 indicative of potential overvaluation in the short term in a move that may dampen a swift rally higher.\n</p><p>MVRV is a ratio of the total value of all the coins in circulation by the total value of all coins based on the price at which they were last moved on the blockchain. It can be thought of as the aggregate cost basis of all coins currently in circulation.\n</p><p>High profit-taking combined with the overvaluation signaled by the MVRV could lead to a market correction.\n</p><p>Several factors have helped catapult XRP prices recently, surging to a local high of $1.60 last week before paring gains to as low as $1.30. The token is still up 31% over the past week. \n</p><p>It has more than doubled in two weeks on several positive catalysts, such as the clearing of <a href=\"https://www.coindesk.com/markets/2024/11/22/xrp-price-surges-25-as-headwinds-for-ripple-clear-even-more/\" target=\"_blank\">regulatory headwinds</a> for closely related Ripple Labs, the <a href=\"https://www.coindesk.com/markets/2024/11/26/xrp-holds-strong-as-archax-unveils-tokenized-money-market-fund-on-xrp-ledger\" target=\"_blank\">launch of money market</a> funds on XRP Ledger, and a <a href=\"https://www.coindesk.com/markets/2024/11/15/xrp-jumps-17-outperforms-rest-of-the-market-as-rally-cools-trader-thinks-120k-bitcoin-target-still-in-play/\" target=\"_blank\">technical bullish price analysis</a>.\n</p><p>Meanwhile, Ripple plans to invest an unspecified amount in the newly rebranded Bitwise Physical XRP ETP (earlier called the ETC Group Physical XRP), per a Wednesday release. The announcement sent XRP higher by 10%.\n</p><p>The European XRP ETP will now trade under the GXRP ticker on Germany\u2019s Deutsche B\u00f6rse XETRA, the <a href=\"https://t.co/9pHWU8YN4n\" target=\"_blank\">release said</a>.\n</p><p>\u201cGlobal demand for exposure to the crypto asset class has exploded in 2024, fueled by a growing interest in crypto-backed investment offerings,\u201d Brad Garlinghouse, CEO at Ripple Labs, said in the release. \u201cWith the U.S. regulatory environment for crypto finally becoming more clear, this trend is poised to accelerate, further driving demand for crypto ETPs, such as the Bitwise Physical XRP ETP.\u201d\n</p><p>The 100% physically backed ETP launched by Bitwise in 2022 allows European investors to gain exposure to XRP.</p>",
         "summary": "<p>The Market Value to Realized Value (MVRV) ratio surged to 217% on Tuesday, showing overbrought market activity.</p><p>High profit-taking and an MVRV ratio indicating overvaluation could lead to a market correction.</p><p>Ripple plans to invest an unspecified amount in the newly rebranded Bitwise Physical XRP ETP (earlier called the ETC Group Physical XRP).</p>",
         "ranking_score": 5
@@ -816,24 +825,6 @@
         "published": "unknown time",
         "content": "<p>FIFA and Mythical Games are collaborating to launch FIFA Rivals, the companies announced on Friday. The app is an officially licensed, free-to-play soccer game for iOS and Android.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">New title in the 'Rivals' franchise!<br /><br />Introducing <a href=\"https://twitter.com/FIFARivals?ref_src=twsrc%5Etfw\">@FIFARivals</a>, an officially licensed mobile game from <a href=\"https://twitter.com/playmythical?ref_src=twsrc%5Etfw\">@playmythical</a> and <a href=\"https://twitter.com/FIFAcom?ref_src=twsrc%5Etfw\">@FIFAcom</a> \u26bd<br /><br />Powered by Mythos chain, build your dream team, own your players, and compete in real-time arcade action.<br /><br />Available in 2025 on iOS &amp; Android. <a href=\"https://t.co/2S5EnhV3sB\">pic.twitter.com/2S5EnhV3sB</a></p>\u2014 Enter the Mythos (@EnterTheMythos) <a href=\"https://twitter.com/EnterTheMythos/status/1859963926672486879?ref_src=twsrc%5Etfw\">November 22, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p>Scheduled for a 2025 release, players will be able to manage their own football clubs and compete against other players in real-time arcade gameplay.</p>\n\n\n\n<p>FIFA Rivals will include an in-game marketplace for players to trade football stars as NFT-collectibles on the Mythos blockchain.</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/off-the-grid-blockchain-gaming-experience\">Off the Grid\u2019s popularity is about \u2018best of breed technologies\u2019&nbsp;</a></p>\n\n\n\n<p>\u201cOur goal (with FIFA Rivals) is to replicate our success with previous Rivals games and set new benchmarks in the Web3 gaming sector,\u201d said John Linden, CEO and founder of Mythical Games.&nbsp;</p>\n\n\n\n<p>Mythical Games is the Web3 <a href=\"https://blockworks.co/tag/gaming\">gaming</a> studio behind the NFL Rivals game that today boasts over six million downloads. Similar to FIFA Rivals, players in NFL Rivals can own and trade NFT-collectible player cards via the Mythical Marketplace on Mythos.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Suntory Group tokenizes Premium Malt\u2019s beer on Avalanche</h2>\n\n\n\n<p>Global beverage corporation Suntory Group announced Tuesday a pilot project to tokenize its signature Japanese Premium Malt\u2019s bottled beer on the <a href=\"https://blockworks.co/tag/avalanche\">Avalanche</a> blockchain.</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/lightspeed-newsletter-solana-wine-tokenization\">Wine tokenization on Solana</a></p>\n\n\n\n<p>As part of a strategic partnership with Ava Labs, this limited release of tokenized Premium Malt\u2019s bottles will be open to Japanese markets on Nov. 12.</p>\n\n\n\n<p>Premium Malt\u2019s beer bottles will come with a near-field communication (NFC) tag which, when opened and scanned, will enable the collection of a unique <a href=\"https://blockworks.co/tag/nfts\">NFT</a> for consumers.</p>\n\n\n\n<p>The announcement was made at Thailand Blockchain Week by Suntory Chief Digital Innovation Officer Rio \u201cPopeye\u201d Inaba, and Ava Labs\u2019 Japan head, Roi Hirata.</p>\n\n\n\n<h2 class=\"wp-block-heading\">One interesting stat:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Monkey Tilt, a crypto-based gambling platform, announced on Wednesday a $30 million Series A funding round led by Pantera Capital. The sum brings its total funding raised to over $50 million.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Also of note:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Season 2 of Yuga Labs\u2019 multiplayer <a href=\"https://blockworks.co/news/yuga-labs-demos-otherside-metaverse\">metaverse project</a> \u201cProject Dragon\u201d is <a href=\"https://x.com/OthersideMeta/status/1857477347500273689\">launching</a> today with new avatars and rules for its virtual world game.</li>\n\n\n\n<li>Chiliz Group is set to <a href=\"https://x.com/Chiliz/status/1858471882368119070\">launch</a> a non-custodial Socios.com wallet for its 2.3 million users.&nbsp;</li>\n\n\n\n<li>The Toledo Museum of Art <a href=\"https://x.com/yatreda/status/1858609798889009356\">purchased</a> the digital artwork \u201cAbyssinian Queen\u201d by Ethiopian art collective Yatreda, using USDC on the Ethereum blockchain.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
         "summary": "Plus, Suntory Group tokenizes Premium Malt\u2019s beer on Avalanche",
-        "ranking_score": 0
-    },
-    {
-        "source": "Decrypt",
-        "title": "BTC new ATH, SOL fee record, CHILLGUY hits $250M",
-        "link": "https://decrypt.co/videos/interviews/93f92EPP/btc-new-ath-sol-fee-record-chillguy-hits-250m",
-        "published": "7d ago",
-        "content": "",
-        "summary": "BTC hits new ATH of $93.5k. Blackrock BTC ETF options see $1.9bn volume. Grayscale to launch BTC ETF options. SOL fees hit one day record amid memecoin frenzy. Phantom flips Chrome on app store. Saylor to pitch BTC strategy to Microsoft board. Rumble stock rises as CEO teases BTC adoption. Robinhood is best deregulation trade: Bernstein. Trump considers crypto lawyer to lead SEC. Pro-crypto Lutnick to lead commerce dept. Sky deploys stablecoin USDS on Solana. Archax to offer tokenized money market funds. Bitfinex offers tokenized T-bills in El Salvador. Coinbase to delist WBTC. MiCA compliance ignites EUR crypto M&amp;A surge. South Korea to launch 20% crypto tax. Chainlink joins Brazil CBDC trade pilot. Injective launches AI agent platform.",
-        "ranking_score": 0
-    },
-    {
-        "source": "Decrypt",
-        "title": "BTC pulls back to $87K, Hawkish Powell, MOODENG hits $650M",
-        "link": "https://decrypt.co/videos/interviews/3omKCxQz/btc-pulls-back-to-87k-hawkish-powell-moodeng-hits-650m",
-        "published": "12d ago",
-        "content": "",
-        "summary": "BTC briefly hits $87k amid ETF outflows. BTC ETFs get third highest outflow since launch. BTC miners moved $4bn BTC since Nov 12. Tump wants 0% capital gains tax on crypto. Lummis proposes selling gold to buy BTC. Pennsylvania introduces BTC reserve bill. Bhutan sold $100m BTC in last month. 18 US states and DeFi Lobby sue SEC over crypto. Gensler defends crypto stance amid exit rumours. XRP at 16 month high on Gensler exit rumours. Tether launches platform to simplify tokenization. Satoshi\u2019s BTC holdings $100bn. Bitwise files to list crypto index ETP. Bitfinex hacker sentenced to 5 years in prison. Sling Money opens \u2018global venmo\u2019 to US users. Web4 will involve \u2018crypto & AGI\u2019. S. Korea to fine Upbit for KYC violations.",
         "ranking_score": 0
     }
 ]
