@@ -1,6 +1,44 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Ether futures open interest hits all-time high \u2014 Is the ETH bull run starting?",
+        "link": "https://cointelegraph.com/news/ether-futures-open-interest-hits-all-time-high-is-the-eth-bull-run-starting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 17:53:41 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlN2EtMzQ4My03Nzk4LWI0YTEtMTdmOGU2MGFmMjdj.jpg\" /></p><p>Ethereum futures hit new records, possibly signalling a fresh bull run in ETH.</p>",
+        "content": "",
+        "categories": [
+            "markets",
+            "ethereum",
+            "cme",
+            "futures",
+            "binance",
+            "margin",
+            "leverage",
+            "liquidation"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Non-USD stablecoins can spur adoption: Report",
+        "link": "https://cointelegraph.com/news/non-usd-stablecoins-can-spur-adoption-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 17:40:47 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlOTMtYjE3Ny03M2I0LThkNmUtMmNlMTdlODI0NTk3.jpg\" /></p><p>Cryptocurrencies, including stablecoins, still only pay for 0.2% of online commerce transactions globally, according to the report.\u00a0</p>",
+        "content": "",
+        "categories": [
+            "stablecoins",
+            "circle",
+            "usdc",
+            "tether",
+            "usdt",
+            "quinlan associates",
+            "ida",
+            "hong kong",
+            "pat toomey",
+            "stablecoin regulation"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Institutions won&#039;t embrace Web3 without privacy options \u2014 Web3 exec",
         "link": "https://cointelegraph.com/news/institutions-wont-embrace-web3-without-privacy-options-dop-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 27 Nov 2024 17:21:27 +0000",
@@ -472,38 +510,6 @@
             "Green nodes scam",
             "SEC crypto enforcement",
             "SEC legal case."
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Bitcoin has a 50-50 chance of reaching $100K by year-end: Options data",
-        "link": "https://cointelegraph.com/news/bitcoin-chances-100k-end-of-year-btc-price-options-data-derive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 06:04:22 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZjMGQtNTMzMy03NmY2LTlkNTgtMmJkZDA2MTMzMmIx.jpg\" /></p><p>The likelihood of Bitcoin surpassing $100,000 has risen to 45%, despite its recent pullback, according to recent onchain data.</p>",
-        "content": "",
-        "categories": [
-            "Nick Forster",
-            "Derive",
-            "PlanC",
-            "Ki Young Ju",
-            "CryptoQuant"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Low-income crypto investors are using gains to buy houses: Treasury study",
-        "link": "https://cointelegraph.com/news/low-income-crypto-investors-leverage-gains-for-larger-mortgages-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 05:38:40 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiZDYtOGIyZC03M2QwLThhYzAtMWE0YmEyZWFkM2Jh.jpg\" /></p><p>Low-income households with high crypto exposures saw the largest increase in mortgage and auto loan originations and balances, US Treasury research revealed.\u00a0</p>",
-        "content": "",
-        "categories": [
-            "Mortgages",
-            "debts",
-            "loans",
-            "borrowing",
-            "crypto profits",
-            "household debt",
-            "Treasury"
         ]
     },
     {
@@ -1451,6 +1457,26 @@
     },
     {
         "source": "Decrypt",
+        "title": "BTC Recovers, Tornado Cash avoids Sanctions, VIRTUAL hits $900M",
+        "link": "https://decrypt.co/videos/interviews/bfFMXudX/btc-recovers-tornado-cash-avoids-sanctions-virtual-hits-900m",
+        "published": "Wed, 27 Nov 2024 17:50:31 +0000",
+        "summary": "BTC recovers after $600m liquidations. Options show BTC has 50% chance for $100k in 2024. BTC could drop lower before $100k: StanChart. Brazil congressman proposes $18bn BTC reserve. US not allowed to sanction Tornado Cash. Trump wants CFTC to lead digital asset regulation. BTC \u2018could drop 20%\u2019 if M2 correlation returns. Bitwise files for BTC & ETH mixed ETP. XRP sends another $25mn to Crypto PAC. Iran to launch digital CBDC to avoid sanctions.",
+        "content": "",
+        "categories": []
+    },
+    {
+        "source": "Decrypt",
+        "title": "Crypto.com Competition Will Feature Major Golfers, Hand Out Millions in CRO",
+        "link": "https://decrypt.co/293844/crypto-com-golf-competition-millions-cro",
+        "published": "Wed, 27 Nov 2024 17:35:30 +0000",
+        "summary": "Four of the world\u2019s best golfers will compete in a Crypto.com golf showdown with a \u201cmultimillion-dollar\u201d prize pool of the crypto token CRO.",
+        "content": "",
+        "categories": [
+            "Business"
+        ]
+    },
+    {
+        "source": "Decrypt",
         "title": "Bitcoin Layer-2 GOAT Network Will Let Users Stake Dogecoin to Earn Crypto",
         "link": "https://decrypt.co/293494/bitcoin-layer-2-goat-network-stake-dogecoin",
         "published": "Wed, 27 Nov 2024 17:01:02 +0000",
@@ -1783,18 +1809,6 @@
     },
     {
         "source": "Decrypt",
-        "title": "Dogecoin Foundation Seeks Backing to Fuel 2025 Plans",
-        "link": "https://decrypt.co/293515/dogecoin-foundation-seeking-major-donors-to-fuel-2025-plans",
-        "published": "Tue, 26 Nov 2024 02:54:58 +0000",
-        "summary": "The Dogecoin Foundation is seeking donors to fuel its Dogebox initiative, with the aim of driving mass adoption.",
-        "content": "",
-        "categories": [
-            "dogecoin",
-            "Business"
-        ]
-    },
-    {
-        "source": "Decrypt",
         "title": "Bitcoin Dominance Falls, Bessent picked for Treasury, PumpFun streams Criticised",
         "link": "https://decrypt.co/videos/interviews/zFg1kbd8/bitcoin-dominance-falls-bessent-picked-for-treasury-pumpfun-streams-criticised",
         "published": "Mon, 25 Nov 2024 16:15:37 +0000",
@@ -1956,15 +1970,6 @@
         "categories": []
     },
     {
-        "source": "Decrypt",
-        "title": "Flare Co-Founder: Why Decentralized Data is Vital for Blockchains",
-        "link": "https://decrypt.co/videos/interviews/egSrTSm9/flare-co-founder-why-decentralized-data-is-vital-for-blockchains",
-        "published": "Mon, 11 Nov 2024 14:30:00 +0000",
-        "summary": "Current and future use cases of blockchains require vast amounts of data, Flare Co-Founder and CEO of Flare Labs Hugo Philion tells Decrypt. He argues that traditional oracles fall short, and what's needed is a fully decentralized solution to realize the \"future value\" of the industry.",
-        "content": "",
-        "categories": []
-    },
-    {
         "source": "CryptoSlate",
         "title": "Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe",
         "link": "https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/",
@@ -2103,7 +2108,24 @@
     },
     {
         "source": "TechCrunch",
-        "title": "OpenAI moves to trademark its \u2018reasoning\u2019 models",
+        "title": "Meta\u2019s Threads is developing its own take on Bluesky\u2019s \u2018Starter Packs\u2019",
+        "link": "https://techcrunch.com/2024/11/27/metas-threads-is-developing-its-own-take-on-blueskys-starter-packs/",
+        "published": "Wed, 27 Nov 2024 17:37:26 +0000",
+        "summary": "<p>Hoping to quell some of the momentum behind social network Bluesky, a competitor to X and Meta&#8217;s Threads, Meta is developing a feature that takes inspiration from one of Bluesky&#8217;s more popular additions: the concept of &#8220;Starter Packs,&#8221; or hand-curated lists of suggested users that help newcomers find people to follow. Meta&#8217;s version of these [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "Apps",
+            "Social",
+            "social media",
+            "social networking",
+            "Threads",
+            "Bluesky",
+            "social"
+        ]
+    },
+    {
+        "source": "TechCrunch",
+        "title": "OpenAI moves to trademark its o1 \u2018reasoning\u2019 models",
         "link": "https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/",
         "published": "Wed, 27 Nov 2024 17:17:19 +0000",
         "summary": "<p>OpenAI has filed a trademark application for its latest AI model, o1, as the firm moves to shield its IP. On Tuesday, OpenAI submitted paperwork to the U.S. Patent and Trademark Office (USPTO) to register the trademark &#8220;OpenAI o1.&#8221; Interestingly, the documents reveal that OpenAI filed for a foreign trademark application in Jamaica in May, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
@@ -2133,15 +2155,15 @@
         "title": "ElevenLabs\u2019 new feature is a NotebookLM competitor for creating GenAI podcasts",
         "link": "https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/",
         "published": "Wed, 27 Nov 2024 17:00:00 +0000",
-        "summary": "<p>Voice AI startup ElevenLabs on Wednesday introduced a feature that lets you upload different types of content to create a multi-speaker podcast for you, similar to Google&#8217;s NotebookLM. The feature, called GenFM, can be found on the company&#8217;s ElevenLabs Reader iOS app. Currently, GenFM supports 32 languages, including English, Hindi, Portuguese, Chinese, Spanish, French, German, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "summary": "<p>Voice AI startup ElevenLabs on Wednesday introduced a feature that lets you upload different types of content to create a multispeaker podcast for you, similar to Google&#8217;s NotebookLM. The feature, called GenFM, can be found on the company&#8217;s ElevenLabs Reader iOS app. Currently, GenFM supports 32 languages, including English, Hindi, Portuguese, Chinese, Spanish, French, German, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "content": "",
         "categories": [
             "AI",
             "Apps",
-            "podcasts",
             "ai voices",
             "ElevenLabs",
-            "Google NotebookLM"
+            "Google NotebookLM",
+            "podcasts"
         ]
     },
     {
@@ -2395,21 +2417,6 @@
             "keynote",
             "re:invent",
             "what to expect"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "ServiceTitan could be the first of many \u2018dirty\u2019 term-sheet IPOs, VCs believe",
-        "link": "https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/",
-        "published": "Tue, 26 Nov 2024 21:31:21 +0000",
-        "summary": "<p>Rather than opening an IPO window, ServiceTitan's IPO could be the first \\of something else entirely, VCs warn.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Fundraising",
-            "Venture",
-            "IPO",
-            "servicetitan",
-            "term sheet"
         ]
     }
 ]
