@@ -13,8 +13,10 @@ output_file = "9.Combined_Feeds.json"
 # Keywords to check in the title
 KEYWORDS = ["real world assets", "real-world assets", "RWA", "Tokenisation", "Tokenization", "Tokenized"]
 
-# Trusted sources
-TRUSTED_SOURCES = ["Cointelegraph", "Coindesk", "Blockworks", "TechCrunch", "Bybit", "Binance"]
+# Source tiers for scoring
+TOP_SOURCES = ["Cointelegraph", "Coindesk", "Blockworks", "TechCrunch"]
+MID_SOURCES = ["Decrypt", "The Block", "Byit", "Binance"]
+LOW_SOURCES = ["Unknown"]
 
 # Load the company list from a .txt file
 def load_company_list(file_path):
@@ -40,8 +42,13 @@ def calculate_ranking_score(item, companies):
     score = 0
 
     # Source-based score
-    if item.get("source") in TRUSTED_SOURCES:
+    source = item.get("source", "")
+    if source in TOP_SOURCES:
         score += 40
+    elif source in MID_SOURCES:
+        score += 20
+    elif source in LOW_SOURCES:
+        score += -10
 
     # Recency-based score
     if item.get("published"):
@@ -87,7 +94,7 @@ def filter_fields(data, companies, is_g_alerts=False):
 
             filtered_item = {
                 "source": item.get("source"),
-                "title": item.get("title"),
+                "title": item.get("title"),  # No title cleaning here
                 "link": link,
                 "published": item.get("published"),
                 "content": item.get("content"),
