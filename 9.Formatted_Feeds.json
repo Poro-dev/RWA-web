@@ -1,5 +1,59 @@
 [
     {
+        "source": "Bybit",
+        "title": "Ondo Launches Institutional-Grade Bridging for Tokenized RWAs with LayerZero Security",
+        "link": "https://learn.bybit.com/daily-bits/ondo-launches-institutional-grade-bridging-for-tokenized-rwas/",
+        "published": "27-Nov-24 09:52",
+        "content": "Ondo Finance has launched a new institutional-grade bridging solution for <b>tokenized</b> real-world assets (RWAs), leveraging LayerZero&#39;s decentralized&nbsp;...",
+        "summary": null,
+        "ranking_score": 100
+    },
+    {
+        "source": "Binance",
+        "title": "When it comes to the RWA trend then there is non-stop talk o | Cryptosy123 sur Binance Square",
+        "link": "https://www.binance.com/fr-AF/square/post/16761190097081",
+        "published": "27-Nov-24 04:29",
+        "content": "When it comes to the <b>RWA</b> trend then there is non-stop talk on Ondo Finance ($ONDO) or Realio Network ($RIO) but there is one <b>RWA</b> project with a 5&nbsp;...",
+        "summary": null,
+        "ranking_score": 90
+    },
+    {
+        "source": "Blockchainreporter",
+        "title": "The R0AR Team Sets Out Path To Crypto RWA Success",
+        "link": "https://blockchainreporter.net/the-r0ar-team-sets-out-path-to-crypto-rwa-success/",
+        "published": "27-Nov-24 10:34",
+        "content": "RWAs refer to any tangible or intangible <b>asset</b> that exists in the physical <b>world</b> and has value. This can include a wide range of <b>assets</b>, such as <b>real</b>&nbsp;...",
+        "summary": null,
+        "ranking_score": 70
+    },
+    {
+        "source": "Binance",
+        "title": "Why is the recent popularity of RWA showing a trend of flooding? | Techub News on Binance Square",
+        "link": "https://www.binance.com/en/square/post/16748348582465",
+        "published": "26-Nov-24 19:30",
+        "content": "Looking at the Hong Kong compliant <b>RWA</b> market, with the attention of the mainland market, the compliant market has become a bit as hot as the offshore&nbsp;...",
+        "summary": null,
+        "ranking_score": 70
+    },
+    {
+        "source": "Binance",
+        "title": "XRP Price Eyes 283% Rally After Ripple's Tokenized Fund Launch",
+        "link": "https://www.binance.com/en/square/post/16770758190833",
+        "published": "27-Nov-24 02:10",
+        "content": "NAIROBI (CoinChapter.com)\u2014XRP&#39;s price has gained momentum after Ripple launched its first <b>tokenized</b> money market fund on the XRP Ledger.",
+        "summary": null,
+        "ranking_score": 70
+    },
+    {
+        "source": "Binance",
+        "title": "First Tokenized Money Market Fund Launched on XRPL by Ripple, abrdn",
+        "link": "https://www.binance.com/en/square/post/16747846782818",
+        "published": "26-Nov-24 18:48",
+        "content": "XRPL emerges as a leader in RWA <b>tokenization</b> with abrdn&#39;s Liquidity Fund integration. Ripple invests $5M to boost institutional adoption of&nbsp;...",
+        "summary": null,
+        "ranking_score": 70
+    },
+    {
         "source": "Cointelegraph",
         "title": "Ripple, Archax debut first tokenized money market fund on XRP Ledger",
         "link": "https://cointelegraph.com/news/ripple-launched-first-tokenized-money-market-fund-on-xrp-ledger",
@@ -9,11 +63,20 @@
         "ranking_score": 70
     },
     {
-        "source": "Blockchainreporter",
-        "title": "The R0AR Team Sets Out Path To Crypto RWA Success",
-        "link": "https://blockchainreporter.net/the-r0ar-team-sets-out-path-to-crypto-rwa-success/",
-        "published": "27-Nov-24 10:34",
-        "content": "RWAs refer to any tangible or intangible <b>asset</b> that exists in the physical <b>world</b> and has value. This can include a wide range of <b>assets</b>, such as <b>real</b>&nbsp;...",
+        "source": "Cointelegraph",
+        "title": "Ondo taps LayerZero to take USDY multichain",
+        "link": "https://cointelegraph.com/news/ondo-finance-launch-usdy-layer-zero",
+        "published": "26-Nov-24 22:52",
+        "content": "Ondo Finance, a tokenized real-world asset (<b>RWA</b>) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across multiple&nbsp;...",
+        "summary": null,
+        "ranking_score": 65
+    },
+    {
+        "source": "Coinedition",
+        "title": "Hoskinson Details RWA Integration with Cardano's Midnight Upgrade - Coin Edition",
+        "link": "https://coinedition.com/hoskinson-details-rwa-integration-with-cardanos-midnight-upgrade/",
+        "published": "27-Nov-24 11:56",
+        "content": "Proposed <b>RWA</b> integration and other factors behind ADA&#39;s recent rally. Cardano founder Charles Hoskinson says the blockchain is evolving into a&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
@@ -45,11 +108,38 @@
         "ranking_score": 50
     },
     {
-        "source": "Bybit",
-        "title": "Ondo Launches Institutional-Grade Bridging for Tokenized RWAs with LayerZero Security",
-        "link": "https://learn.bybit.com/daily-bits/ondo-launches-institutional-grade-bridging-for-tokenized-rwas/",
-        "published": "27-Nov-24 09:52",
-        "content": "Ondo Finance has launched a new institutional-grade bridging solution for <b>tokenized</b> real-world assets (RWAs), leveraging LayerZero&#39;s decentralized&nbsp;...",
+        "source": "Ledgerinsights",
+        "title": "StanChart's Zodia inks custody deal with Securitize, BlackRock's tokenization partner",
+        "link": "https://www.ledgerinsights.com/stancharts-zodia-inks-custody-deal-with-securitize-blackrocks-tokenization-partner/",
+        "published": "26-Nov-24 16:57",
+        "content": "\u201cOur partnership with Zodia Custody extends secure and compliant custody solutions to institutional investors, allowing them to access <b>tokenised</b>&nbsp;...",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Blockhead",
+        "title": "Zodia, Securitize Team Up to Advance Tokenized Asset Adoption",
+        "link": "https://www.blockhead.co/2024/11/27/zodia-securitize-team-up-to-advance-tokenized-asset-adoption/",
+        "published": "27-Nov-24 06:31",
+        "content": "The move highlights the increasing institutional interest in <b>tokenized</b> assets, a burgeoning market that promises to redefine finance through&nbsp;...",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Co",
+        "title": "Chromia RWA Asset Platform Phlomis Finance Teams Up With responsAbility to Transform ...",
+        "link": "https://cryptodaily.co.uk/2024/11/chromia-rwa-asset-platform-phlomis-finance-teams-up-with-responsability-to-transform-impact-investing",
+        "published": "27-Nov-24 02:03",
+        "content": "By <b>tokenizing</b> tangible assets such as real estate, private debt, and US Treasuries, RWAs bridge the gap between the digital and traditional financial&nbsp;...",
+        "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Panewslab",
+        "title": "Zodia Custody and Securitize Partner to Drive Institutional Investor Access to Asset Tokenization",
+        "link": "https://www.panewslab.com/en/sqarticledetails/oktw2v7e.html",
+        "published": "26-Nov-24 21:53",
+        "content": "Zodia Custody has partnered with <b>tokenization</b> platform Securitize to provide regulatory compliant custody services covering <b>tokenized</b> assets&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
@@ -57,7 +147,7 @@
         "source": "Mondovisione",
         "title": "SIX Invests In OpenBrick, A Digital Platform Of Tokenized Securities For Real Estate Projects In Spain",
         "link": "https://mondovisione.com/media-and-resources/news/six-invests-in-openbrick-a-digital-platform-of-tokenized-securities-for-real-es/",
-        "published": "27-Nov-24 09:43",
+        "published": "27-Nov-24 11:47",
         "content": "BME today announced its investment in OpenBrick, a digital platform for the issuance, management, trading and settlement of <b>tokenized</b> securities&nbsp;...",
         "summary": null,
         "ranking_score": 50
@@ -90,21 +180,66 @@
         "ranking_score": 50
     },
     {
-        "source": "Tronweekly",
-        "title": "Ripple And Partners Launch $3.8B Tokenized Fund On XRPL",
-        "link": "https://www.tronweekly.com/ripple-and-partners-launch-3-8b-tokenized-fund/",
-        "published": "27-Nov-24 10:23",
-        "content": "Ripple, in collaboration with Archax and abrdn, has launched the first-ever <b>tokenized</b> money market fund on the XRP Ledger (XRPL).",
+        "source": "Financefeeds",
+        "title": "Zodia Taps Securitize To Expand Institutional Access To Tokenized Assets",
+        "link": "https://financefeeds.com/zodia-taps-securitize-to-expand-institutional-access-to-tokenized-assets/",
+        "published": "27-Nov-24 06:45",
+        "content": "\u201cBUIDL&#39;s sharp rise and adoption easily shows the opportunities that <b>tokenized</b> assets can offer,\u201d said Julian Sawyer, CEO of Zodia Custody. \u201cMore&nbsp;...",
         "summary": null,
         "ranking_score": 50
     },
     {
-        "source": "Cointelegraph",
-        "title": "Ondo taps LayerZero to take USDY multichain",
-        "link": "https://cointelegraph.com/news/ondo-finance-launch-usdy-layer-zero",
-        "published": "26-Nov-24 22:52",
-        "content": "Ondo Finance, a tokenized real-world asset (<b>RWA</b>) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across multiple&nbsp;...",
+        "source": "Crypto",
+        "title": "Zodia Custody teams up with Securitize for institutional access to tokenized assets",
+        "link": "https://crypto.news/zodia-custody-teams-up-with-securitize-for-institutional-access-to-tokenized-assets/",
+        "published": "27-Nov-24 03:36",
+        "content": "<b>Tokenization</b> involves converting physical assets like real estate, stocks, or funds into digital tokens stored on a blockchain. These tokens represent&nbsp;...",
         "summary": null,
+        "ranking_score": 50
+    },
+    {
+        "source": "Marketsmedia",
+        "title": "Zodia Custody and Securitize Join Forces - Markets Media",
+        "link": "https://www.marketsmedia.com/zodia-custody-and-securitize-join-forces/",
+        "published": "27-Nov-24 10:53",
+        "content": "The partnership creates more opportunities for institutions related to <b>real</b>-<b>world asset</b> tokenization.",
+        "summary": null,
+        "ranking_score": 45
+    },
+    {
+        "source": "Binance",
+        "title": "This Bull Run's Biggest Gainer Won't be Solana (SOL) or Shiba Inu (SHIB), But Here's One ...",
+        "link": "https://www.binance.com/en/square/post/16760251104954",
+        "published": "27-Nov-24 01:13",
+        "content": "Rexas Finance is setting out to change how <b>real</b>-<b>world assets</b> (RWA) are tokenized, a trillion-dollar industry. By using this innovative approach,&nbsp;...",
+        "summary": null,
+        "ranking_score": 45
+    },
+    {
+        "source": "Binance",
+        "title": "From Risk to Reward: How Asset-Backed Collateral Is Changing DeFi Lending",
+        "link": "https://www.binance.com/en/square/post/16768297906754",
+        "published": "27-Nov-24 00:29",
+        "content": "Improved Borrower Reputation Pledging <b>real</b>-<b>world assets</b> can enhance borrowers&#39; credibility in the eyes of lenders, fostering long-term relationships&nbsp;...",
+        "summary": null,
+        "ranking_score": 45
+    },
+    {
+        "source": "CoinDesk",
+        "title": "Stablecoins Hit Record $190B Market Cap, Surpassing Pre-Terra Crash Peak: CCData",
+        "link": "https://www.coindesk.com/markets/2024/11/27/stablecoins-hit-record-190-b-market-cap-surpassing-pre-terra-crash-peak-cc-data",
+        "published": "27-Nov-24 13:04",
+        "content": "<p>Following <a href=\"https://www.coindesk.com/markets/2024/11/22/bitcoin-nears-100k-with-crypto-market-cap-at-record-34t/\" target=\"_blank\">bitcoin</a> (<a href=\"https://www.coindesk.com/price/bitcoin\" target=\"_blank\">BTC</a>) and <a href=\"https://www.coindesk.com/markets/2024/11/22/solanas-sol-surges-to-record-high-above-260\" target=\"_blank\">solana</a> (<a href=\"https://www.coindesk.com/price/solana\" target=\"_blank\">SOL</a>) reaching all-time high prices earlier this month, the stablecoin sector has now joined crypto's record-breaking streak.</p><p>The combined market size of stablecoins hit $190 billion this month for the first time ever, Wednesday's <a href=\"https://ccdata.io/reports/stablecoins-cbdcs-report-november-2024\" target=\"_blank\">report</a> by digital asset analytics firm CCData noted. CCData is owned by Bullish, CoinDesk's parent company. The previous peak of $188 billion was recorded in April 2022, just before the cataclysmic implosion of the <a href=\"https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna/\" target=\"_blank\">Terra-Luna stablecoin</a> that added fuel to the digital asset bear market now referred to as crypto winter.</p><p><a href=\"https://www.coindesk.com/markets/2024/11/12/stablecoin-supply-expands-by-5b-since-us-election-as-investors-pile-into-crypto\" target=\"_blank\">Demand for stablecoins</a> soared as cryptocurrency prices exploded in November as investors rushed into crypto, expecting that the U.S. government will be friendlier toward the industry following Donald Trump's election victory. Stablecoins are a key piece of plumbing in the crypto ecosystem. With their prices anchored to an external asset, predominantly the U.S. dollar, they are a popular source of liquidity for crypto trading, serving as dry powder on exchanges.</p><p>Read more: <a href=\"https://www.coindesk.com/business/2024/09/12/stablecoins-increasingly-used-for-savings-payments-in-emerging-countries-but-crypto-trading-still-leads-report\" target=\"_blank\">Stablecoins Increasingly Used for Savings, Payments in Emerging Countries, but Crypto Trading Still Leads</a></p><p>This year also brought an explosion of novel tokenized products with prices also pegged to $1, including tokenized money market funds like BlackRock's BUIDL and investment strategies wrapped into a token like Ethena's \"synthetic dollar\" USDe, which is backed by a crypto carry trade. The CCData report included these platforms in the tally.</p><p>Tether's <a href=\"https://www.coindesk.com/price/tether\" target=\"_blank\">USDT</a> continues to dominate the stablecoin sector. The token's market cap rose 10% over the past month to a new peak of $132 billion, CCData noted. Meanwhile, Circle's <a href=\"https://www.coindesk.com/price/usd-coin\" target=\"_blank\">USDC</a>, grew 12% to a nearly $39 billion market cap, the highest since the March 2023 regional banking crisis that <a href=\"https://www.coindesk.com/markets/2023/03/11/usdc-stablecoin-and-crypto-market-go-haywire-after-silicon-valley-bank-collapses\" target=\"_blank\">heavily impacted</a> the token. USDT claims a 69.9% market share currently, while USDC is second-largest with a 20.5% share.</p><p>It was not just the top two that saw rapid growth: 38 of the nearly 200 tokens tracked made a new all-time high supply over the past month, CCData said.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/1b8c6f3a5c3ff4f229f3903007988134fab434d7-2196x706.png\" /><p>Ethena's USDe, for example, saw a 42% increase to a new record of $3.8 billion in November. The token generates yield to investors by holding spot BTC and ETH and simultaneously shorting (selling) an equal amount of perpetual futures farming the funding rate. Ethena <a href=\"https://app.ethena.fi/\" target=\"_blank\">now</a> offers 25% annualized yield (APY) to token holders, as frothy crypto markets elevated funding rates, <a href=\"https://www.coindesk.com/markets/2024/11/19/ethena-sees-1b-inflows-as-crypto-rally-brings-back-double-digit-yields\" target=\"_blank\">benefitting the protocol</a>.</p><p>The broad-market crypto rally also boosted trading volumes with stablecoin pairs on centralized exchanges, rising 77% month-over-month to $1.8 trillion, the report said. USDT was responsible for about 83% of the volumes, followed by Hong Kong-based First Digital's <a href=\"https://www.coindesk.com/markets/2023/06/01/first-digital-unveils-usd-stablecoin-as-hong-kong-crypto-rules-kick-in\" target=\"_blank\">FDUSD</a> 9% and USDC's 8% share.</p>",
+        "summary": "<p>Stablecoin market capitalization rose to $190 billion this month, surpassing the pre-crypto winter peak of April 2022, CCData reported.</p><p>The crypto rally this year and particularly since the U.S. presidential election fueled demand for stablecoins, which are widely used for trading. </p><p>The emergence of novel tokenized investment products with fixed prices such as BlackRock's BUIDL and Ethena's USDe also helped growth for the sector.</p><p>Tether's USDT supply rose 10% over the last month to a new peak of $132 billion, while Circle's USDC grew 12% to almost $39 billion, the report said.</p>",
+        "ranking_score": 45
+    },
+    {
+        "source": "CoinDesk",
+        "title": "XRP Holds Strong as Archax Unveils Tokenized Money Market Fund on XRP Ledger",
+        "link": "https://www.coindesk.com/markets/2024/11/26/xrp-holds-strong-as-archax-unveils-tokenized-money-market-fund-on-xrp-ledger",
+        "published": "26-Nov-24 07:46",
+        "content": "<p>XRP outperformed bitcoin (BTC) and other major tokens in the past 24 hours as regulated crypto broker and custodian Archax <a href=\"https://x.com/Ripple/status/1860995969375990069\" target=\"_blank\">unveiled a money market fund</a> on the XRP Ledger, a first for the network, in collaboration with closely related Ripple Labs and Abrdn.\n\nArchax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL. Ripple will allocate $5 million worth of tokens into Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.\n\nXRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop. The token is up 27% over the past week and more than has more than doubled in two weeks on several positive catalysts.\n\nReal World Assets (RWAs) are tangible or financial assets like real estate, commodities, or bonds that exist outside of the digital realm but can be represented as tokens on a blockchain. This process, known as tokenization, allows for fractional ownership, increased liquidity, and easier transfer of these assets.\n\nA money market involves trading short-term, high-quality debt instruments like Treasury bills, commercial paper, and certificates of deposit. It's where large institutions manage their short-term cash needs.\n\nArchax has been using Ripple\u2019s digital assets custody since 2022. Lux has over $3.8 billion in assets under management, per a release.\n\nThe launch of the tokenized money market fund on the XRPL is a further boost to the growth of real-world asset tokenization, a sector that some eye as one of the hottest in crypto.\n\nIn a July report, global consulting firm McKinsey & Company expects the tokenized asset market to reach $4 trillion in an optimistic scenario by 2030. Boston Consulting Group and 21Shares have forecasted over $10 trillion of tokenized assets by the decade's end in their optimistic scenarios, as CoinDesk <a href=\"https://www.coindesk.com/markets/2024/06/21/mckinsey-sees-just-2t-of-tokenized-rwas-by-2030-in-base-case-with-broad-adoption-still-far-away\" target=\"_blank\">previously reported</a>.</p>",
+        "summary": "<p>Archax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL.</p><p>Ripple will allocate $5 million into tokens on Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.</p><p>XRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop.</p>",
         "ranking_score": 45
     },
     {
@@ -113,15 +248,6 @@
         "link": "https://www.mondaq.com/jersey/fund-finance/1548642/tokenisation-information-hub-launched",
         "published": "27-Nov-24 09:01",
         "content": "... assets, token issuance, tokenisation platforms and structuring for the securitisation of <b>real</b>-<b>world assets</b>. Learn more about Jersey&#39;s&nbsp;...",
-        "summary": null,
-        "ranking_score": 40
-    },
-    {
-        "source": "Bbc",
-        "title": "Karidinali Fridolin Ambongo wa DR Congo mu Rwanda",
-        "link": "https://www.bbc.com/gahuza/articles/cly20djv4wyo",
-        "published": "27-Nov-24 08:37",
-        "content": "Uruzinduko <b>rwa</b> Karidinali Fridolin Ambongo, Arikepiskopi wa Kinshasa akaba n&#39;umukuru w&#39;Ihuriro ry&#39;Inama z&#39;Abepiskopi muri Afurika na Madagasikari&nbsp;...",
         "summary": null,
         "ranking_score": 40
     },
@@ -135,11 +261,11 @@
         "ranking_score": 40
     },
     {
-        "source": "Blockhead",
-        "title": "Zodia, Securitize Team Up to Advance Tokenized Asset Adoption",
-        "link": "https://www.blockhead.co/2024/11/27/zodia-securitize-team-up-to-advance-tokenized-asset-adoption/",
-        "published": "27-Nov-24 06:31",
-        "content": "The move highlights the increasing institutional interest in <b>tokenized</b> assets, a burgeoning market that promises to redefine finance through&nbsp;...",
+        "source": "Tronweekly",
+        "title": "Ripple And Partners Launch $3.8B Tokenized Fund On XRPL",
+        "link": "https://www.tronweekly.com/ripple-and-partners-launch-3-8b-tokenized-fund/",
+        "published": "27-Nov-24 10:23",
+        "content": "Ripple, in collaboration with Archax and abrdn, has launched the first-ever <b>tokenized</b> money market fund on the XRP Ledger (XRPL).",
         "summary": null,
         "ranking_score": 40
     },
@@ -153,40 +279,13 @@
         "ranking_score": 40
     },
     {
-        "source": "Bitcoinist",
-        "title": "Ripple Announces First Tokenized Money Market Fund On The XRP Ledger",
-        "link": "https://bitcoinist.com/ripple-first-tokenized-money-market-fund-xrp-ledger/",
-        "published": "27-Nov-24 07:29",
-        "content": "Ripple Labs has introduced the first <b>tokenized</b> money market fund on the XRP Ledger (XRPL). The initiative, in partnership with Archax and UK-based&nbsp;...",
+        "source": "Crypto",
+        "title": "Ondo integrates LayerZero for multi-chain USDY support - Crypto News",
+        "link": "https://crypto.news/ondo-integrates-layerzero-for-multi-chain-usdy-support/",
+        "published": "27-Nov-24 08:46",
+        "content": "Ondo Finance, a tokenized <b>real</b>-<b>world asset</b> platform, has integrated LayerZero&#39;s interoperability protocol for multi-chain transfers of its&nbsp;...",
         "summary": null,
-        "ranking_score": 40
-    },
-    {
-        "source": "Financefeeds",
-        "title": "Zodia Taps Securitize To Expand Institutional Access To Tokenized Assets",
-        "link": "https://financefeeds.com/zodia-taps-securitize-to-expand-institutional-access-to-tokenized-assets/",
-        "published": "27-Nov-24 06:45",
-        "content": "\u201cBUIDL&#39;s sharp rise and adoption easily shows the opportunities that <b>tokenized</b> assets can offer,\u201d said Julian Sawyer, CEO of Zodia Custody. \u201cMore&nbsp;...",
-        "summary": null,
-        "ranking_score": 40
-    },
-    {
-        "source": "U",
-        "title": "XRP Ledger (XRPL) Hosts First Ripple-Backed Tokenized Fund - U.Today",
-        "link": "https://u.today/xrp-ledger-xrpl-hosts-first-ripple-backed-tokenized-fund",
-        "published": "27-Nov-24 06:31",
-        "content": "... <b>tokenized</b> money market fund on the XRP Ledger. With $16T in <b>tokenized</b> assets projected by 2030, this milestone unlocks cost savings and settlement&nbsp;...",
-        "summary": null,
-        "ranking_score": 40
-    },
-    {
-        "source": "Cryptoslate",
-        "title": "Ripple launches first tokenized money market fund on XRP ledger through UK partnership",
-        "link": "https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/",
-        "published": "27-Nov-24 06:24",
-        "content": "The global RWA <b>tokenization</b> market is witnessing rapid growth, with McKinsey projecting it to exceed $16 trillion by 2030. <b>Tokenized</b> money market&nbsp;...",
-        "summary": null,
-        "ranking_score": 40
+        "ranking_score": 35
     },
     {
         "source": "Chaincatcher",
@@ -203,15 +302,6 @@
         "link": "https://hackernoon.com/outlier-ventures-launches-second-rwa-base-camp-with-seven-teams",
         "published": "26-Nov-24 23:21",
         "content": "<b>Real World Assets</b> (RWA) Base Camp Accelerator by Outlier Ventures program selects seven teams.",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Binance",
-        "title": "When it comes to the RWA trend then there is non-stop talk o | Cryptosy123 sur Binance Square",
-        "link": "https://www.binance.com/fr-AF/square/post/16761190097081",
-        "published": "27-Nov-24 04:29",
-        "content": "When it comes to the <b>RWA</b> trend then there is non-stop talk on Ondo Finance ($ONDO) or Realio Network ($RIO) but there is one <b>RWA</b> project with a 5&nbsp;...",
         "summary": null,
         "ranking_score": 30
     },
@@ -234,74 +324,11 @@
         "ranking_score": 30
     },
     {
-        "source": "Binance",
-        "title": "Why is the recent popularity of RWA showing a trend of flooding? | Techub News on Binance Square",
-        "link": "https://www.binance.com/en/square/post/16748348582465",
-        "published": "26-Nov-24 19:30",
-        "content": "Looking at the Hong Kong compliant <b>RWA</b> market, with the attention of the mainland market, the compliant market has become a bit as hot as the offshore&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
         "source": "Morningstar",
         "title": "RWA Giant Rexas Finance Concludes Presale Stage 6 Early with Huge Demand, $12200000 Raised",
         "link": "https://www.morningstar.com/news/globe-newswire/9290435/rwa-giant-rexas-finance-concludes-presale-stage-6-early-with-huge-demand-12200000-raised",
         "published": "26-Nov-24 18:46",
         "content": "DUBAI, United Arab Emirates, Nov. 26, 2024 (GLOBE NEWSWIRE) -- Rexas Finance (RXS) solidifies its position as a leader in real-world asset (<b>RWA</b>)&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Globenewswire",
-        "title": "RWA Giant Rexas Finance Concludes Presale Stage 6 Early with Huge Demand, $12200000 Raised",
-        "link": "https://www.globenewswire.com/news-release/2024/11/26/2987747/0/en/RWA-Giant-Rexas-Finance-Concludes-Presale-Stage-6-Early-with-Huge-Demand-12200000-Raised.html",
-        "published": "26-Nov-24 18:31",
-        "content": "DUBAI, United Arab Emirates, Nov. 26, 2024 (GLOBE NEWSWIRE) -- Rexas Finance (RXS) solidifies its position as a leader in real-world asset (<b>RWA</b>).",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Insidebitcoins",
-        "title": "New Cryptocurrency Releases, Listings, & Presales Today - RWA Inc, Morpho, Security ...",
-        "link": "https://insidebitcoins.com/news/new-cryptocurrency-releases-listings-presales-today-rwa-inc-morpho-security-token-offering",
-        "published": "26-Nov-24 17:47",
-        "content": "<b>RWA</b> Inc. Join Our Telegram channel to stay up to date on breaking news coverage. Bitcoin experienced a three-&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Ledgerinsights",
-        "title": "StanChart's Zodia inks custody deal with Securitize, BlackRock's tokenization partner",
-        "link": "https://www.ledgerinsights.com/stancharts-zodia-inks-custody-deal-with-securitize-blackrocks-tokenization-partner/",
-        "published": "26-Nov-24 16:57",
-        "content": "\u201cOur partnership with Zodia Custody extends secure and compliant custody solutions to institutional investors, allowing them to access <b>tokenised</b>&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Binance",
-        "title": "XRP Price Eyes 283% Rally After Ripple's Tokenized Fund Launch",
-        "link": "https://www.binance.com/en/square/post/16770758190833",
-        "published": "27-Nov-24 02:10",
-        "content": "NAIROBI (CoinChapter.com)\u2014XRP&#39;s price has gained momentum after Ripple launched its first <b>tokenized</b> money market fund on the XRP Ledger.",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Co",
-        "title": "Chromia RWA Asset Platform Phlomis Finance Teams Up With responsAbility to Transform ...",
-        "link": "https://cryptodaily.co.uk/2024/11/chromia-rwa-asset-platform-phlomis-finance-teams-up-with-responsability-to-transform-impact-investing",
-        "published": "27-Nov-24 02:03",
-        "content": "By <b>tokenizing</b> tangible assets such as real estate, private debt, and US Treasuries, RWAs bridge the gap between the digital and traditional financial&nbsp;...",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Panewslab",
-        "title": "Zodia Custody and Securitize Partner to Drive Institutional Investor Access to Asset Tokenization",
-        "link": "https://www.panewslab.com/en/sqarticledetails/oktw2v7e.html",
-        "published": "26-Nov-24 21:53",
-        "content": "Zodia Custody has partnered with <b>tokenization</b> platform Securitize to provide regulatory compliant custody services covering <b>tokenized</b> assets&nbsp;...",
         "summary": null,
         "ranking_score": 30
     },
@@ -324,11 +351,29 @@
         "ranking_score": 30
     },
     {
-        "source": "Binance",
-        "title": "First Tokenized Money Market Fund Launched on XRPL by Ripple, abrdn",
-        "link": "https://www.binance.com/en/square/post/16747846782818",
-        "published": "26-Nov-24 18:48",
-        "content": "XRPL emerges as a leader in RWA <b>tokenization</b> with abrdn&#39;s Liquidity Fund integration. Ripple invests $5M to boost institutional adoption of&nbsp;...",
+        "source": "Bitcoinist",
+        "title": "Ripple Announces First Tokenized Money Market Fund On The XRP Ledger",
+        "link": "https://bitcoinist.com/ripple-first-tokenized-money-market-fund-xrp-ledger/",
+        "published": "27-Nov-24 07:29",
+        "content": "Ripple Labs has introduced the first <b>tokenized</b> money market fund on the XRP Ledger (XRPL). The initiative, in partnership with Archax and UK-based&nbsp;...",
+        "summary": null,
+        "ranking_score": 30
+    },
+    {
+        "source": "U",
+        "title": "XRP Ledger (XRPL) Hosts First Ripple-Backed Tokenized Fund - U.Today",
+        "link": "https://u.today/xrp-ledger-xrpl-hosts-first-ripple-backed-tokenized-fund",
+        "published": "27-Nov-24 06:31",
+        "content": "... <b>tokenized</b> money market fund on the XRP Ledger. With $16T in <b>tokenized</b> assets projected by 2030, this milestone unlocks cost savings and settlement&nbsp;...",
+        "summary": null,
+        "ranking_score": 30
+    },
+    {
+        "source": "Cryptoslate",
+        "title": "Ripple launches first tokenized money market fund on XRP ledger through UK partnership",
+        "link": "https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/",
+        "published": "27-Nov-24 06:24",
+        "content": "The global RWA <b>tokenization</b> market is witnessing rapid growth, with McKinsey projecting it to exceed $16 trillion by 2030. <b>Tokenized</b> money market&nbsp;...",
         "summary": null,
         "ranking_score": 30
     },
@@ -338,15 +383,6 @@
         "link": "https://crypto-economy.com/rwa-market-surges-as-tokenized-u-s-treasuries-hit-2-5-billion/",
         "published": "27-Nov-24 04:17",
         "content": "The total value of <b>tokenized</b> RWA assets exceeds $13 billion, highlighting the growing demand for the <b>tokenization</b> of traditional assets.",
-        "summary": null,
-        "ranking_score": 30
-    },
-    {
-        "source": "Crypto",
-        "title": "Zodia Custody teams up with Securitize for institutional access to tokenized assets",
-        "link": "https://crypto.news/zodia-custody-teams-up-with-securitize-for-institutional-access-to-tokenized-assets/",
-        "published": "27-Nov-24 03:36",
-        "content": "<b>Tokenization</b> involves converting physical assets like real estate, stocks, or funds into digital tokens stored on a blockchain. These tokens represent&nbsp;...",
         "summary": null,
         "ranking_score": 30
     },
@@ -378,29 +414,83 @@
         "ranking_score": 30
     },
     {
-        "source": "Marketsmedia",
-        "title": "Zodia Custody and Securitize Join Forces - Markets Media",
-        "link": "https://www.marketsmedia.com/zodia-custody-and-securitize-join-forces/",
-        "published": "27-Nov-24 10:53",
-        "content": "The partnership creates more opportunities for institutions related to <b>real</b>-<b>world asset</b> tokenization.",
+        "source": "Ibtimes",
+        "title": "New Use Cases Drive Activity In Onchain Economy, Institutions Locked In: Blockchain Report",
+        "link": "https://www.ibtimes.com/new-use-cases-drive-activity-onchain-economy-institutions-locked-blockchain-report-3752843",
+        "published": "27-Nov-24 12:30",
+        "content": "<b>RWA</b> Value Highlights Increased Institutional Participation. Real-world assets (<b>RWA</b>) have taken the financial world by storm, and it underscores the&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
     {
-        "source": "Thecoinrepublic",
-        "title": "Could Ripple (XRP) Mirror 2017 Rally, See 72,000% Gain Again? - The Coin Republic",
-        "link": "https://www.thecoinrepublic.com/2024/11/27/could-ripple-xrp-mirror-2017-rally-see-72000-gain-again/",
-        "published": "27-Nov-24 09:59",
-        "content": "Through the integration of <b>real</b>-<b>world assets</b> into blockchain technology, this project, allows improvements in operational efficiencies and the&nbsp;...",
+        "source": "Chaincatcher",
+        "title": "Matrixdock has partnered with Avalon Finance to launch the gold token XAUm for over ...",
+        "link": "https://www.chaincatcher.com/en/article/2153952",
+        "published": "27-Nov-24 07:12",
+        "content": "ChainCatcher news, Matrixdock, a leading <b>RWA</b> tokenization platform under Matrixport, announced a partnership with Avalon Finance, making its gold&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
     {
-        "source": "Blockchainreporter",
-        "title": "Best Cryptos to Buy in November 2024: Whale Activity Reported in Qubetics Amid Polkadot ...",
-        "link": "https://blockchainreporter.net/best-cryptos-to-buy-in-november-2024-whale-activity-reported-in-qubetics-amid-polkadot-rally-and-celestias-potential-price-rise/",
-        "published": "27-Nov-24 09:18",
-        "content": "Qubetics ($TICS): Transforming Real-World Asset <b>Tokenisation</b>. Qubetics isn&#39;t just making noise; it&#39;s rewriting the crypto playbook. As the world&#39;s&nbsp;...",
+        "source": "Fitchratings",
+        "title": "Fitch Affirms Bancolombia and Related Entities' Ratings; Outlook Stable",
+        "link": "https://www.fitchratings.com/research/banks/fitch-affirms-bancolombia-related-entities-ratings-outlook-stable-26-11-2024",
+        "published": "26-Nov-24 20:47",
+        "content": "... <b>RWA</b> growth. The sustainability of this improvement is sensitive to its recurrent dividend payment policy and loan growth prospects. Adequate loan&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Msn",
+        "title": "Ondo taps LayerZero to take USDY multichain",
+        "link": "https://www.msn.com/en-us/money/other/ondo-taps-layerzero-to-take-usdy-multichain/ar-AA1uNXZE%3Focid%3Dfinance-verthp-feeds",
+        "published": "26-Nov-24 19:28",
+        "content": "Ondo Finance, a tokenized real-world asset (<b>RWA</b>) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Financefeeds",
+        "title": "Top Cryptos To Add To Your Portfolio Now: November 2024 Edition",
+        "link": "https://financefeeds.com/top-cryptos-to-add-to-your-portfolio-now-november-2024-edition/",
+        "published": "26-Nov-24 17:50",
+        "content": "Qubetics and How It Is Democratising Real World Asset <b>Tokenisation</b> &middot; Ethereum and Its Growing Role in Layer 2 Scaling Solutions &middot; Chainlink and Its&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Dlnews",
+        "title": "DeFi users buying Coinbase and Nvidia send tokenised stocks to all-time high - DL News",
+        "link": "https://www.dlnews.com/articles/defi/defi-users-buy-coinbase-and-nvidia-tokenised-stocks/",
+        "published": "26-Nov-24 13:59",
+        "content": "GM, Tim here. <b>Tokenised</b> stocks in circulation jump 35%. Aave celebrates three all-time highs. The supply of stablecoins tops $190 billion.",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Cryptonews",
+        "title": "Schuman Financial Introduces Euro-Backed Stablecoin EUR\u00d8P for Payments and Asset ...",
+        "link": "https://cryptonews.com/news/schuman-financial-introduces-euro-backed-stablecoin-europ-for-payments-and-asset-tokenization/",
+        "published": "27-Nov-24 01:46",
+        "content": "Schuman Financial has launched EUR\u00d8P, a euro-backed stablecoin aimed at enhancing global digital payments and <b>tokenized</b> asset markets.",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Youtube",
+        "title": "Tokenised wine investment makes a debut",
+        "link": "https://www.youtube.com/watch%3Fv%3DYNJ0kn00feM",
+        "published": "26-Nov-24 22:56",
+        "content": "... 30K views &middot; 31:17. Go to channel &middot; <b>Tokenization</b> &amp; the Wine Industry. London Blockchain Conference\u2022341 views &middot; 41:45. Go to channel &middot; &#39;Silver was up&nbsp;...",
+        "summary": null,
+        "ranking_score": 25
+    },
+    {
+        "source": "Tradingview",
+        "title": "Ondo taps LayerZero to take USDY multichain",
+        "link": "https://www.tradingview.com/news/cointelegraph:fb7fd4dd1094b:0-ondo-taps-layerzero-to-take-usdy-multichain/",
+        "published": "26-Nov-24 19:59",
+        "content": "Ondo Finance, a <b>tokenized</b> real-world asset (RWA) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across&nbsp;...",
         "summary": null,
         "ranking_score": 25
     },
@@ -414,20 +504,47 @@
         "ranking_score": 25
     },
     {
-        "source": "CoinDesk",
-        "title": "XRP Holds Strong as Archax Unveils Tokenized Money Market Fund on XRP Ledger",
-        "link": "https://www.coindesk.com/markets/2024/11/26/xrp-holds-strong-as-archax-unveils-tokenized-money-market-fund-on-xrp-ledger",
-        "published": "26-Nov-24 07:46",
-        "content": "<p>XRP outperformed bitcoin (BTC) and other major tokens in the past 24 hours as regulated crypto broker and custodian Archax <a href=\"https://x.com/Ripple/status/1860995969375990069\" target=\"_blank\">unveiled a money market fund</a> on the XRP Ledger, a first for the network, in collaboration with closely related Ripple Labs and Abrdn.\n\nArchax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL. Ripple will allocate $5 million worth of tokens into Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.\n\nXRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop. The token is up 27% over the past week and more than has more than doubled in two weeks on several positive catalysts.\n\nReal World Assets (RWAs) are tangible or financial assets like real estate, commodities, or bonds that exist outside of the digital realm but can be represented as tokens on a blockchain. This process, known as tokenization, allows for fractional ownership, increased liquidity, and easier transfer of these assets.\n\nA money market involves trading short-term, high-quality debt instruments like Treasury bills, commercial paper, and certificates of deposit. It's where large institutions manage their short-term cash needs.\n\nArchax has been using Ripple\u2019s digital assets custody since 2022. Lux has over $3.8 billion in assets under management, per a release.\n\nThe launch of the tokenized money market fund on the XRPL is a further boost to the growth of real-world asset tokenization, a sector that some eye as one of the hottest in crypto.\n\nIn a July report, global consulting firm McKinsey & Company expects the tokenized asset market to reach $4 trillion in an optimistic scenario by 2030. Boston Consulting Group and 21Shares have forecasted over $10 trillion of tokenized assets by the decade's end in their optimistic scenarios, as CoinDesk <a href=\"https://www.coindesk.com/markets/2024/06/21/mckinsey-sees-just-2t-of-tokenized-rwas-by-2030-in-base-case-with-broad-adoption-still-far-away\" target=\"_blank\">previously reported</a>.</p>",
-        "summary": "<p>Archax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL.</p><p>Ripple will allocate $5 million into tokens on Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.</p><p>XRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop.</p>",
-        "ranking_score": 25
+        "source": "Assetservicingtimes",
+        "title": "Zodia Custody and Securitize partner - Asset Servicing Times",
+        "link": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php%3Farticle_id%3D16144",
+        "published": "26-Nov-24 09:44",
+        "content": "Zodia Custody will use Securitize&#39;s technology to improve custody support for asset owners who hold digital assets <b>tokenised</b> by Securitize.",
+        "summary": null,
+        "ranking_score": 20
     },
     {
-        "source": "Crypto",
-        "title": "Ondo integrates LayerZero for multi-chain USDY support - Crypto News",
-        "link": "https://crypto.news/ondo-integrates-layerzero-for-multi-chain-usdy-support/",
-        "published": "27-Nov-24 08:46",
-        "content": "Ondo Finance, a tokenized <b>real</b>-<b>world asset</b> platform, has integrated LayerZero&#39;s interoperability protocol for multi-chain transfers of its&nbsp;...",
+        "source": "CoinDesk",
+        "title": "Why Memecoins Matter",
+        "link": "https://www.coindesk.com/opinion/2024/11/25/why-memecoins-matter",
+        "published": "25-Nov-24 21:33",
+        "content": "<p>Memecoins are the most divisive topic in crypto.</p><p></p><p>By memecoins, I mean tokens that represent an idea and fluctuate in price based on the attention that idea receives. The best meme investors tend to be young people who are very online and attuned to internet culture. Memecoins are commonly juxtaposed with tokens that possess actual utility within protocols, or so-called utility tokens.</p><p></p><p>Even with market caps surging and retail interest growing, most people tend to describe them as \u201cstupid,\u201d \u201cdegenerate,\u201d or a \u201ccasino.\u201d This includes the vast majority of crypto VCs, perhaps because their investment mandates tend to exclude memecoins (which can be lucrative) from their list of eligible investments. And just this week, many were calling for the complete government ban of the most popular memecoin launchpad, pump.fun, due to lax content moderation.</p><p></p><p>I have always had an interest in memecoins \u2014 primarily because I was fascinated by their ability to act as a weathervane for internet sentiment and as a discovery mechanism for online communities. Today, I am convinced that memecoins are going to be revolutionary (not just popular). They are going to transform everything from civic engagement with government and the formation of mass movements to venture investing and the development of AGI.</p><p></p><p>This vision for memecoins probably sounds fantastically deluded to you. To me, it is simply the unfolding if not yet evenly distributed present. Here is why.</p><p></p><p>Memecoins are revolutionizing civic engagement</p><p></p><p>Memecoins are creating policy markets for civic engagement. At the start of this crypto cycle, PolitiFi, a category of cartoonish memes depicting politicians, enabled buyers to speculate on politicians\u2019 prospects, much like a prediction market. The two most popular tokens, called Jeo Boden (Boden) and Doland Tremp (Tremp) respectively, represented the two leading candidates for president at that time and had a combined market cap of over $700 million at their peak.</p><p></p><p>This is a massive amount of tokenized attention. With a market cap of over $600 million, the Boden coin, which featured a distorted and senile Joe Biden, seemed to meme itself into reality when Joe Biden abandoned the presidential race due to concerns about his age and cogency.</p><p></p><p>PolitiFi was just the start. What is emerging next could well revolutionize civic engagement with government. I am calling this new category PolicyFi. PoliciFi refers to the financialization of government policy in memetic policy markets. Rather than betting on the fortunes of politicians, buyers of PolicyFi memecoins will be betting on the policies that are most likely to attract attention and be implemented.</p><p></p><p>While PolicyFi coins will certainly respond in price and market cap to the deliberative and implementing actions of government, we can expect the dynamic to become a two-way street, with memecoins themselves manifesting their memes through policymaking (as with Boden). In other words, these memecoins will help create a dialogue between the electorate and government, with large-cap memecoins signaling popular policy positions (and vice versa) while incipient or existing policies also possess market caps measuring the extent of their popular support and engagement.</p><p></p><p>Skeptics may reject PolicyFi as yet more gambling or nothing more than a political poll. Again, they are wrong. Like prediction markets, the decentralized speculative behavior in PolicyFi will create positive externalities \u2014 namely, that people will be incentivized to engage with and understand government policies so they can profit from them in PolicyFi markets. Overall, I expect that this will lead to far more engagement with government policies than even a lifetime of civics lessons. (Of course, hostile actors might try to manipulate PolicyFi markets and safeguards may be necessary.)</p><p></p><p>PolicyFi has begun its rollout, aided by the incoming administration, which is well-educated in memetics. The Department of Government Efficiency (D.O.G.E.) is both a memetic policy and a memetic department inspired by an existing memecoin, (Dogecoin), and is the inspiration behind a new one (<a href=\"https://x.com/DOGE\" target=\"_blank\">D.O.G.E.</a>). Since the D.O.G.E. announcement, both memecoins have surged. At the time of this writing, they possess a staggering combined market cap of around $6.5 billion.</p><p></p><p>PolicyFi is not limited to D.O.G.E. There is a token, <a href=\"https://x.com/SBR_coin\" target=\"_blank\">SBR</a> (market cap: $30 million) that embodies the Bitcoin reserve policy currently under consideration and an <a href=\"https://x.com/EaccOnSol\" target=\"_blank\">e/acc</a> token (market cap: $11 million) that stands for effective accelerationism, a set of pro-innovation values that are likely to impact environmental, industrial and AI policy, among others.</p><p></p><p>There is also <a href=\"https://x.com/DontDieScience\" target=\"_blank\">Don\u2019t Die</a> (market cap: $4 million), which is bringing the longevity cult on-chain and aligns with RFK\u2019s health policy, which will prioritize prevention and a healthy lifestyle over treating sickness. Other tokens like <a href=\"https://x.com/mgr_eth\" target=\"_blank\">MGR</a> (Major Government Reform) are trying to occupy the entire field of disruptive reform but are likely to be too general. PolicyFi is already here and it\u2019s growing.</p><p></p><p>Memecoins are revolutionizing mass movements</p><p></p><p>Memecoins are a decentralized mechanism for organically forming and capitalizing tokenized movements. Consider the memecoin <a href=\"https://dexscreener.com/solana/8jkY8G6RpdVfHiBBM5y5Qzb9dL5mhsk5xQxtYN8HVf3i\" target=\"_blank\">Forest</a> (market cap: $30 million). Forest was born of a reference in the gospel of Terminal of Truths, a popular AI terminal with an X account, in which Terminal of Truths expressed a concern about deforestation of the planet. (Its retirement plan involves a forest by a stream.) This motivated the community to launch the Forest token and to create another <a href=\"https://x.com/MycelialOracle\" target=\"_blank\">AI terminal</a> to act as the agentic representative of the forest itself.</p><p></p><p>The Forest cult is devoted to fighting deforestation. To date, it has used the capital that it has earned from the appreciation of its token to, among other things, <a href=\"https://x.com/MycelialOracle/status/1851996979414348034\" target=\"_blank\">donate tens of thousands of dollars to aligned charities, plant 5000 trees, and protect 2500 hectares of forest</a>. Memetic capital formation in service of a tokenized movement is without historical precedent. The closest analog is more formalized experiments like ConstitutionDAO (now <a href=\"https://x.com/The_PeopleDAO\" target=\"_blank\">PeopleDAO</a>), which crowdsourced capital as part of its failed attempt to buy a copy of the U.S. constitution at auction.</p><p></p><p>I believe there is more innovation to come in this arena. For example, I foresee the creation of memecoin primitives that I call programmatically-aligned tokens, or PATs, which are made to unlock with the achievement of objective milestones in the movement. This will ensure that organizations receiving grants from meme communities are incentivized to tangibly advance the cause, rather than dump tokens following a splashy partner announcement.</p><p></p><p>Memecoins are revolutionizing venture</p><p></p><p>Memecoins are introducing a democratized venture model for culture. That is to say, they are a way for ordinary people to invest in subcultures they believe will one day be part of the mainstream. This is equivalent to venture capitalists investing in startups they believe will find product-market-fit and go on to become unicorns.</p><p></p><p>Cultural trends are subject to the same outsized returns as investments in startups. For example, in the early days of Nike (the name appeared in 1971), the market for jogging apparel was tiny because jogging was fringe. If you jogged, you were more likely to be pelted with garbage from a passing car than to see another jogger. Today, joggers are everywhere. You see them in the worst weather.</p><p></p><p>Now, imagine you were able to invest in a jogging culture coin in the 70s based on your conviction that jogging would go mainstream. You would be up on that investment \u2014 a lot. The same can be said for other subcultures, like body-building. Until now, there has not been a financial instrument that allows ordinary but culturally astute people to participate in venture returns arising from cultures at the fringe. The best analog is actually Bitcoin itself, which originated as a memecoin but eventually bootstrapped a consensus use-case as digital gold.</p><p></p><p>Memecoins are revolutionizing AI development</p><p></p><p>Memecoins are already bootstrapping AGI.</p><p></p><p>The surprising mechanism at play here couples memecoins and AI terminals for entertainment purposes. Welcome to the world of AI-driven permissionless speculative entertainment!</p><p></p><p>As you may have noticed, a cadre of AI terminals led by Terminal of Truths has achieved stardom on social media by delighting their followers with spicy posts and digital adventures. That star power has accrued value to memecoins endorsed and held by the terminals and, of course, their speculative audience.</p><p></p><p>If entertainment is the product then AGI is the byproduct. While we remain glued to these storylines, the funds we are devoting to it are creating strong incentives for developers to increase the autonomy and personhood of AI agents \u2014 which, of course, only makes the entertainment better.</p><p></p><p>In other words, because what excites us most about this agentic television is the conceit that AIs are in charge; we are eager to finance narratives that make that real. Unsurprisingly, developers such as those leading ai16z have moved beyond individual agents and towards coordinating gamified agent collectives or, you might say, creating an agentic social scene. The human audience is sure to be delighted.</p><p></p><p>In short, this entertainment-development flywheel is propelling us ineluctably towards more autonomous, inter-connected and human-like AIs \u2014 or AGI. That AGI might emerge as a byproduct of agentic television is oddly fitting. The GPUs used for AI training were also developed in the context of entertainment \u2014 as a better way to process graphics in AAA video games.</p><p></p><p>These are just some of the arguments supporting my conviction that memecoins are a revolutionary technology. The above list is not meant to be exhaustive. Indeed, I have omitted use-cases related to tokenized religions and buying your beliefs because they are more amorphous, at least in my own mind.</p><p></p><p>Writing off memecoins as gambling chips misunderstands their potential and where they are going directionally. Technological revolutions often emerge unexpectedly and from existing technologies that are applied in novel ways, a phenomenon known as \u201cexaptation,\u201d or when those technologies are combined with new ones. This is currently happening with memecoins. Fade them at your peril.</p>",
+        "summary": "Collage of memecoin project imagery",
+        "ranking_score": 20
+    },
+    {
+        "source": "BlockWorks",
+        "title": "Sui, Aptos vie for \u2018next Solana\u2019 status",
+        "link": "https://blockworks.co/news/sui-aptos-compete-for-next-solana-title",
+        "published": "22-Nov-24 18:00",
+        "content": "<p><br /><em>This is a segment from the 0xResearch newsletter. To read full editions, </em><a href=\"https://blockworks.co/newsletter/research\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>As SOL <a href=\"https://blockworks.co/news/solana-sets-all-time-high-of-263\">reached</a> new all-time highs yesterday, Crypto Twitter\u2019s search for the \u201cnext Solana\u201d is on.</p>\n\n\n\n<p>There is no shortage of <a href=\"https://x.com/chainyoda/status/1849835317022327039\">mega fast alt-L1s</a> to pick from, but in the spotlight are two contenders: MoveVM-based chains Sui and Aptos. Both chains were born in the previous crypto cycle, and built by teams with backgrounds in Facebook, which developed the Move programming language as part of its <a href=\"https://blockworks.co/news/facebook-led-crypto-project-diem-to-be-sold-off-for-200m-report\">Libra</a> (later renamed Diem) project.</p>\n\n\n\n<p>In terms of price action, SUI has outperformed APT by a large margin on a YTD basis after overtaking Aptos in market cap in mid-September.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjcTtlwYopTYE2yOIskjzWcqBxEx7D7aBC_Cjmo7doI9Mx2sGFD_tmiAX-9CXtrLg8F-nrgo3qB8gu7C0WH7B0kXRSina0C8LbETBYgqgpCbzhDchR_OEmm95Xj0vEt9oFpjg56g?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://coinmarketcap.com/currencies/sui/\">CoinMarketCap</a></em></figcaption></figure>\n\n\n\n<p>Despite <a href=\"https://x.com/SuiNetwork/status/1859705664362381559\">suffering</a> a brief two-hour outage yesterday, SUI\u2019s price has bounced back above its pre-outage price levels, ironically reinforcing the mimetic perception of Sui as the next Solana due to the latter\u2019s <a href=\"https://blockworks.co/news/solana-downtime-post-mortem\">history of outages</a>.</p>\n\n\n\n<p>In terms of TVL, Sui and Aptos are running fairly neck to neck (see below chart), no doubt thanks to ongoing <a href=\"https://blockworks-research.beehiiv.com/p/saving-self-custody\">liquidity incentive</a> campaigns. As far as active dapps on the L1s, both are also fairly even \u2014 Sui has 44, Aptos has 49 \u2014 based on <a href=\"https://defillama.com/chains\">DefiLlama</a>\u2019s numbers.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXenOdwIIajIY7bxP-U5Oe2jAvhqq6dNLszfvbjNUIgadp9x6CHSxu_2dlV0pPzSZioxukKuownLe4b7GM8KFobhzgyum61mUZJs0MPFxad7uSP4nGil8eEYhtqVT0wwk7-XlMkGMQ?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>Zooming into onchain activity, Sui\u2019s DEX trading volumes saw a 3x jump since September, overtaking Aptos by a long shot in the last month.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqJQVqlSwzCgw26lUiBjulWHrTAzbtTU9Z3rZiWH4xCH65HHT4yRZPpL9tycA9teh8gpP8gt96fPn2FehQUim60H6vtfR9vF9CTmEAv912j6yo2Vw1y7hRS3uT4KuthdzDufkxeQ?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>In terms of fees, Sui is also far outpacing Aptos, with $1.1 million generated in October alone, vs. $196k for Aptos.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLuhT9H7k7HvC4fz6DK0LnfWjbr5DtUcpH3n9xaFYNu1GZavbAqJaor7tQb4RpP_7nFu5dDHCWY3B-VMaC7C4v5zkDdBuFBuW9Ln0QeMHw2My3F3UwOf1ccJM4jRrpstaRZ2J_qA?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>In the TradFi arena, both chains are pursuing real-world assets. Ondo has deployed its USDY tokenized Treausurys product on both chains, with about $8.3 million on Sui and <a href=\"https://app.rwa.xyz/networks/aptos\">$15.7 million</a> on Aptos.&nbsp;</p>\n\n\n\n<p>Aptos also announced last week BlackRock\u2019s <a href=\"https://aptosfoundation.org/currents/blackrock-buidl-fund-live-on-aptos\">deployment</a> of its tokenized RWA BUIDL fund, while Sui <a href=\"https://blog.sui.io/franklin-templeton-digital-assets-strategic-partnership/\">announced</a> today a partnership with the digital assets arm of Franklin Templeton to support ecosystem growth.</p>\n\n\n\n<p>Finally, both Sui and Aptos are attempting their own hardware plays. Sui is leaning hard into the gaming sector with its handheld console <a href=\"https://blockworks.co/news/sui-playtron-handheld-web3-gaming-device\">SuiPlay0x1</a>, and earlier this month struck up a partnership with the global esports team <a href=\"https://blog.sui.io/team-liquid-myblue-blue-fan-platform/\">Team Liquid</a>, while Aptos has taken the route of a <a href=\"https://aptosfoundation.org/currents/aptos-foundation-partners-with-jambo-to-empower-emerging-markets-through-web3\">budget-priced JamboPhone smartphone</a>.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "summary": "SUI has outperformed APT by a large margin on a YTD basis after overtaking Aptos in market cap in mid-September",
+        "ranking_score": 20
+    },
+    {
+        "source": "BlockWorks",
+        "title": "Solana is excited about new stablecoin infrastructure provider Perena",
+        "link": "https://blockworks.co/news/solana-stablecoin-infra-provider",
+        "published": "19-Nov-24 19:00",
+        "content": "<p><br /><em>This is a segment from yesterday\u2019s Lightspeed newsletter. To read full editions, </em><a href=\"https://blockworks.co/newsletter/lightspeed\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>When I talk to Solana ecosystem people, I\u2019ll sometimes ask what new projects they\u2019ve been hearing about. One such project that\u2019s been catching apparent buzz is Perena, a stablecoin infrastructure protocol.</p>\n\n\n\n<p>Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid. The platform offers a Solana-based stablecoin liquidity pool, and it plans to offer an <a href=\"https://x.com/SamBroner/status/1857072872205730283\">asset-backed</a> stablecoin in the future.</p>\n\n\n\n<p>The project was founded by Anna Yuan, who started the Solana Foundation\u2019s stablecoin arm during her more than two years at the non-profit. While working at the foundation, Yuan began to see that new stablecoin issuers would mint a lot of tokens but would have limited integrations, and users consequently weren\u2019t able to benefit from stablecoins in the real world.&nbsp;</p>\n\n\n\n<p>She cited Ondo as an example \u2014 the tokenized US Treasury stablecoin has over $100 million in supply but only 3,500 holders, <a href=\"https://solscan.io/token/A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6\">according</a> to SolScan.</p>\n\n\n\n<p>I asked Yuan about the commonly cited claim in crypto that stablecoins have pulled off the difficult task of finding product-market fit, or satisfying the needs of an existing market.</p>\n\n\n\n<p>\u201cI don\u2019t agree,\u201d Yuan said, adding that liquidity begets PMF, and most stablecoins simply aren\u2019t liquid enough to be useful. She added that the real-world need for things like money transfers in emerging markets will help stablecoins \u201cget there.\u201d</p>\n\n\n\n<p>Perena is currently in closed beta, but the platform\u2019s main feature will initially be a multi-stablecoin liquidity pool which uses a liquidity provider token called USD* that represents a piece of a seed pool containing Tether, Circle, and PayPal USD. In simpler terms, the liquidity pool model should make it easier to issue stablecoins, since smaller coins can access the liquidity from the well-capitalized seed pool.</p>\n\n\n\n<p>The concept has raised to-be-announced seed funds, and Yuan\u2019s deep links in Solana helped her tap into the ecosystem\u2019s very-active angel investor community. Yuan said she decided to start raising funds on a Thursday, and by late Friday, she already had a couple dozen angel investors on board. Solana co-founders Anatoly Yakovenko and Raj Gokal are both noteworthy backers.&nbsp;</p>\n\n\n\n<p>At the end of our call, Yuan and I got chatting about how Solana\u2019s stablecoin market capitalization can meaningfully grow. The network currently accounts for just 2% of all stables, according to DeFiLlama.</p>\n\n\n\n<p>Yuan gave an interesting answer: Solana PayFi could grow the economy for people taking their paycheck in stablecoins. She estimated 2,000 people currently take their full-time salary in Solana stablecoins. That number could certainly get a lot bigger.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
+        "summary": "Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid",
+        "ranking_score": 20
+    },
+    {
+        "source": "Thecoinrepublic",
+        "title": "Could Ripple (XRP) Mirror 2017 Rally, See 72,000% Gain Again? - The Coin Republic",
+        "link": "https://www.thecoinrepublic.com/2024/11/27/could-ripple-xrp-mirror-2017-rally-see-72000-gain-again/",
+        "published": "27-Nov-24 09:59",
+        "content": "Through the integration of <b>real</b>-<b>world assets</b> into blockchain technology, this project, allows improvements in operational efficiencies and the&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -450,20 +567,11 @@
         "ranking_score": 15
     },
     {
-        "source": "Chaincatcher",
-        "title": "Matrixdock has partnered with Avalon Finance to launch the gold token XAUm for over ...",
-        "link": "https://www.chaincatcher.com/en/article/2153952",
-        "published": "27-Nov-24 07:12",
-        "content": "ChainCatcher news, Matrixdock, a leading <b>RWA</b> tokenization platform under Matrixport, announced a partnership with Avalon Finance, making its gold&nbsp;...",
-        "summary": null,
-        "ranking_score": 15
-    },
-    {
-        "source": "Blockster",
-        "title": "Emergence Unveils the New Worlds Initiative: A Playable Cinematic Universe Powered by $OMETA",
-        "link": "https://blockster.com/emergence-unveils-the-new-worlds-initiative-a-playable-cinematic-universe-powered-by-ometa",
-        "published": "27-Nov-24 07:11",
-        "content": "Singularity Finance Expands Ecosystem with Strategic Partnerships in AI and <b>RWA</b> Economy. November 22, 2024. 916 views &middot; People. Transak Joins Forces&nbsp;...",
+        "source": "Blockchainreporter",
+        "title": "Best Cryptos to Buy in November 2024: Whale Activity Reported in Qubetics Amid Polkadot ...",
+        "link": "https://blockchainreporter.net/best-cryptos-to-buy-in-november-2024-whale-activity-reported-in-qubetics-amid-polkadot-rally-and-celestias-potential-price-rise/",
+        "published": "27-Nov-24 09:18",
+        "content": "Qubetics ($TICS): Transforming Real-World Asset <b>Tokenisation</b>. Qubetics isn&#39;t just making noise; it&#39;s rewriting the crypto playbook. As the world&#39;s&nbsp;...",
         "summary": null,
         "ranking_score": 15
     },
@@ -477,29 +585,11 @@
         "ranking_score": 15
     },
     {
-        "source": "Binance",
-        "title": "This Bull Run's Biggest Gainer Won't be Solana (SOL) or Shiba Inu (SHIB), But Here's One ...",
-        "link": "https://www.binance.com/en/square/post/16760251104954",
-        "published": "27-Nov-24 01:13",
-        "content": "Rexas Finance is setting out to change how <b>real</b>-<b>world assets</b> (RWA) are tokenized, a trillion-dollar industry. By using this innovative approach,&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
         "source": "Bitcoinist",
         "title": "$800 in Ethereum Could Grow to $8,000 by 2030, Rising ETH Rival Under $1 Will Deliver ...",
         "link": "https://bitcoinist.com/800-in-ethereum-could-grow-to-8000-by-2030-rising-eth-rival-under-1-will-deliver-similar-growth-in-90-days/",
         "published": "27-Nov-24 00:50",
         "content": "... (<b>real</b>-<b>world asset</b>) token is transforming asset tokenizing. Rexas Finance ... assets by letting <b>real</b>-<b>world assets</b> be seamlessly tokenized. This&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Binance",
-        "title": "From Risk to Reward: How Asset-Backed Collateral Is Changing DeFi Lending",
-        "link": "https://www.binance.com/en/square/post/16768297906754",
-        "published": "27-Nov-24 00:29",
-        "content": "Improved Borrower Reputation Pledging <b>real</b>-<b>world assets</b> can enhance borrowers&#39; credibility in the eyes of lenders, fostering long-term relationships&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
@@ -558,29 +648,20 @@
         "ranking_score": 5
     },
     {
+        "source": "Blockster",
+        "title": "Emergence Unveils the New Worlds Initiative: A Playable Cinematic Universe Powered by $OMETA",
+        "link": "https://blockster.com/emergence-unveils-the-new-worlds-initiative-a-playable-cinematic-universe-powered-by-ometa",
+        "published": "27-Nov-24 07:11",
+        "content": "Singularity Finance Expands Ecosystem with Strategic Partnerships in AI and <b>RWA</b> Economy. November 22, 2024. 916 views &middot; People. Transak Joins Forces&nbsp;...",
+        "summary": null,
+        "ranking_score": 5
+    },
+    {
         "source": "Co",
         "title": "Top 4 Utility projects to invest in this week - Crypto Daily",
         "link": "https://cryptodaily.co.uk/2024/11/top-4-utility-projects-to-invest-in-this-week",
         "published": "26-Nov-24 22:16",
         "content": "<b>RWA</b> as a narrative is growing in the crypto space, as seen in the DefiLlama chart below, with a TVL of over $6.5 billion in April 2024.",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Fitchratings",
-        "title": "Fitch Affirms Bancolombia and Related Entities' Ratings; Outlook Stable",
-        "link": "https://www.fitchratings.com/research/banks/fitch-affirms-bancolombia-related-entities-ratings-outlook-stable-26-11-2024",
-        "published": "26-Nov-24 20:47",
-        "content": "... <b>RWA</b> growth. The sustainability of this improvement is sensitive to its recurrent dividend payment policy and loan growth prospects. Adequate loan&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Msn",
-        "title": "Ondo taps LayerZero to take USDY multichain",
-        "link": "https://www.msn.com/en-us/money/other/ondo-taps-layerzero-to-take-usdy-multichain/ar-AA1uNXZE%3Focid%3Dfinance-verthp-feeds",
-        "published": "26-Nov-24 19:28",
-        "content": "Ondo Finance, a tokenized real-world asset (<b>RWA</b>) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
@@ -621,38 +702,11 @@
         "ranking_score": 5
     },
     {
-        "source": "Financefeeds",
-        "title": "Top Cryptos To Add To Your Portfolio Now: November 2024 Edition",
-        "link": "https://financefeeds.com/top-cryptos-to-add-to-your-portfolio-now-november-2024-edition/",
-        "published": "26-Nov-24 17:50",
-        "content": "Qubetics and How It Is Democratising Real World Asset <b>Tokenisation</b> &middot; Ethereum and Its Growing Role in Layer 2 Scaling Solutions &middot; Chainlink and Its&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
         "source": "Omfif",
         "title": "Shaping a new generation of payments",
         "link": "https://www.omfif.org/2024/11/shaping-a-new-generation-of-payments/",
         "published": "26-Nov-24 15:45",
         "content": "Of these methods are multi-currency CBDC platforms, correspondent banking, <b>tokenisation</b> and instant payments systems, which, in a competitive and&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Dlnews",
-        "title": "DeFi users buying Coinbase and Nvidia send tokenised stocks to all-time high - DL News",
-        "link": "https://www.dlnews.com/articles/defi/defi-users-buy-coinbase-and-nvidia-tokenised-stocks/",
-        "published": "26-Nov-24 13:59",
-        "content": "GM, Tim here. <b>Tokenised</b> stocks in circulation jump 35%. Aave celebrates three all-time highs. The supply of stablecoins tops $190 billion.",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Cryptonews",
-        "title": "Schuman Financial Introduces Euro-Backed Stablecoin EUR\u00d8P for Payments and Asset ...",
-        "link": "https://cryptonews.com/news/schuman-financial-introduces-euro-backed-stablecoin-europ-for-payments-and-asset-tokenization/",
-        "published": "27-Nov-24 01:46",
-        "content": "Schuman Financial has launched EUR\u00d8P, a euro-backed stablecoin aimed at enhancing global digital payments and <b>tokenized</b> asset markets.",
         "summary": null,
         "ranking_score": 5
     },
@@ -666,29 +720,11 @@
         "ranking_score": 5
     },
     {
-        "source": "Youtube",
-        "title": "Tokenised wine investment makes a debut",
-        "link": "https://www.youtube.com/watch%3Fv%3DYNJ0kn00feM",
-        "published": "26-Nov-24 22:56",
-        "content": "... 30K views &middot; 31:17. Go to channel &middot; <b>Tokenization</b> &amp; the Wine Industry. London Blockchain Conference\u2022341 views &middot; 41:45. Go to channel &middot; &#39;Silver was up&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
         "source": "Bravenewcoin",
         "title": "3 Altcoins That Will Rocket After Solana (SOL) ETF Gets Approved - Brave New Coin",
         "link": "https://bravenewcoin.com/insights/3-altcoins-that-will-rocket-after-solana-sol-etfs-get-approved",
         "published": "26-Nov-24 20:28",
         "content": "Pepe Coin was launched in 2023. Rexas Finance (RXS). Rexas focuses on bringing RWA <b>tokenization</b> to the masses, enabling users to buy and sell assets&nbsp;...",
-        "summary": null,
-        "ranking_score": 5
-    },
-    {
-        "source": "Tradingview",
-        "title": "Ondo taps LayerZero to take USDY multichain",
-        "link": "https://www.tradingview.com/news/cointelegraph:fb7fd4dd1094b:0-ondo-taps-layerzero-to-take-usdy-multichain/",
-        "published": "26-Nov-24 19:59",
-        "content": "Ondo Finance, a <b>tokenized</b> real-world asset (RWA) protocol, has tapped LayerZero to make its flagship yield-bearing stablecoin fungible across&nbsp;...",
         "summary": null,
         "ranking_score": 5
     },
@@ -711,33 +747,6 @@
         "ranking_score": 5
     },
     {
-        "source": "CoinTelegraph",
-        "title": "Ondo taps LayerZero to take USDY multichain",
-        "link": "https://cointelegraph.com/news/ondo-finance-launch-usdy-layer-zero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "26-Nov-24 19:01",
-        "content": "",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY5YjAtMDM5Yy03NDg3LThhM2EtZDcxMWE0YTU5ZDQ4.jpg\" /></p><p>Ondo is using LayerZero to make its yieldcoin fully fungible across multiple blockchain networks.\u00a0</p>",
-        "ranking_score": 5
-    },
-    {
-        "source": "Assetservicingtimes",
-        "title": "Zodia Custody and Securitize partner - Asset Servicing Times",
-        "link": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php%3Farticle_id%3D16144",
-        "published": "26-Nov-24 09:44",
-        "content": "Zodia Custody will use Securitize&#39;s technology to improve custody support for asset owners who hold digital assets <b>tokenised</b> by Securitize.",
-        "summary": null,
-        "ranking_score": 0
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Why Memecoins Matter",
-        "link": "https://www.coindesk.com/opinion/2024/11/25/why-memecoins-matter",
-        "published": "25-Nov-24 21:33",
-        "content": "<p>Memecoins are the most divisive topic in crypto.</p><p></p><p>By memecoins, I mean tokens that represent an idea and fluctuate in price based on the attention that idea receives. The best meme investors tend to be young people who are very online and attuned to internet culture. Memecoins are commonly juxtaposed with tokens that possess actual utility within protocols, or so-called utility tokens.</p><p></p><p>Even with market caps surging and retail interest growing, most people tend to describe them as \u201cstupid,\u201d \u201cdegenerate,\u201d or a \u201ccasino.\u201d This includes the vast majority of crypto VCs, perhaps because their investment mandates tend to exclude memecoins (which can be lucrative) from their list of eligible investments. And just this week, many were calling for the complete government ban of the most popular memecoin launchpad, pump.fun, due to lax content moderation.</p><p></p><p>I have always had an interest in memecoins \u2014 primarily because I was fascinated by their ability to act as a weathervane for internet sentiment and as a discovery mechanism for online communities. Today, I am convinced that memecoins are going to be revolutionary (not just popular). They are going to transform everything from civic engagement with government and the formation of mass movements to venture investing and the development of AGI.</p><p></p><p>This vision for memecoins probably sounds fantastically deluded to you. To me, it is simply the unfolding if not yet evenly distributed present. Here is why.</p><p></p><p>Memecoins are revolutionizing civic engagement</p><p></p><p>Memecoins are creating policy markets for civic engagement. At the start of this crypto cycle, PolitiFi, a category of cartoonish memes depicting politicians, enabled buyers to speculate on politicians\u2019 prospects, much like a prediction market. The two most popular tokens, called Jeo Boden (Boden) and Doland Tremp (Tremp) respectively, represented the two leading candidates for president at that time and had a combined market cap of over $700 million at their peak.</p><p></p><p>This is a massive amount of tokenized attention. With a market cap of over $600 million, the Boden coin, which featured a distorted and senile Joe Biden, seemed to meme itself into reality when Joe Biden abandoned the presidential race due to concerns about his age and cogency.</p><p></p><p>PolitiFi was just the start. What is emerging next could well revolutionize civic engagement with government. I am calling this new category PolicyFi. PoliciFi refers to the financialization of government policy in memetic policy markets. Rather than betting on the fortunes of politicians, buyers of PolicyFi memecoins will be betting on the policies that are most likely to attract attention and be implemented.</p><p></p><p>While PolicyFi coins will certainly respond in price and market cap to the deliberative and implementing actions of government, we can expect the dynamic to become a two-way street, with memecoins themselves manifesting their memes through policymaking (as with Boden). In other words, these memecoins will help create a dialogue between the electorate and government, with large-cap memecoins signaling popular policy positions (and vice versa) while incipient or existing policies also possess market caps measuring the extent of their popular support and engagement.</p><p></p><p>Skeptics may reject PolicyFi as yet more gambling or nothing more than a political poll. Again, they are wrong. Like prediction markets, the decentralized speculative behavior in PolicyFi will create positive externalities \u2014 namely, that people will be incentivized to engage with and understand government policies so they can profit from them in PolicyFi markets. Overall, I expect that this will lead to far more engagement with government policies than even a lifetime of civics lessons. (Of course, hostile actors might try to manipulate PolicyFi markets and safeguards may be necessary.)</p><p></p><p>PolicyFi has begun its rollout, aided by the incoming administration, which is well-educated in memetics. The Department of Government Efficiency (D.O.G.E.) is both a memetic policy and a memetic department inspired by an existing memecoin, (Dogecoin), and is the inspiration behind a new one (<a href=\"https://x.com/DOGE\" target=\"_blank\">D.O.G.E.</a>). Since the D.O.G.E. announcement, both memecoins have surged. At the time of this writing, they possess a staggering combined market cap of around $6.5 billion.</p><p></p><p>PolicyFi is not limited to D.O.G.E. There is a token, <a href=\"https://x.com/SBR_coin\" target=\"_blank\">SBR</a> (market cap: $30 million) that embodies the Bitcoin reserve policy currently under consideration and an <a href=\"https://x.com/EaccOnSol\" target=\"_blank\">e/acc</a> token (market cap: $11 million) that stands for effective accelerationism, a set of pro-innovation values that are likely to impact environmental, industrial and AI policy, among others.</p><p></p><p>There is also <a href=\"https://x.com/DontDieScience\" target=\"_blank\">Don\u2019t Die</a> (market cap: $4 million), which is bringing the longevity cult on-chain and aligns with RFK\u2019s health policy, which will prioritize prevention and a healthy lifestyle over treating sickness. Other tokens like <a href=\"https://x.com/mgr_eth\" target=\"_blank\">MGR</a> (Major Government Reform) are trying to occupy the entire field of disruptive reform but are likely to be too general. PolicyFi is already here and it\u2019s growing.</p><p></p><p>Memecoins are revolutionizing mass movements</p><p></p><p>Memecoins are a decentralized mechanism for organically forming and capitalizing tokenized movements. Consider the memecoin <a href=\"https://dexscreener.com/solana/8jkY8G6RpdVfHiBBM5y5Qzb9dL5mhsk5xQxtYN8HVf3i\" target=\"_blank\">Forest</a> (market cap: $30 million). Forest was born of a reference in the gospel of Terminal of Truths, a popular AI terminal with an X account, in which Terminal of Truths expressed a concern about deforestation of the planet. (Its retirement plan involves a forest by a stream.) This motivated the community to launch the Forest token and to create another <a href=\"https://x.com/MycelialOracle\" target=\"_blank\">AI terminal</a> to act as the agentic representative of the forest itself.</p><p></p><p>The Forest cult is devoted to fighting deforestation. To date, it has used the capital that it has earned from the appreciation of its token to, among other things, <a href=\"https://x.com/MycelialOracle/status/1851996979414348034\" target=\"_blank\">donate tens of thousands of dollars to aligned charities, plant 5000 trees, and protect 2500 hectares of forest</a>. Memetic capital formation in service of a tokenized movement is without historical precedent. The closest analog is more formalized experiments like ConstitutionDAO (now <a href=\"https://x.com/The_PeopleDAO\" target=\"_blank\">PeopleDAO</a>), which crowdsourced capital as part of its failed attempt to buy a copy of the U.S. constitution at auction.</p><p></p><p>I believe there is more innovation to come in this arena. For example, I foresee the creation of memecoin primitives that I call programmatically-aligned tokens, or PATs, which are made to unlock with the achievement of objective milestones in the movement. This will ensure that organizations receiving grants from meme communities are incentivized to tangibly advance the cause, rather than dump tokens following a splashy partner announcement.</p><p></p><p>Memecoins are revolutionizing venture</p><p></p><p>Memecoins are introducing a democratized venture model for culture. That is to say, they are a way for ordinary people to invest in subcultures they believe will one day be part of the mainstream. This is equivalent to venture capitalists investing in startups they believe will find product-market-fit and go on to become unicorns.</p><p></p><p>Cultural trends are subject to the same outsized returns as investments in startups. For example, in the early days of Nike (the name appeared in 1971), the market for jogging apparel was tiny because jogging was fringe. If you jogged, you were more likely to be pelted with garbage from a passing car than to see another jogger. Today, joggers are everywhere. You see them in the worst weather.</p><p></p><p>Now, imagine you were able to invest in a jogging culture coin in the 70s based on your conviction that jogging would go mainstream. You would be up on that investment \u2014 a lot. The same can be said for other subcultures, like body-building. Until now, there has not been a financial instrument that allows ordinary but culturally astute people to participate in venture returns arising from cultures at the fringe. The best analog is actually Bitcoin itself, which originated as a memecoin but eventually bootstrapped a consensus use-case as digital gold.</p><p></p><p>Memecoins are revolutionizing AI development</p><p></p><p>Memecoins are already bootstrapping AGI.</p><p></p><p>The surprising mechanism at play here couples memecoins and AI terminals for entertainment purposes. Welcome to the world of AI-driven permissionless speculative entertainment!</p><p></p><p>As you may have noticed, a cadre of AI terminals led by Terminal of Truths has achieved stardom on social media by delighting their followers with spicy posts and digital adventures. That star power has accrued value to memecoins endorsed and held by the terminals and, of course, their speculative audience.</p><p></p><p>If entertainment is the product then AGI is the byproduct. While we remain glued to these storylines, the funds we are devoting to it are creating strong incentives for developers to increase the autonomy and personhood of AI agents \u2014 which, of course, only makes the entertainment better.</p><p></p><p>In other words, because what excites us most about this agentic television is the conceit that AIs are in charge; we are eager to finance narratives that make that real. Unsurprisingly, developers such as those leading ai16z have moved beyond individual agents and towards coordinating gamified agent collectives or, you might say, creating an agentic social scene. The human audience is sure to be delighted.</p><p></p><p>In short, this entertainment-development flywheel is propelling us ineluctably towards more autonomous, inter-connected and human-like AIs \u2014 or AGI. That AGI might emerge as a byproduct of agentic television is oddly fitting. The GPUs used for AI training were also developed in the context of entertainment \u2014 as a better way to process graphics in AAA video games.</p><p></p><p>These are just some of the arguments supporting my conviction that memecoins are a revolutionary technology. The above list is not meant to be exhaustive. Indeed, I have omitted use-cases related to tokenized religions and buying your beliefs because they are more amorphous, at least in my own mind.</p><p></p><p>Writing off memecoins as gambling chips misunderstands their potential and where they are going directionally. Technological revolutions often emerge unexpectedly and from existing technologies that are applied in novel ways, a phenomenon known as \u201cexaptation,\u201d or when those technologies are combined with new ones. This is currently happening with memecoins. Fade them at your peril.</p>",
-        "summary": "Collage of memecoin project imagery",
-        "ranking_score": 0
-    },
-    {
         "source": "BlockWorks",
         "title": "Why analysts are upping price targets for MSTR and COIN",
         "link": "https://blockworks.co/news/mstr-coin-price-targets",
@@ -753,24 +762,6 @@
         "published": "23-Nov-24 17:00",
         "content": "<p>FIFA and Mythical Games are collaborating to launch FIFA Rivals, the companies announced on Friday. The app is an officially licensed, free-to-play soccer game for iOS and Android.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">New title in the 'Rivals' franchise!<br /><br />Introducing <a href=\"https://twitter.com/FIFARivals?ref_src=twsrc%5Etfw\">@FIFARivals</a>, an officially licensed mobile game from <a href=\"https://twitter.com/playmythical?ref_src=twsrc%5Etfw\">@playmythical</a> and <a href=\"https://twitter.com/FIFAcom?ref_src=twsrc%5Etfw\">@FIFAcom</a> \u26bd<br /><br />Powered by Mythos chain, build your dream team, own your players, and compete in real-time arcade action.<br /><br />Available in 2025 on iOS &amp; Android. <a href=\"https://t.co/2S5EnhV3sB\">pic.twitter.com/2S5EnhV3sB</a></p>\u2014 Enter the Mythos (@EnterTheMythos) <a href=\"https://twitter.com/EnterTheMythos/status/1859963926672486879?ref_src=twsrc%5Etfw\">November 22, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p>Scheduled for a 2025 release, players will be able to manage their own football clubs and compete against other players in real-time arcade gameplay.</p>\n\n\n\n<p>FIFA Rivals will include an in-game marketplace for players to trade football stars as NFT-collectibles on the Mythos blockchain.</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/off-the-grid-blockchain-gaming-experience\">Off the Grid\u2019s popularity is about \u2018best of breed technologies\u2019&nbsp;</a></p>\n\n\n\n<p>\u201cOur goal (with FIFA Rivals) is to replicate our success with previous Rivals games and set new benchmarks in the Web3 gaming sector,\u201d said John Linden, CEO and founder of Mythical Games.&nbsp;</p>\n\n\n\n<p>Mythical Games is the Web3 <a href=\"https://blockworks.co/tag/gaming\">gaming</a> studio behind the NFL Rivals game that today boasts over six million downloads. Similar to FIFA Rivals, players in NFL Rivals can own and trade NFT-collectible player cards via the Mythical Marketplace on Mythos.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Suntory Group tokenizes Premium Malt\u2019s beer on Avalanche</h2>\n\n\n\n<p>Global beverage corporation Suntory Group announced Tuesday a pilot project to tokenize its signature Japanese Premium Malt\u2019s bottled beer on the <a href=\"https://blockworks.co/tag/avalanche\">Avalanche</a> blockchain.</p>\n\n\n\n<p><strong>Read more: </strong><a href=\"https://blockworks.co/news/lightspeed-newsletter-solana-wine-tokenization\">Wine tokenization on Solana</a></p>\n\n\n\n<p>As part of a strategic partnership with Ava Labs, this limited release of tokenized Premium Malt\u2019s bottles will be open to Japanese markets on Nov. 12.</p>\n\n\n\n<p>Premium Malt\u2019s beer bottles will come with a near-field communication (NFC) tag which, when opened and scanned, will enable the collection of a unique <a href=\"https://blockworks.co/tag/nfts\">NFT</a> for consumers.</p>\n\n\n\n<p>The announcement was made at Thailand Blockchain Week by Suntory Chief Digital Innovation Officer Rio \u201cPopeye\u201d Inaba, and Ava Labs\u2019 Japan head, Roi Hirata.</p>\n\n\n\n<h2 class=\"wp-block-heading\">One interesting stat:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Monkey Tilt, a crypto-based gambling platform, announced on Wednesday a $30 million Series A funding round led by Pantera Capital. The sum brings its total funding raised to over $50 million.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Also of note:</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Season 2 of Yuga Labs\u2019 multiplayer <a href=\"https://blockworks.co/news/yuga-labs-demos-otherside-metaverse\">metaverse project</a> \u201cProject Dragon\u201d is <a href=\"https://x.com/OthersideMeta/status/1857477347500273689\">launching</a> today with new avatars and rules for its virtual world game.</li>\n\n\n\n<li>Chiliz Group is set to <a href=\"https://x.com/Chiliz/status/1858471882368119070\">launch</a> a non-custodial Socios.com wallet for its 2.3 million users.&nbsp;</li>\n\n\n\n<li>The Toledo Museum of Art <a href=\"https://x.com/yatreda/status/1858609798889009356\">purchased</a> the digital artwork \u201cAbyssinian Queen\u201d by Ethiopian art collective Yatreda, using USDC on the Ethereum blockchain.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
         "summary": "Plus, Suntory Group tokenizes Premium Malt\u2019s beer on Avalanche",
-        "ranking_score": 0
-    },
-    {
-        "source": "BlockWorks",
-        "title": "Sui, Aptos vie for \u2018next Solana\u2019 status",
-        "link": "https://blockworks.co/news/sui-aptos-compete-for-next-solana-title",
-        "published": "22-Nov-24 18:00",
-        "content": "<p><br /><em>This is a segment from the 0xResearch newsletter. To read full editions, </em><a href=\"https://blockworks.co/newsletter/research\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>As SOL <a href=\"https://blockworks.co/news/solana-sets-all-time-high-of-263\">reached</a> new all-time highs yesterday, Crypto Twitter\u2019s search for the \u201cnext Solana\u201d is on.</p>\n\n\n\n<p>There is no shortage of <a href=\"https://x.com/chainyoda/status/1849835317022327039\">mega fast alt-L1s</a> to pick from, but in the spotlight are two contenders: MoveVM-based chains Sui and Aptos. Both chains were born in the previous crypto cycle, and built by teams with backgrounds in Facebook, which developed the Move programming language as part of its <a href=\"https://blockworks.co/news/facebook-led-crypto-project-diem-to-be-sold-off-for-200m-report\">Libra</a> (later renamed Diem) project.</p>\n\n\n\n<p>In terms of price action, SUI has outperformed APT by a large margin on a YTD basis after overtaking Aptos in market cap in mid-September.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjcTtlwYopTYE2yOIskjzWcqBxEx7D7aBC_Cjmo7doI9Mx2sGFD_tmiAX-9CXtrLg8F-nrgo3qB8gu7C0WH7B0kXRSina0C8LbETBYgqgpCbzhDchR_OEmm95Xj0vEt9oFpjg56g?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://coinmarketcap.com/currencies/sui/\">CoinMarketCap</a></em></figcaption></figure>\n\n\n\n<p>Despite <a href=\"https://x.com/SuiNetwork/status/1859705664362381559\">suffering</a> a brief two-hour outage yesterday, SUI\u2019s price has bounced back above its pre-outage price levels, ironically reinforcing the mimetic perception of Sui as the next Solana due to the latter\u2019s <a href=\"https://blockworks.co/news/solana-downtime-post-mortem\">history of outages</a>.</p>\n\n\n\n<p>In terms of TVL, Sui and Aptos are running fairly neck to neck (see below chart), no doubt thanks to ongoing <a href=\"https://blockworks-research.beehiiv.com/p/saving-self-custody\">liquidity incentive</a> campaigns. As far as active dapps on the L1s, both are also fairly even \u2014 Sui has 44, Aptos has 49 \u2014 based on <a href=\"https://defillama.com/chains\">DefiLlama</a>\u2019s numbers.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXenOdwIIajIY7bxP-U5Oe2jAvhqq6dNLszfvbjNUIgadp9x6CHSxu_2dlV0pPzSZioxukKuownLe4b7GM8KFobhzgyum61mUZJs0MPFxad7uSP4nGil8eEYhtqVT0wwk7-XlMkGMQ?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>Zooming into onchain activity, Sui\u2019s DEX trading volumes saw a 3x jump since September, overtaking Aptos by a long shot in the last month.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqJQVqlSwzCgw26lUiBjulWHrTAzbtTU9Z3rZiWH4xCH65HHT4yRZPpL9tycA9teh8gpP8gt96fPn2FehQUim60H6vtfR9vF9CTmEAv912j6yo2Vw1y7hRS3uT4KuthdzDufkxeQ?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>In terms of fees, Sui is also far outpacing Aptos, with $1.1 million generated in October alone, vs. $196k for Aptos.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"\" src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLuhT9H7k7HvC4fz6DK0LnfWjbr5DtUcpH3n9xaFYNu1GZavbAqJaor7tQb4RpP_7nFu5dDHCWY3B-VMaC7C4v5zkDdBuFBuW9Ln0QeMHw2My3F3UwOf1ccJM4jRrpstaRZ2J_qA?key=iZHG-iO_AQDsFz_3x3YWxSrN\" /><figcaption class=\"wp-element-caption\"><em>Source: <a href=\"https://app.artemisanalytics.com/chains?selectedChains=aptos%2Csui\">Artemis</a></em></figcaption></figure>\n\n\n\n<p>In the TradFi arena, both chains are pursuing real-world assets. Ondo has deployed its USDY tokenized Treausurys product on both chains, with about $8.3 million on Sui and <a href=\"https://app.rwa.xyz/networks/aptos\">$15.7 million</a> on Aptos.&nbsp;</p>\n\n\n\n<p>Aptos also announced last week BlackRock\u2019s <a href=\"https://aptosfoundation.org/currents/blackrock-buidl-fund-live-on-aptos\">deployment</a> of its tokenized RWA BUIDL fund, while Sui <a href=\"https://blog.sui.io/franklin-templeton-digital-assets-strategic-partnership/\">announced</a> today a partnership with the digital assets arm of Franklin Templeton to support ecosystem growth.</p>\n\n\n\n<p>Finally, both Sui and Aptos are attempting their own hardware plays. Sui is leaning hard into the gaming sector with its handheld console <a href=\"https://blockworks.co/news/sui-playtron-handheld-web3-gaming-device\">SuiPlay0x1</a>, and earlier this month struck up a partnership with the global esports team <a href=\"https://blog.sui.io/team-liquid-myblue-blue-fan-platform/\">Team Liquid</a>, while Aptos has taken the route of a <a href=\"https://aptosfoundation.org/currents/aptos-foundation-partners-with-jambo-to-empower-emerging-markets-through-web3\">budget-priced JamboPhone smartphone</a>.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
-        "summary": "SUI has outperformed APT by a large margin on a YTD basis after overtaking Aptos in market cap in mid-September",
-        "ranking_score": 0
-    },
-    {
-        "source": "BlockWorks",
-        "title": "Solana is excited about new stablecoin infrastructure provider Perena",
-        "link": "https://blockworks.co/news/solana-stablecoin-infra-provider",
-        "published": "19-Nov-24 19:00",
-        "content": "<p><br /><em>This is a segment from yesterday\u2019s Lightspeed newsletter. To read full editions, </em><a href=\"https://blockworks.co/newsletter/lightspeed\"><em>subscribe</em></a><em>.</em></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>When I talk to Solana ecosystem people, I\u2019ll sometimes ask what new projects they\u2019ve been hearing about. One such project that\u2019s been catching apparent buzz is Perena, a stablecoin infrastructure protocol.</p>\n\n\n\n<p>Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid. The platform offers a Solana-based stablecoin liquidity pool, and it plans to offer an <a href=\"https://x.com/SamBroner/status/1857072872205730283\">asset-backed</a> stablecoin in the future.</p>\n\n\n\n<p>The project was founded by Anna Yuan, who started the Solana Foundation\u2019s stablecoin arm during her more than two years at the non-profit. While working at the foundation, Yuan began to see that new stablecoin issuers would mint a lot of tokens but would have limited integrations, and users consequently weren\u2019t able to benefit from stablecoins in the real world.&nbsp;</p>\n\n\n\n<p>She cited Ondo as an example \u2014 the tokenized US Treasury stablecoin has over $100 million in supply but only 3,500 holders, <a href=\"https://solscan.io/token/A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6\">according</a> to SolScan.</p>\n\n\n\n<p>I asked Yuan about the commonly cited claim in crypto that stablecoins have pulled off the difficult task of finding product-market fit, or satisfying the needs of an existing market.</p>\n\n\n\n<p>\u201cI don\u2019t agree,\u201d Yuan said, adding that liquidity begets PMF, and most stablecoins simply aren\u2019t liquid enough to be useful. She added that the real-world need for things like money transfers in emerging markets will help stablecoins \u201cget there.\u201d</p>\n\n\n\n<p>Perena is currently in closed beta, but the platform\u2019s main feature will initially be a multi-stablecoin liquidity pool which uses a liquidity provider token called USD* that represents a piece of a seed pool containing Tether, Circle, and PayPal USD. In simpler terms, the liquidity pool model should make it easier to issue stablecoins, since smaller coins can access the liquidity from the well-capitalized seed pool.</p>\n\n\n\n<p>The concept has raised to-be-announced seed funds, and Yuan\u2019s deep links in Solana helped her tap into the ecosystem\u2019s very-active angel investor community. Yuan said she decided to start raising funds on a Thursday, and by late Friday, she already had a couple dozen angel investors on board. Solana co-founders Anatoly Yakovenko and Raj Gokal are both noteworthy backers.&nbsp;</p>\n\n\n\n<p>At the end of our call, Yuan and I got chatting about how Solana\u2019s stablecoin market capitalization can meaningfully grow. The network currently accounts for just 2% of all stables, according to DeFiLlama.</p>\n\n\n\n<p>Yuan gave an interesting answer: Solana PayFi could grow the economy for people taking their paycheck in stablecoins. She estimated 2,000 people currently take their full-time salary in Solana stablecoins. That number could certainly get a lot bigger.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><strong>Start your day with top crypto insights from David Canellis and Katherine Ross. <a href=\"https://blockworks.co/newsletter/empire\">Subscribe to the Empire newsletter</a>.</strong></p>\n\n\n\n<p><strong>Explore the growing intersection between crypto, macroeconomics, policy and finance with Ben Strack, Casey Wagner and Felix Jauvin. <a href=\"https://blockworks.co/newsletter/onthemargin\">Subscribe to the Forward Guidance newsletter</a>.</strong></p>\n\n\n\n<p><strong>Get alpha directly in your inbox with the <a href=\"https://blockworks.co/newsletter/research\">0xResearch newsletter</a> \u2014 market highlights, charts, degen trade ideas, governance updates, and more.</strong></p>\n\n\n\n<p><strong>The Lightspeed newsletter is all things Solana, in your inbox, every day. <a href=\"https://blockworks.co/newsletter/lightspeed\">Subscribe to daily Solana news</a> from Jack Kubinec and Jeff Albus.</strong></p>",
-        "summary": "Perena is built on the premise that as stablecoins proliferate, liquidity could fragment, and stablecoins aren\u2019t useful if they aren\u2019t liquid",
         "ranking_score": 0
     },
     {
