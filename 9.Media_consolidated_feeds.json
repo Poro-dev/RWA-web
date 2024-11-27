@@ -1,6 +1,82 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "Vancouver mayor plans to introduce \u2018Bitcoin-friendly city\u2019 plans",
+        "link": "https://cointelegraph.com/news/vancouver-mayor-ken-sim-bitcoin-reserve-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 16:45:48 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlMTEtNTFlYi03ZTMyLWI1Y2UtYThlODEwOTEyNGFk.jpg\" /></p><p>The proposed plan by Vancouver Mayor Ken Sim for the city\u2019s \u201cdiversification of financial resources\u201d suggested an investment in Bitcoin as a reserve asset.</p>",
+        "content": "",
+        "categories": [
+            "regulation",
+            "bitcoin",
+            "vancouver",
+            "adoption",
+            "investments",
+            "canada"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Is XRP price going to crash again?",
+        "link": "https://cointelegraph.com/news/is-xrp-price-going-to-crash-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 16:29:42 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkOGMtODJiNC03ZTE1LTk3ZjgtNDhhZDZhYzkxYWRi.jpg\" /></p><p>XRP could crash by 25% in the worst case scenario, particularly due to its overbought conditions that have preceded similar price crashes.</p>",
+        "content": "",
+        "categories": [
+            "will XRP drop further",
+            "XRP price analysis",
+            "Ripple price analysis",
+            "SEC vs Ripple",
+            "XRP analysis"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Tether discontinues support for euro-pegged stablecoin EUR\u20ae",
+        "link": "https://cointelegraph.com/news/tether-discontinues-euro-eurt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 15:51:14 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlNDAtMDRjMS03N2YwLWI3NDUtNjBjZDlkY2YyZDVk.jpg\" /></p><p>Tether has asked EUR\u20ae holders to redeem tokens within one year, ending on Nov. 25, 2025, as the company decided to discontinue the stablecoin.</p>",
+        "content": "",
+        "categories": [
+            "Euro",
+            "Fiat currency",
+            "Stablecoin",
+            "Tether",
+            "EURT",
+            "USDT",
+            "Europe",
+            "Markets in Crypto-Assets Regulation",
+            "MiCA",
+            "Quantoz Payments",
+            "EURQ",
+            "USDQ"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Bitcoin demands $95K reclaim as six-figure BTC price calls return",
+        "link": "https://cointelegraph.com/news/bitcoin-demands-95k-reclaim-six-figure-btc-price-calls-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 15:39:40 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZlNDQtMzM3OS03ZWUzLWI4NjItM2NjNmY3YmQyNzk2.jpg\" /></p><p>BTC price upside makes a confident return as chart analysis sees fresh odds of Bitcoin hitting $100,000 after all.</p>",
+        "content": "",
+        "categories": [
+            "Bitcoin",
+            "BTC price"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "How to upset Cardano\u2019s Charles Hoskinson by quoting him accurately",
+        "link": "https://cointelegraph.com/magazine/how-to-upset-cardanos-charles-hoskinson-by-quoting-him-accurately/?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 15:30:00 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://s3.magazine.cointelegraph.com/magazine/wp-content/uploads/2024/11/magazine-Charles-Hoskinson-New-scaled.jpg\" /></p><p>Charles Hoskinson drives Cardano\u2019s many achievements but also overshadows them with controversial comments and by picking pointless fights.</p>",
+        "content": "",
+        "categories": [
+            "Features"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "MIAX exchange lists Bitcoin ETF options",
         "link": "https://cointelegraph.com/news/miax-exchange-lists-bitcoin-etf-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 27 Nov 2024 15:26:36 +0000",
@@ -425,83 +501,55 @@
         ]
     },
     {
-        "source": "CoinTelegraph",
-        "title": "Crypto miner MARA wants US moving quicker to gobble up Bitcoin",
-        "link": "https://cointelegraph.com/news/mara-holdings-wants-america-control-bitcoin-hashrate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 03:30:43 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhYjMtYmE4NC03NjJmLTg2YTgtYTdlMGFmZThkZTE4.jpg\" /></p><p>MARA Holdings says there will soon be a heated race among nations to gather Bitcoin, and the US needs to step up its game.\u00a0</p>",
-        "content": "",
+        "source": "CoinDesk",
+        "title": "All Eyes on Bitcoin",
+        "link": "https://www.coindesk.com/opinion/2024/11/27/all-eyes-on-bitcoin",
+        "published": "Wed, 27 Nov 2024 16:42:28 +0000",
+        "summary": "Rollar Blading",
+        "content": "<p>Bitcoin saw explosive growth immediately after the recent U.S. presidential elections, rising and retaking the spotlight from former highs of $73,000 in March. Now the question is, will bitcoin (BTC) continue its uptrend, and at what point can a sharp reversal happen?</p><p>If we take a look at former BTC market cycles, which happen every four years, then we see that we are now just starting to go into new bitcoin price discovery areas, and BTC could top out at new all-time highs, which is practically anything greater than the current resistance of $92,000. Bitcoin could even potentially see highs of $140,000+ based on prior supply and demand \u2014\u00a0i.e. halving cycles. On the contrary, what makes this market cycle a bit different than others is the vanished principle of BTC being an inflation hedge or digital gold. In theory, it was supposed to be \u2014 that is, at least, likely what Satoshi intended since bitcoin was created after the 2008 financial crisis. From what we saw in the last cryptocurrency bear market cycle, BTC is not an actual inflation hedge and performs like all other risk-on assets, so sentiment could change once the inauguration happens in January.</p><p>As we've seen before, politics could potentially just be politics until we see actual regulatory rollouts and a more favorable U.S. stance on paper with policies and laws that the markets fully embrace. Things seem to be going in the right direction with the news of Gensler resigning come January 20, 2025. The question remains on who will be his replacement; the wrong person and the smallest sentiment change in the wrong direction could fully accelerate a drawdown in BTC. We've previously seen what every Fed meeting minute has done to the price action of crypto which has, up until recently, always been negatively perceived. In other words, we are not fully out of the woods just yet, especially until there is clarity on who could be Gensler\u2019s replacement.</p><p>The BTC ETFs played a vital role this year in institutionalizing the cryptocurrency, which allowed for RIA and fiduciary investment in bitcoin, although in a turnaround market the same volumes that helped bitcoin get to the point it is at today can be the same volumes and outflows that present a downfall. This can lead to crippling sentiment as we all know the crypto bull market does not last forever and drawdowns of 70-80% can be expected.</p><p>Looking at prior BTC bull market cycles, BTC has seen drawdowns of 20-30%. Can the same be expected with all the new factors under the current and new market structure? Analysts assume less drawdown and volatility scenarios due to the BTC ETF options offered by iShares and others, although on the contrary, systematic strategies still seem to be sought after with investors taking bets on market volatility, which only recently (in 2022) saw an equity market-like expansion in the crypto markets where enough volume, market cap, and stability existed for the shorting functionality of some coins.</p><p>With more market participants and more avenues of shorting functionality across all crypto assets, including BTC, this can create more volatility in the short-term. Compared to the last market cycle, there are a lot more traditional finance (TradFi) players trading and market making in the space now, which in a way is offset by more institutional capital locked up (mostly in ETFs since the venture space in crypto dried up from the fast money of the last bull market). Although in a way, no matter how much institutional capital enters the space, the market cycle of BTC will follow volatility\u2014 it's just in its decentralized nature.</p><p>Regardless of whatever outlook one has on the price of BTC, it's important to realize that this is a different market than before. Gone are the days of quick \u201chot money\u201d returns with the inevitable crypto risk factors ever present. One must remain cautious, but optimistic, on where things are going, if not bullish on the market cycle and structure alone. Regardless, for every type of investor, there is a huge opportunity due to the immense growth of the industry, and when that window will close is anyone's guess \u2014 the only thing for certain is that the new market cycle is just getting started.</p>",
         "categories": [
-            "Mara",
-            "Marathon Digital",
-            "Fred Thiel",
-            "de-dollarization",
-            "US dollar"
+            "Opinion",
+            "Bitcoin Price",
+            "Bull Market",
+            "Volatility",
+            "Bitcoin Volatility",
+            "Elections",
+            "Gary Gensler"
         ]
     },
     {
-        "source": "CoinTelegraph",
-        "title": "Trump eyes handing CFTC oversight of crypto: Report",
-        "link": "https://cointelegraph.com/news/trump-plans-cftc-for-crypto-regulator-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 02:39:04 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiMmUtMzc1NS03MTIxLWFjN2YtYWUxZjVmZTg0OTY3.jpg\" /></p><p>Donald Trump's team is considering handing the regulation of crypto exchanges and spot markets for cryptocurrencies deemed commodities to the CFTC.</p>",
-        "content": "",
+        "source": "CoinDesk",
+        "title": "Should SOL be Trading at a 70% Discount to ETH?",
+        "link": "https://www.coindesk.com/opinion/2024/11/27/should-sol-be-trading-at-a-70-discount-to-eth",
+        "published": "Wed, 27 Nov 2024 16:19:52 +0000",
+        "summary": "Metal Yurt",
+        "content": "<p>Solana was trading at 97% discount to ether\u2019s market cap in January of 2023 \u2013 a clear market dislocation that has closed significantly over the last two years.</p><p>Today the gap has closed to a 70% discount.</p><p>However, solana is starting to challenge ether in terms of on-chain activity and important network usage KPIs.</p><p>Which begs the question: Is the market still dislocated?</p><p>In this short piece, we explore this key question with relative analysis across four key data points. Let\u2019s dive in.</p><p>1. Network Fees</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/be59af66da6197ebf59e6c00f1be7131f818214a-1217x810.png\" /><p>Data: Artemis, The DeFi Report, Gas Fees Only (does not include MEV). Please note that we\u2019ve included the following L2s in the comps data: Arbitrum, Base, Optimism, Blast, Celo, Linea, Mantle, Scroll, Starknet, zkSync, Immutable, and Manta Pacific.</p><p>L2s create new demand for Ethereum L1 block space and increase the network effects of ETH the asset. Therefore, we include them in our comp analysis for solana.</p><p>In Q2, solana did $151M in fees: 27% of ether + the top L2s.</p><p>Fast forward to the last 90 days and the ratio has jumped to 49%.</p><p>2. DEX Volumes</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/439cb3d8024d54e9b4ff26309cd6a037e5739a31-1215x690.png\" /><p>Data: Artemis, The DeFi Report</p><p>Solana did $108B in DEX trading volume in Q2: 36% of ether + the top L2s.</p><p>Over the last 90 days, solana has done $153B in DEX trading volume: 57% of ether + the top L2s.</p><p>3. Stablecoin Volumes</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/91a86e1763709f8f6239a3f0033fcc58927513dd-1290x757.png\" /><p>Data: Artemis, The DeFi Report</p><p>Solana did $4.7T in stablecoin volume in Q2: 1.9x that of ether + the top L2s.</p><p>Over the last 90 days, solana did $963B of volume: 30% of ether + the top L2s.</p><p>Why the drop?</p><p>We think this drop is mostly due to bots/algorithmic trading that was juicing the numbers in Q2.</p><p>Furthermore, only 6% of Solana\u2019s stablecoin volumes are peer-to-peer transfers per Artemis. On Ethereum L1, this figure is closer to 30% \u2013 an indication that ether is used more for non-speculative activity than solana.</p><p>In terms of stablecoin supply, solana has just 4.1% of ether + the top L2s on-chain value today, up from 3.5% at the end of Q2.</p><p>4. Total Value Locked (TVL)</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/dea311ea8220cb556a1f3d67fbf40b281ef383d2-1235x765.png\" /><p>Data: Artemis, The DeFi Report</p><p>Solana ended Q2 with $4.2b of TVL: 6.3% of ether + the top L2s.</p><p>Solana\u2019s TVL is currently $8.2b: 12% of ether + the top L2s.</p><p>In summary, based on 90-day performance, solana now has:</p><p>49% of ether\u2019s fees (up from 27% end of Q2)</p><p>57% of ether\u2019s DEX volumes (up from 36% end of Q2)</p><p>30% of ether\u2019s stablecoin volumes (down from 190% in Q2)</p><p>4.1% of ether\u2019s stablecoin supply (up from 3.5% end of Q2)</p><p>12% of ether\u2019s TVL (up from 6% end of Q2)</p><p>We think the on-chain data points to a fair re-pricing of solana\u2019s valuation relative to ether.</p><p>With that said investors should consider qualitative differences between the two networks as well as potential upcoming catalysts as we head into year-end and 2025.</p>",
         "categories": [
-            "Fox Business",
-            "Rostin Behnam",
-            "Spot Cryptocurrency Market",
-            "Cryptocurrency Exchanges",
-            "Options Trading",
-            "Enforcement Action",
-            "Budget",
-            "Jaime Liz\u00e1rraga"
+            "Opinion",
+            "DeFi",
+            "Crypto Long & Short",
+            "Opinion",
+            "Newsletters",
+            "Solana",
+            "Layer 2s",
+            "DEX",
+            "decentralized exchanges",
+            "TVL"
         ]
     },
     {
-        "source": "CoinTelegraph",
-        "title": "OpenAI\u2019s Sora text-to-video tool leaked by aggrieved beta testers",
-        "link": "https://cointelegraph.com/news/open-ai-sora-text-to-video-tool-leaked-beta-testers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 01:19:45 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhZTAtMjVjYi03N2FiLWJiYWEtZDEyMTQ0Mzg4YTdi.jpg\" /></p><p>A group of artists and early testers leaked access to OpenAI\u2019s unreleased Sora tool, claiming to have been exploited in its research and development phase.</p>",
-        "content": "",
+        "source": "CoinDesk",
+        "title": "Vitalik Buterin Donated $1M in Ether to Coin Center Hours After Tornado Cash Victory",
+        "link": "https://www.coindesk.com/policy/2024/11/27/vitalik-buterin-donated-1-m-in-ether-to-coin-center-hours-after-tornado-cash-victory",
+        "published": "Wed, 27 Nov 2024 16:00:14 +0000",
+        "summary": "<p>Vitalik Buterin donated 30 ETH, worth just over $1 million, to Coin Center on Tuesday night.</p><p>The donation came hours after a Coinbase-backed suit challenging U.S. sanctions against Tornado Cash won an appeals court victory.</p><p>Coin Center is pursuing its own lawsuit against the Treasury Department's sanctions in a different appeals court.</p>",
+        "content": "<p>Ethereum co-founder Vitalik Buterin donated 320 ether \u2014 worth over $1 million \u2014 to crypto think tank Coin Center on Tuesday night, according to <a href=\"https://intel.arkm.com/explorer/entity/vitalik-buterin\" target=\"_blank\">blockchain data</a>.</p><p>Buterin\u2019s donation came mere hours after a U.S. appeals court <a href=\"https://assets.ctfassets.net/c5bd0wqjc7v0/70EasapqSxH1kLInf3IQrd/1a1ce21cdc6bc903921f45018cce3821/Tornado_Cash.pdf\" target=\"_blank\">overturned</a> U.S. sanctions against embattled crypto mixing service Tornado Cash, ruling that Tornado Cash\u2019s smart contracts \u201care not the property of a foreign national or entity\u201d and thus cannot be blocked under the International Emergency Economic Powers Act (IEEPA). By imposing sanctions on Tornado Cash, the Treasury Department\u2019s Office of Foreign Asset Control (OFAC) \u201coverstepped its congressionally defined authority,\u201d the court ruled.</p><p>Read more: <a href=\"https://www.coindesk.com/policy/2024/11/26/tornado-cash-sanctions-overturned-by-u-s-appeals-court\" target=\"_blank\">Tornado Cash Sanctions Overturned by U.S. Appeals Court</a></p><p>Coin Center has been a key player in the crypto industry\u2019s fight against the U.S. government\u2019s sanctions against Tornado Cash. OFAC sanctioned Tornado Cash in August 2022, claiming it helped to launder more than $7 billion in cryptocurrency, including hundreds of millions of dollars stolen by North Korea\u2019s notorious hacking group, the Lazarus Group.</p><p>In October 2022, Coin Center <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.flnd.447304/gov.uscourts.flnd.447304.1.0_2.pdf\" target=\"_blank\">filed suit</a> against Treasury Secretary Janet Yellen, the Treasury Department, OFAC and OFAC\u2019s then-Director Andrea Gacki accusing them of overstepping their authority and violating the First Amendment in sanctioning Tornado Cash. When a district court judge dismissed the case a year later, Coin Center appealed his ruling with a higher court, the U.S. Court of Appeals for the Eleventh Circuit. That case is still ongoing.</p><p>In addition to fighting sanctions against Tornado Cash, Coin Center has been involved in the defense of Tornado Cash\u2019s developers, filing an <a href=\"https://www.coincenter.org/amicus-curiae-in-support-of-roman-storms-motion-to-dismiss/\" target=\"_blank\">amicus brief</a> in support of developer Roman Storm\u2019s motion to dismiss the government\u2019s case against him.</p><p>Though Buterin hasn\u2019t been as directly involved in the Tornado Cash cases as Coin Center, he has made his support \u2014\u00a0for both the mixing service itself as well as its embattled developers \u2014\u00a0clear. Shortly after OFAC first sanctioned Tornado Cash, Buterin <a href=\"https://forkast.news/vitalik-buterin-says-used-tornado-cash-donate-ukraine/\" target=\"_blank\">publicly stated that he\u2019d used the service</a> to donate money to Ukraine. Earlier this year, he donated 30 ETH, worth over $100,000, to the legal defense fund for Storm and fellow developer Roman Semenov.</p><p>Buterin did not respond to CoinDesk\u2019s request for comment.</p>",
         "categories": [
-            "sora leak",
-            "open ai sora leak",
-            "sora",
-            "sora leaked",
-            "open ai sora",
-            "openai leak"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "\u2018Massive\u2019 \u2014 BuilderNet aims to solve Ethereum\u2019s centralized block problem",
-        "link": "https://cointelegraph.com/news/flashbots-buildernet-ethereum-centralized-block-building-issues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 00:46:08 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhNzgtYzUwOS03YzViLWI2NjctZDBkOWJjYjg4NDRm.jpg\" /></p><p>Ethereum block builders Beaverbuild and Titan Builder have made around 88% of the blockchain\u2019s blocks in recent weeks. BuilderNet aims to disrupt that.</p>",
-        "content": "",
-        "categories": [
-            "Flashbots",
-            "BuilderNet",
-            "Titan Builder",
-            "Beaverbuild",
-            "MEV",
-            "Sandwhich Attack",
-            "OFAC",
-            "OFAC-Compliant Blocks"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Big victory in Tornado Cash case as judge says OFAC exceeded authority",
-        "link": "https://cointelegraph.com/news/tornado-cash-smart-contracts-cant-sanctioned-appeals-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 26 Nov 2024 23:59:38 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhZDUtMjgzNS03OTIyLWEzNjQtOWNlNTFmMjhkMjVj.jpg\" /></p><p>A US appeals court said Treasury\u2019s OFAC \u201coverstepped\u201d when it sanctioned Tornado Cash\u2019s immutable smart contracts, leading to a nearly 900% surge in TORN.</p>",
-        "content": "",
-        "categories": [
-            "Treasury",
-            "OFAC",
-            "sanctions"
+            "Policy",
+            "Tornado Cash",
+            "CoinCenter",
+            "Vitalik Buterin",
+            "Regulations"
         ]
     },
     {
@@ -608,7 +656,7 @@
     },
     {
         "source": "CoinDesk",
-        "title": "MicroStrategy Retail Investors Caught Out On the Wrong Side of MSTR Trade",
+        "title": "MicroStrategy Retail Investors Caught Out on the Wrong Side of MSTR Trade",
         "link": "https://www.coindesk.com/markets/2024/11/27/micro-strategy-retail-investors-caught-out-on-the-wrong-side-of-mstr-trade",
         "published": "Wed, 27 Nov 2024 11:49:06 +0000",
         "summary": "<p>MicroStrategy is currently up 416%, year-to-date, but it's down almost 40% from its all-time high, which was set on Nov. 21. </p><p>MicroStrategy's net asset value premium has dropped to 2.09. </p><p>On Nov. 20, MicroStrategy saw the largest daily retail buy on record, retail investors bought nearly $100 million in the stock last week - The Kobeissi Letter.</p><p></p>",
@@ -805,48 +853,6 @@
             "Bitcoin",
             "MicroStrategy",
             "ETF"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Ethereum Blob Usage Explodes as Traders Rush to Layer 2 Solutions",
-        "link": "https://www.coindesk.com/markets/2024/11/26/ethereum-blob-usage-explodes-as-traders-rush-to-layer-2-solutions",
-        "published": "Tue, 26 Nov 2024 09:10:13 +0000",
-        "summary": "<p>Ethereum has seen a surge in blob usage, averaging over 21,000 blobs this month, matching March's record activity.</p><p>The Dencun upgrade allows Layer 2 solutions to efficiently bundle transactions and post them to Ethereum.</p><p>Blob fees spiked, leading to the burning of over 166 ETH worth $560,000 in the past week.</p>",
-        "content": "<p>Ethereum is witnessing a surge in \"blob\" usage, an effective data management tool introduced earlier this year, signaling that more users are embracing layer-2 scaling solutions for faster and more affordable transactions.</p><p>The number of blobs or binary large objects posted to Ethereum has consistently averaged more than 21,000 this month, matching the record activity seen in March, according to pseudonymous data analyst <a href=\"https://dune.com/hildobby/blobs\" target=\"_blank\">Hildobby's Dune Analytics dashboard</a>.</p><p>Ethereum's Dencun upgrade, which went live earlier this year, introduced blobs, which attach large data chunks to regular transactions, storing data offchain without congesting the mainnet, unlike call data which is stored permanently. Think of blobs as a consolidated large box filled with letters while paying for an entire box instead of call data, which is akin to paying for each letter posted separately.</p><p>The spike in the number of Blobs posted points to increased adoption of layer-2 protocols such as BASE, Arbitrum, Optimism and others. These protocols use blobs to bundle transactions together, process them off-chain and then post them to the Ethereum main chain for verification.</p><p>\"Transactions for ETH and its L2s are continuing to reach all-time highs, now +40% vs. the Summer. Meanwhile, the average blob count has increased ~20% driving L2's Blob Fees to a 30-day high,\" Matthew Siegel, head of digital assets research at VanEck, <a href=\"https://x.com/matthew_sigel/status/1861050666203971947\" target=\"_blank\">said on X</a>.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/01c56ac9804858faba9dc4370103ac930c630dbe-1388x798.png\" /><p>Blobspace is a dedicated area within Ethereum's blocks where layer 2s temporarily post their data, but it comes with a cost, depending on network conditions. Note that these blob fees paid in Ethereum's native token ether are burned just as transaction fees, taking out the cryptocurrency's circulating supply from the market. This contradicts the popular narrative that layer-2 protocols are predatory to the mainchain.</p><p>The blob base submission fee spiked as high as $80 on Monday, the highest since March, and the average number of blobs posted in each ethereum block rose to 4.3. More importantly, blob fees have burned over 166 ETH worth $560,000 in the past seven days, the ninth largest, <a href=\"https://ultrasound.money/\" target=\"_blank\">according to ultrasound.money</a>.</p><p>\"Blob fees have historically been very low since the implementation of blobs in EIP4844 as they have their own fee market which has largely not seen price discovery. Recently, as onchain activity has begun to spike, demand for blobspace on the L1 has increased, and the blob fee market has entered price discovery,\" Artemis said in the newsletter. </p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/305bbcb8a5328763e2255d00eff9f456c3ee0c1b-1386x793.png\" /><p>The data suggests potential ether outperformance ahead. The second-largest cryptocurrency by market value, rose to a four-month high of $3,546 Monday, outperforming bitcoin's 5% drop, but has since pulled back to $3,370, CoinDesk data show. </p>",
-        "categories": [
-            "Markets",
-            "Ethereum",
-            "Ether",
-            "Layer 2s"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "XRP Holds Strong as Archax Unveils Tokenized Money Market Fund on XRP Ledger",
-        "link": "https://www.coindesk.com/markets/2024/11/26/xrp-holds-strong-as-archax-unveils-tokenized-money-market-fund-on-xrp-ledger",
-        "published": "Tue, 26 Nov 2024 07:46:26 +0000",
-        "summary": "<p>Archax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL.</p><p>Ripple will allocate $5 million into tokens on Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.</p><p>XRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop.</p>",
-        "content": "<p>XRP outperformed bitcoin (BTC) and other major tokens in the past 24 hours as regulated crypto broker and custodian Archax <a href=\"https://x.com/Ripple/status/1860995969375990069\" target=\"_blank\">unveiled a money market fund</a> on the XRP Ledger, a first for the network, in collaboration with closely related Ripple Labs and Abrdn.\n\nArchax has provided access to Abrdn\u2019s U.S. dollar Liquidity Fund (Lux) in tokenized form on XRPL. Ripple will allocate $5 million worth of tokens into Abrdn\u2019s Lux fund, part of a larger allocation to real-world assets (RWAs) on the XRPL.\n\nXRP price jumped 6%, touching a high of $1.49 in the hours following the release, before paring gains in a market-wide drop. The token is up 27% over the past week and more than has more than doubled in two weeks on several positive catalysts.\n\nReal World Assets (RWAs) are tangible or financial assets like real estate, commodities, or bonds that exist outside of the digital realm but can be represented as tokens on a blockchain. This process, known as tokenization, allows for fractional ownership, increased liquidity, and easier transfer of these assets.\n\nA money market involves trading short-term, high-quality debt instruments like Treasury bills, commercial paper, and certificates of deposit. It's where large institutions manage their short-term cash needs.\n\nArchax has been using Ripple\u2019s digital assets custody since 2022. Lux has over $3.8 billion in assets under management, per a release.\n\nThe launch of the tokenized money market fund on the XRPL is a further boost to the growth of real-world asset tokenization, a sector that some eye as one of the hottest in crypto.\n\nIn a July report, global consulting firm McKinsey & Company expects the tokenized asset market to reach $4 trillion in an optimistic scenario by 2030. Boston Consulting Group and 21Shares have forecasted over $10 trillion of tokenized assets by the decade's end in their optimistic scenarios, as CoinDesk <a href=\"https://www.coindesk.com/markets/2024/06/21/mckinsey-sees-just-2t-of-tokenized-rwas-by-2030-in-base-case-with-broad-adoption-still-far-away\" target=\"_blank\">previously reported</a>.</p>",
-        "categories": [
-            "Markets",
-            "Ripple",
-            "XRP"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "3 Reasons Why Bitcoin Risks Falling Below $90K: Godbole",
-        "link": "https://www.coindesk.com/markets/2024/11/26/three-reasons-why-bitcoin-risks-falling-below-90-k-godbole",
-        "published": "Tue, 26 Nov 2024 06:16:25 +0000",
-        "summary": "<p>BTC traders purchase protective put options in response to Monday's 5% decline.</p><p>The Coinbase premium indicator highlights a decline in demand for Bitcoin in the U.S. market.</p><p>The daily chart reveals a bearish RSI divergence, signaling potential weakness in price momentum.</p>",
-        "content": "<p>Bitcoin's (BTC) much-anticipated breakout above $100,000 remains out of reach, with prices retreating to $94,500 overnight. Key indicators point to further declines, potentially to levels below $90,000.</p><p>The first indicator is the 25-delta risk reversal, which measures the volatility premium of out-of-the-money calls used to bet on price rallies relative to OTM put options offering downside protection.</p><p>On Deribit, calls expiring this Friday now trade at a cheaper valuation to puts, resulting in a negative risk reversal, according to data source Amberdata. The first negative reading in at least a month indicates a bias for protective puts.</p><p>Perhaps sophisticated traders are prepping for an extension of Monday's price slide. On Monday, traders sold call spreads and bought put options tied to BTC on the over-the-counter liquidity network Paradigm.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/b739dabe755e28baa55e97dc55a1ba12fa110dda-1423x1059.png\" /><p>The 24-hour change in the 25RR (risk reversal) shows the call bias has moderated across timeframes. Last week, calls expiring in December and January traded at a bigger premium relative to puts than what we see now. </p><h2>Coinbase premium evaporates</h2><p>The stateside demand for BTC, a leading source of bullish pressure for the cryptocurrency during the recent post-U.S. election price surge from $70,000 to $99,500, has weakened. That's evident from the renewed discount in BTC prices on Nasdaq-listed Coinbase compared to offshore giant Binance.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/dae8a1031359ee7f3d45afcd46727bb7d78344ea-2880x1800.png\" /><p>The negative flip in the so-called Coinbase premium indicator follows the bearish order book skew, indicating vulnerability to potential negative news.</p><h2>RSI divergence</h2><p>The relative strength index (RSI) divergence occurs when an asset's price moves counter to the momentum oscillator.</p><p>In BTC's case, while prices tapped a new high above $99,000 on Friday, the RSI did not, diverging bearishly. The pattern indicates that the bullish momentum has run its course for now and there could be losses ahead.</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/a1503e4bbf2fdd05097727b096879898dcc539a2-1152x648.png\" /><p>Intraday charts indicate support between $87,000 and $88,000, meaning an expected deeper decline could find a floor in that range while long-term technical studies continue to lean bullish. </p>",
-        "categories": [
-            "Markets",
-            "Bitcoin",
-            "Markets",
-            "Coinbase Premium",
-            "Options"
         ]
     },
     {
@@ -1440,6 +1446,28 @@
     },
     {
         "source": "Decrypt",
+        "title": "This Public Company's Stock Price Just Doubled After Revealing Bitcoin Buying Plan",
+        "link": "https://decrypt.co/293850/sos-ltd-bitcoin-treasury-reserve",
+        "published": "Wed, 27 Nov 2024 16:46:31 +0000",
+        "summary": "SOS Ltd. announced a plan to buy up to $50 million worth of Bitcoin on Wednesday morning. Its stock price immediately exploded.",
+        "content": "",
+        "categories": [
+            "Business"
+        ]
+    },
+    {
+        "source": "Decrypt",
+        "title": "Tether Stops Minting Euro-Backed Stablecoin, Citing Hostile Regulators",
+        "link": "https://decrypt.co/293837/tether-stops-minting-euro-backed-stablecoin",
+        "published": "Wed, 27 Nov 2024 15:56:39 +0000",
+        "summary": "Stablecoin issuer Tether has announced that it will no longer issue its euro-backed EURT token amid regulatory challenges in Europe.",
+        "content": "",
+        "categories": [
+            "Coins"
+        ]
+    },
+    {
+        "source": "Decrypt",
         "title": "Art Blocks NFT Project Takes 'Major Leap Forward' on Ethereum",
         "link": "https://decrypt.co/293720/art-blocks-nft-project-major-leap-ethereum",
         "published": "Wed, 27 Nov 2024 15:01:02 +0000",
@@ -1761,29 +1789,6 @@
     },
     {
         "source": "Decrypt",
-        "title": "Solana DeFi Exchange Jupiter Puts $1.5 Billion Worth of JUP Airdrops Up to Vote",
-        "link": "https://decrypt.co/293504/solana-jupiter-1-5-billion-airdrops-vote",
-        "published": "Mon, 25 Nov 2024 23:13:09 +0000",
-        "summary": "Jupiter is letting the community decide whether or not 1.4 billion JUP tokens\u2014about $1.5 billion worth\u2014should go towards future airdrops.",
-        "content": "",
-        "categories": [
-            "DeFi"
-        ]
-    },
-    {
-        "source": "Decrypt",
-        "title": "Dogecoin Barks Up Another Record as Open Interest Tops $4 Billion",
-        "link": "https://decrypt.co/293508/dogecoin-open-interest-hits-4-billion",
-        "published": "Mon, 25 Nov 2024 22:33:10 +0000",
-        "summary": "Traders continue to place their bets on Elon Musk's favorite coin: Dogecoin. Open interest for the asset surged to over $4 billion Saturday.",
-        "content": "",
-        "categories": [
-            "dogecoin",
-            "Markets"
-        ]
-    },
-    {
-        "source": "Decrypt",
         "title": "Bitcoin Dominance Falls, Bessent picked for Treasury, PumpFun streams Criticised",
         "link": "https://decrypt.co/videos/interviews/zFg1kbd8/bitcoin-dominance-falls-bessent-picked-for-treasury-pumpfun-streams-criticised",
         "published": "Mon, 25 Nov 2024 16:15:37 +0000",
@@ -1955,6 +1960,23 @@
     },
     {
         "source": "CryptoSlate",
+        "title": "Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe",
+        "link": "https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/",
+        "published": "Wed, 27 Nov 2024 16:09:53 +0000",
+        "summary": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, EURt, in\u00a0a Nov. 27 statement. The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025. The decision marks the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "content": "<p>Stablecoin issuer Tether announced plans to end support for its Euro-pegged stablecoin, <a href=\"https://cryptoslate.com/coins/tether-eurt/\">EURt</a>, in\u00a0a Nov. 27 statement.</p>\n<p>The company stated it had ceased minting new EURt tokens, with the last issuance request processed in 2022. It also continued that the asset&#8217;s current holders can redeem the tokens until Nov. 27, 2025.</p>\n<p>The decision marks the end of EURt&#8217;s challenging journey in a market where competitors like Circle&#8217;s MiCA-compliant EURC dominate.</p>\n<p>According to <em>CryptoSlate&#8217;s</em> <a href=\"https://cryptoslate.com/cryptos/eur-stablecoin/\">data</a>, EURt struggled to gain traction in Europe, holding a market capitalization of just $38 million. This figure trails <a href=\"https://cryptoslate.com/coins/euro-coin/\">Circle&#8217;s EURC</a>, valued at $90.5 million, and <a href=\"https://cryptoslate.com/coins/stasis-euro/\">Stasis&#8217; Euro</a>, which boasts a $130 million valuation.</p>\n<p>In stark contrast, Tether&#8217;s flagship stablecoin, USDt, commands a robust $132 billion market cap\u2014\u00a0 more than three times higher than its closest competitor, USDC.</p>\n<h2>Why Tether is ending EURt support</h2>\n<p>Tether CEO <a href=\"https://cryptoslate.com/people/paolo-ardoino/\">Paolo Ardoino</a> attributed the move to Europe&#8217;s evolving regulatory landscape for stablecoins.</p>\n<p>The EU&#8217;s Markets in Crypto-Assets Regulation (MiCA) introduces a stringent regulatory environment that requires stablecoin issuers to obtain e-money authorization in at least one EU member country. This law has drawn significant backlash from Ardoino, who claims the strict cash reserve requirements could present systemic risks to banks and digital assets.</p>\n<p>Ardoino emphasized the need for a framework that balances risk management with innovation and user protection. He stated:</p>\n<blockquote><p>&#8220;Tether&#8217;s decision to delist EURt has not been taken lightly, but until a more risk-averse regulatory framework in Europe is in place\u2014one that fosters innovation, offers the stability and protection our users deserve and avoids potential banking systemic risks\u2014we have chosen to prioritize other initiatives.&#8221;</p></blockquote>\n<p>While Tether might not comply with MiCA, Ardoino pointed out that the firm&#8217;s new initiative, Hadron, will be a top priority in the European region. According to him, Hadron has the potential to revolutionize the accessibility of asset tokenization for institutions, governments, fund managers, and private companies.</p>\n<p>Dutch fintech firm Quantoz has already <a href=\"https://cryptoslate.com/tether-invests-in-dutch-firm-to-launch-mica-compliant-stablecoins/\">leveraged Hadron to issue EURQ and USDQ stablecoins</a>. These tokens fully comply with the EU&#8217;s Markets in Crypto-Assets Regulation (MiCA), demonstrating the platform&#8217;s adaptability to stringent regulatory requirements.</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-to-focus-on-hadron-as-it-exits-eurt-amid-regulatory-challenges-in-europe/\">Tether to shutter EURt to focus on Hadron amid regulatory challenges in Europe</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "categories": [
+            "Stablecoins",
+            "Europe",
+            "EURT",
+            "Hadron",
+            "MiCA",
+            "Tether",
+            "USDT"
+        ]
+    },
+    {
+        "source": "CryptoSlate",
         "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
         "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
         "published": "Wed, 27 Nov 2024 15:17:12 +0000",
@@ -2074,13 +2096,23 @@
         ]
     },
     {
-        "source": "CryptoSlate",
-        "title": "Exploring decentralized AI and artistic innovation with Dimitri de Jong of 204.ai",
-        "link": "https://cryptoslate.com/podcasts/exploring-decentralized-ai-and-artistic-innovation-with-dimitri-de-jong-of-204-ai/",
-        "published": "Tue, 26 Nov 2024 23:05:47 +0000",
-        "summary": "<p>The latest SlateCast episode featured Dimitri de Jong, founder and CTO of 204.ai, in conversation with Liam \u201cAkiba\u201d Wright, Editor in Chief of CryptoSlate, and Nate Whitehill, CEO of CryptoSlate. The discussion centered on de Jong\u2019s innovative work at the intersection of AI, blockchain, and artistic expression. His experience spans decades of research and development [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/podcasts/exploring-decentralized-ai-and-artistic-innovation-with-dimitri-de-jong-of-204-ai/\">Exploring decentralized AI and artistic innovation with Dimitri de Jong of 204.ai</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "content": "<p></p>\n<p>The latest SlateCast episode featured <a href=\"https://cryptoslate.com/people/dimitri-de-jonghe/\"><strong>Dimitri de Jong</strong></a>, founder and CTO of <strong>204.ai</strong>, in conversation with <a href=\"http://cryptoslate.com/author/liam-akiba-wright\"><strong>Liam \u201cAkiba\u201d Wright</strong></a>, Editor in Chief of <em>CryptoSlate</em>, and <a href=\"https://cryptoslate.com/people/nate-whitehill/\"><strong>Nate Whitehill</strong></a>, CEO of <em>CryptoSlate</em>. The discussion centered on de Jong\u2019s innovative work at the intersection of AI, blockchain, and artistic expression. His experience spans decades of research and development in decentralized systems, blending technology with creative vision.</p>\n<h2>From Microelectronics to AI and Blockchain</h2>\n<p>Dimitri\u2019s journey began with a foundation in microelectronics and systems theory. As he explained, this background provided a deep understanding of complex systems and their optimization. His work in the 2010s revolved around using machine learning to simulate rare events and improve microchip designs for diverse environments, from space missions to nuclear reactors.</p>\n<blockquote><p>\u201cI specialized in systems theory and nonlinear systems to optimize designs in virtual environments,\u201d said Dimitri. \u201cThat foundation translates directly into understanding decentralized systems.\u201d</p></blockquote>\n<p>This knowledge eventually led him to blockchain and AI, where he developed data sovereignty solutions such as <a href=\"https://cryptoslate.com/coins/ocean-protocol/\"><strong>Ocean Protocol</strong></a>, a decentralized data exchange, and <strong>Nevermind</strong>, focused on AI agents and data ownership.</p>\n<h2>204.ai: Fusing Art and Technology</h2>\n<p>Dimitri described <strong>204.ai</strong> as an \u201cinteractive design studio\u201d where AI and artistic research converge. The studio explores immersive generative art, creating unique experiences like stepping into AI-enhanced paintings or witnessing fossils \u201ccome alive\u201d through dynamic overlays.</p>\n<blockquote><p>\u201cWe aim to make AI interactions multi-sensory and deeply engaging,\u201d he said. \u201cFor example, we use brain-computer interfaces to enhance real-time generative designs.\u201d</p></blockquote>\n<p>204.ai\u2019s work spans institutional projects and public-facing immersive experiences. From kinetic installations to AI-driven nature simulations, Dimitri emphasized the importance of bridging creative expression and technological advancement.</p>\n<h2>The Vision of a Universal Recommender</h2>\n<p>A key highlight of the discussion was Dimitri\u2019s concept of a <strong>universal recommender system</strong>, which prioritizes user privacy while enhancing digital lives. Unlike traditional recommendation engines, which often exploit personal data, this system would allow individuals to own and control their data \u201cpods.\u201d</p>\n<blockquote><p>\u201cImagine owning your data and having a local algorithm predict what you want, rather than platforms pushing content at you,\u201d Dimitri explained. \u201cThis model gives users agency and aligns with their personal values.\u201d</p></blockquote>\n<p>This vision extends beyond personalized recommendations to enabling secure interactions with AI agents and digital services, empowering individuals in a data-driven world.</p>\n<h2>Democratizing Creativity with Generative AI</h2>\n<p>Dimitri highlighted AI\u2019s potential to democratize art, enabling creators with limited resources to bring their visions to life. Using in-house tools, 204.ai amplifies the creative process, giving artists new capabilities to express themselves.</p>\n<blockquote><p>\u201cPeople with the craziest ideas will soon have the tools to execute them,\u201d Dimitri said. \u201cWe\u2019ve seen amazing storytelling emerge from combining generative AI with performance art.\u201d</p></blockquote>\n<p>However, he acknowledged challenges, including maintaining artistic integrity and addressing ethical concerns in AI-generated content.</p>\n<h2>Ethical AI and the Future of AGI</h2>\n<p>The conversation also delved into the ethical implications of AI, particularly <strong>Artificial General Intelligence (AGI)</strong>. Dimitri emphasized the importance of open-source AGI to prevent monopolization by private corporations.</p>\n<blockquote><p>\u201cAGI must be developed as public infrastructure with diverse input, including tribal and cultural wisdom,\u201d Dimitri argued. \u201cCorporate-aligned AGI will never serve humanity.\u201d</p></blockquote>\n<p>He stressed the need for widespread participation, artistic exploration, and regulatory frameworks to ensure that AGI evolves responsibly.</p>\n<h2>Final Thoughts</h2>\n<p>The SlateCast episode with Dimitri de Jong offered a glimpse into the transformative potential of decentralized AI, blockchain, and generative art. From redefining how we interact with technology to creating a fairer, more transparent digital ecosystem, Dimitri\u2019s vision is a compelling roadmap for the future.</p>\n<p>As AI and blockchain continue to evolve, their integration into art, data sovereignty, and ethical innovation promises to reshape society. The intersection of these technologies remains an exciting and critical space to watch in the coming years.</p>\n<p>The post <a href=\"https://cryptoslate.com/podcasts/exploring-decentralized-ai-and-artistic-innovation-with-dimitri-de-jong-of-204-ai/\">Exploring decentralized AI and artistic innovation with Dimitri de Jong of 204.ai</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "categories": []
+        "source": "TechCrunch",
+        "title": "Elon Musk\u2019s AI company may release a consumer app",
+        "link": "https://techcrunch.com/2024/11/27/elon-musks-ai-company-may-release-a-consumer-app/",
+        "published": "Wed, 27 Nov 2024 16:46:29 +0000",
+        "summary": "<p>xAI, Elon Musk&#8217;s AI company, is reportedly preparing to release a standalone consumer app. That&#8217;s according to The Wall Street Journal, which reports that the upcoming app will be similar to OpenAI&#8217;s ChatGPT app, allowing users to access xAI&#8217;s Grok chatbot from their personal devices. The app will likely arrive after xAI closes its next [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
+        "categories": [
+            "AI",
+            "Apps",
+            "App",
+            "Elon Musk",
+            "Grok",
+            "In Brief",
+            "report",
+            "rumor",
+            "xAI"
+        ]
     },
     {
         "source": "TechCrunch",
@@ -2377,23 +2409,6 @@
             "LATAM",
             "Tariffs",
             "TechCrunch Fintech"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Bluesky verification could look a lot different from X\u2019s blue checks",
-        "link": "https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/",
-        "published": "Tue, 26 Nov 2024 18:38:48 +0000",
-        "summary": "<p>The rapidly growing social networking startup Bluesky, a Twitter/X alternative built on open web principles, revealed in a livestream on Monday how its approach to user account verification will differ from existing services, like Meta and X. While traditional social media has shifted to a pay-for-verification model, where users pay for the privilege of the [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Startups",
-            "Apps",
-            "Social",
-            "Bluesky",
-            "social media",
-            "social networking",
-            "X"
         ]
     }
 ]
