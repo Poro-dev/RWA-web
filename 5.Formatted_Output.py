@@ -43,10 +43,10 @@ def relative_time(date_str):
             return f"⚡ Just now"
         elif delta < timedelta(days=1):
             hours = int(delta.total_seconds() / 3600)
-            return f"⌚ {hours} hour{'s' if hours > 1 else ''} ago"
+            return f"{hours} hour{'s' if hours > 1 else ''} ago"
         else:
             days = delta.days
-            return f"📅 {days} day{'s' if days > 1 else ''} ago"
+            return f"{days} day{'s' if days > 1 else ''} ago"
     except ValueError:
         return "unknown time"
 
