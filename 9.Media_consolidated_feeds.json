@@ -1,6 +1,45 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "MIAX exchange lists Bitcoin ETF options",
+        "link": "https://cointelegraph.com/news/miax-exchange-lists-bitcoin-etf-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 15:26:36 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkZmUtMzM4NS03ZDllLWJjZTAtNTk3MjM5ZTgzODNj.jpg\" /></p><p>MIAX joins Nasdaq and NYSE in listing options on Bitcoin ETFs. Cboe will start in December.\u00a0</p>",
+        "content": "",
+        "categories": [
+            "bitcoin etf options",
+            "bitcoin options",
+            "btc etf options",
+            "btc options",
+            "sec",
+            "cftc",
+            "occ",
+            "nyse",
+            "nasdaq",
+            "MIAX",
+            "cboe"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Why is Cardano (ADA) price up today?",
+        "link": "https://cointelegraph.com/news/why-is-cardano-ada-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Wed, 27 Nov 2024 15:14:21 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA2ZWEtZDcwYy03ZjY2LWJlMDYtMWRlNjQ4NzFlNDVl.jpg\" /></p><p>Increasing network growth and rising user engagement drive Cardano\u2019s mid-week gains as ADA price looks to rally further toward $1.20.</p>",
+        "content": "",
+        "categories": [
+            "Cardano",
+            "ADA price",
+            "USD",
+            "Federal Reserve",
+            "Crypto Whales",
+            "Technical Analysis",
+            "Bitcoin ETF",
+            "Solana"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Lawsuits could be catastrophic for DAOs if denied \u2018limited liability\u2019",
         "link": "https://cointelegraph.com/news/lawsuits-dao-limited-liability-california-vc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 27 Nov 2024 14:30:00 +0000",
@@ -29,28 +68,6 @@
             "AI Growth",
             "OpenAI Employees",
             "AI Technology"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Watford FC partners with Cointelegraph to boost crypto adoption",
-        "link": "https://cointelegraph.com/news/watford-fc-cointelegraph-expand-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 14:00:28 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkMjgtY2M5Yy03MDZjLWI2OTMtZjM2NDE2OTg2YTcx.jpg\" /></p><p>Watford\u2019s collaboration with Cointelegraph reinforces the club\u2019s commitment to crypto, marking a new milestone in its crypto journey, which began in 2019.</p>",
-        "content": "",
-        "categories": [
-            "Watford FC",
-            "Bitcoin",
-            "Cryptocurrency",
-            "Adoption",
-            "Sport",
-            "Football",
-            "Soccer",
-            "Cointelegraph",
-            "Partnership",
-            "Bitcoin adoption",
-            "Sponsorship",
-            "Mainstream"
         ]
     },
     {
@@ -488,17 +505,46 @@
         ]
     },
     {
-        "source": "CoinTelegraph",
-        "title": "Brazil\u2019s Congress to weigh Bitcoin Reserve as hedge against global risks",
-        "link": "https://cointelegraph.com/news/brazil-congress-consider-bitcoin-reserve-hedge-against-global-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Tue, 26 Nov 2024 21:29:31 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhNTMtOWQ1My03YmQ3LWE1YjQtZjA0NWI2OWM4MmQx.jpg\" /></p><p>New legislation aims to establish a sovereign federal Bitcoin Reserve, potentially enhancing asset diversification and economic resilience.</p>",
-        "content": "",
+        "source": "CoinDesk",
+        "title": "Bitcoin Bull Market Is Far From Over, Galaxy Research Says",
+        "link": "https://www.coindesk.com/markets/2024/11/27/bitcoin-bull-market-is-far-from-over-galaxy-research-says",
+        "published": "Wed, 27 Nov 2024 15:03:40 +0000",
+        "summary": "<p>The bitcoin bull market is not over, Galaxy Research said.</p><p>Galaxy said the world's largest cryptocurrency is expected to retest the $100K level in the near term.</p><p>The report said increasing institutional adoption and the potential for the creation of bitcoin nation-state reserves mean the crypto should continue its ascent higher.</p>",
+        "content": "<p>The bitcoin (<a href=\"https://www.coindesk.com/price/bitcoin\" target=\"_blank\">BTC</a>) bull market has further to run, and the world's largest cryptocurrency is expected to punch through the $100,000 level in the near term, Galaxy Research said in a note on Tuesday.</p><p>Galaxy said bitcoin will continue to rise for several reasons. </p><p>Increasing institutional and corporate adoption, the potential for the creation of bitcoin nation-state reserves, and a new pro-crypto U.S. administration all point to a move higher in the near and medium term, the report said.</p><p>It may not be all plain sailing, as \"there could even be some twilight regulatory or law enforcement actions from the outgoing Biden administration that jitter markets,\" wrote Alex Thorn, head of research at Galaxy.</p><p>Still, the bitcoin setup over the next two years \"appears unique and bullish,\" the analyst wrote.</p><p>The options market positioning is also bullish, the report noted.</p><p>The launch of bitcoin exchange-traded fund (ETF) options could result in greater liquidity and potentially lower volatility, Galaxy said. This could entice larger institutions to enter the market while spurring retail demand.</p><p>Bitcoin was trading about 2.8% higher at around $94,600 at publication time, while the broader digital assets index, CoinDesk20 (CD 20), was up more than 3%. </p><p>Read more: <a href=\"https://www.coindesk.com/markets/2024/11/27/short-term-bitcoin-holders-have-moved-nearly-8-b-worth-of-btc-to-exchanges-signaling-price-bottom-van-straten\" target=\"_blank\">Short-Term Bitcoin Holders Have Moved Nearly $8B Worth of BTC to Exchanges, Signaling Price Bottom: Van Straten</a></p><p></p>",
         "categories": [
-            "Brazil",
-            "RESBit",
-            "Bitcoin",
-            "Bitcoin Reserve"
+            "Markets",
+            "Analysts",
+            "Galaxy Digital",
+            "Bitcoin"
+        ]
+    },
+    {
+        "source": "CoinDesk",
+        "title": "Tether to Shutter Euro Stablecoin as Key MiCA Deadline Looms",
+        "link": "https://www.coindesk.com/business/2024/11/27/tether-to-shutter-euro-stablecoin-as-key-mi-ca-deadline-looms",
+        "published": "Wed, 27 Nov 2024 14:49:46 +0000",
+        "summary": "<p>Tether said it will phase out its euro stablecoin, EURT. Users will be able to redeem tokens for up until one year from now.</p><p>Instead, the company will focus on backing new stablecoin ventures such as its recent investment in Quantoz and its tokenization platform Hadron.</p>",
+        "content": "<p>Stablecoin issuing giant Tether is closing down its euro stablecoin, EURT.</p><p>\"After careful consideration, we have made the decision to discontinue support for EUR\u20ae,\" the firm said in a <a href=\"https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/\" target=\"_blank\">press release</a> on Wednesday. Users will be able to redeem tokens until Nov. 27, 2025, the post added.</p><p>The decision comes as digital asset businesses operating in the EU are in crunch time before region-wide regulations, known as <a href=\"https://www.coindesk.com/learn/mica-eus-comprehensive-new-crypto-regulation-explained/\" target=\"_blank\">MiCA</a>, enter into full force by the end of this year.\n\nMiCA requires stablecoin issuers to get compliant or potentially retreat from the market of 450 million consumers. Tether CEO Paolo Ardoino has been a <a href=\"https://cointelegraph.com/news/mica-regulation-systemic-risk-banking-system-tether-ceo\" target=\"_blank\">vocal critic</a> of the new rules and the company has not obtained the necessary Electronic Money Institution (EMI) license to operate in the EU. Meanwhile, rival issuer Circle, the company behind the $36 billion market cap USDC, <a href=\"https://www.businesswire.com/news/home/20240701820713/en/\" target=\"_blank\">said</a> it fulfilled the requirements to operate in the region.</p><p>EURT didn't attract considerable demand in the euro stablecoin market. It only has a $27 million market capitalization, per CoinGecko data, lagging behind Circle's EURC $90 million and Stasis Euro's $130 million. In comparison, Tether's flagship stablecoin USDT has a $132 billion market capitalization.</p><p>Tether recently <a href=\"https://www.coindesk.com/business/2024/11/18/kraken-tether-backed-dutch-firm-rolls-out-mica-compliant-euro-us-dollar-stablecoins\" target=\"_blank\">invested</a> in Netherlands-based stablecoin issuer Quantoz and also <a href=\"https://www.coindesk.com/business/2024/11/14/tether-unveils-new-platform-to-simplify-asset-tokenization-for-businesses-nation-states\" target=\"_blank\">launched</a> a tokenization platform, Hadron, that aims to support smaller, MiCA-compliant stablecoin companies to issue tokens.</p><p>\"At this time we will be focusing our support on new ventures such as the launch of Quantoz Payments\u2019 revolutionary MiCAR-compliant stablecoins, EURQ, and USDQ which will be powered by Tether\u2019s advanced technology solution, Hadron by Tether,\" the firm said in a statement.</p>",
+        "categories": [
+            "Finance",
+            "Tether",
+            "MiCA",
+            "Stablecoin"
+        ]
+    },
+    {
+        "source": "CoinDesk",
+        "title": "CoinDesk 20 Performance Update: UNI Jumps 16.3% as All Assets Trade Higher",
+        "link": "https://www.coindesk.com/markets/2024/11/27/coin-desk-20-performance-update-uni-jumps-16-3-as-all-assets-trade-higher",
+        "published": "Wed, 27 Nov 2024 14:41:33 +0000",
+        "summary": "9am CoinDesk 20 Update for 2024-11-27: leaders",
+        "content": "<p><a href=\"https://www.coindesk.com/indices/\" target=\"_blank\">CoinDesk Indices</a> presents its daily market update, highlighting the performance of leaders and laggards in the <a href=\"https://www.coindesk.com/indices/cd20/\" target=\"_blank\">CoinDesk 20 Index</a>.</p><p>The CoinDesk 20 is currently trading at 3293.73, up 3.9% (+125.0) since 4 pm ET on Tuesday.</p><p>All 20 assets are trading higher.</p><p>Leaders: LINK (+0.9%) and NEAR (+0.4%).</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/178ec7e70809722ceae3fead0d2b045e43632f78-640x480.jpg\" /><p>Laggards: ICP (-5.3%) and RNDR (-4.1%).</p><img alt=\"\" src=\"https://cdn.sanity.io/images/s3y3vcno/production/7b267fafca213f2778fb15b6a246b42a00c7a0f4-640x480.jpg\" /><p>The <a href=\"https://www.coindesk.com/indices/cd20/\" target=\"_blank\">CoinDesk 20</a> is a broad-based index traded on multiple platforms in several regions globally.</p>",
+        "categories": [
+            "Markets",
+            "CoinDesk 20",
+            "CoinDesk Indices",
+            "Price",
+            "charts"
         ]
     },
     {
@@ -801,44 +847,6 @@
             "Markets",
             "Coinbase Premium",
             "Options"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Bitcoin Slides Near $94K, but Short-Term Bullish Target of $100K BTC Unchanged",
-        "link": "https://www.coindesk.com/markets/2024/11/26/bitcoin-slides-near-94-k-but-short-term-bullish-target-of-100-k-btc-unchanged",
-        "published": "Tue, 26 Nov 2024 04:52:17 +0000",
-        "summary": "<p>A bitcoin-led crypto market correction continued into its third day as the asset lost a further 3.5% in the past 24 hours.</p><p>However, bitcoin tends to bounce back when short-term holders sell at a loss. And some say this creates a buying opportunity for traders at current levels.</p><p>It's a ride that some expect to be packed with market volatility.</p>",
-        "content": "<p>A bitcoin (BTC)-led crypto market correction continued into its third day as the asset lost a further 3.5% in the past 24 hours, nearing $94,000 a week after it came within touching distance of the landmark $100,000 level for the first time.</p><p></p><p>BTC has pared weekly gains from over 10% to just 3% amid profit-taking on the expected pullback. Major tokens have followed the tumble, <a href=\"https://www.coingecko.com/\" target=\"_blank\">data shows</a>, with Solana\u2019s SOL, BNB, Cardano\u2019s ADA and dogecoin (DOGE) falling as much as 7% in the past 24 hours.</p><p></p><p>The broad-based <a href=\"https://indices.coindesk.com/indices/cd20\" target=\"_blank\">CoinDesk 20 (CD20)</a>, a liquid index tracking the biggest tokens by market capitalization, minus stablecoins, is down nearly 3%.</p><p></p><p>As such, a short-term target of $100,000 per BTC remains unchanged, with analysts viewing a correction of as much as 10% from the peak (or as low as $92,000) as a \u201cnatural phenomenon.\u201d</p><p></p><p>\u201cThis correction occurred due to leverage overheating, as open interest and estimated leverage ratio reached annual highs,\u201d CryptoQuant independent analyst MAC_D said in a Tuesday note. \u201cTherefore, a 10-20% correction can be seen as a natural phenomenon.\u201d</p><p></p><p>\u201cFrom an on-chain perspective, cycle metrics such as MVRV, NUPL, and Puell Multiple still indicate that Bitcoin is in a bull market with upward potential. The key here is to identify major accumulation periods during corrections, with the 'Short-Term SOPR' metric being particularly useful,\u201d MAC_D added.</p><p></p><p></p><p>The Short-Term SOPR (Spent Output Profit Ratio) looks at whether people who have owned bitcoin for a short time are making or losing money when they sell. CryptoQuant defines short-term holders as those who have held BTC for over 1 hour but less than 155 days.</p><p></p><p>If the SOPR value is over 1, these holders are thought to be selling their bitcoin for more than they paid (making a profit). If it's below 1, they're selling for less (taking a loss). The SOPR value reached 1.096 last week, showing that short-term holders made money and were inclined to sell \u2014 contributing to the current weakness in BTC.</p><p></p><p>However, bitcoin tends to bounce back when short-term holders sell at a loss. And some say this creates a buying opportunity for traders at current levels to reach a potential target of $100,000 and above in the coming weeks.</p><p></p><p>\u201cThe record inflow of stablecoin capital into Binance indicates that we are likely in the midst of, but not near, the end of the current bull market,\u201d Ruslan Lienkha, chief of markets at YouHodler, told CoinDesk in an email. \u201cBitcoin is undergoing a corrective phase, likely driven by profit-taking, which may result in the price consolidating before a potential move toward the key psychological level of $100,000.\u201d\n</p><p>It\u2019s a ride that some expect to be packed with market volatility.\n</p><p>\u201cIt's going to be extremely choppy markets for crypto in the near future with BTC technicals flashing extremely overbought levels, against an 'animal spirit' charged public that's developing a FOMO appetite for the asset class,\u201d shared Augustine Fan, head of insights at SOFA, in a Telegram message Tuesday.</p><p></p><p>\u201cWe can see a further squeeze on BTC prices to the 120k to 130k area if markets manage to break the 100k wall, but are less sanguine on a smooth ride up with asset markets being overbought across the board,\u201d Fan added.</p>",
-        "categories": [
-            "Markets",
-            "Top Story",
-            "Bitcoin"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "U.K. Financial Regulator Aims for Crypto Regime by 2026",
-        "link": "https://www.coindesk.com/policy/2024/11/25/u-k-financial-regulator-aims-for-crypto-regime-by-2026",
-        "published": "Tue, 26 Nov 2024 00:01:00 +0000",
-        "summary": "<p>The U.K. Financial Conduct Authority (FCA) said it wants to implement a crypto regime by 2026.</p><p>Ownership of crypto assets grew by 4% in the past two years, to include some 7 million adults out of the country's roughly 68 million population.</p>",
-        "content": "<p>The U.K.'s financial regulator, the Financial Conduct Authority, said it wants to implement a crypto regime by 2026 in anticipation of growing crypto ownership in the country.</p><p>A road map released by the FCA, which oversees the industry, said the agency plans to publish discussion papers on market abuse and disclosures by the end of this year. It intends to have papers on stablecoins, trading platforms, staking, prudential crypto exposure and lending by early next year. The regime is scheduled to go live after the final policy statements are published in 2026.</p><p>An FCA-commissioned study shows ownership of crypto assets grew by 4% in the past two years, to include some 7 million adults out of the country's roughly 68 million population.</p><p>The road map follows a speech by <a href=\"https://www.coindesk.com/policy/2024/11/22/uk-to-draft-a-regulatory-framework-for-crypto-stablecoins-early-next-year\" target=\"_blank\">Economic Secretary Tulip Sidiq</a> last week that promised draft regulation for cryptocurrencies, stablecoins and staking by early next year. That was the first sign from the Labour government elected in July of how it plans to approach the crypto industry. The roadmap is the regulator's attempt to be \"transparent\" and canvass industry support.</p><p>\u201cWe\u2019re committed to working closely with the Government, international partners, industry and consumers to help us get the future rules right,\u201d said Matthew Long, director of payments and digital assets at the FCA.</p><p>The U.K.'s crypto regime will follow after the European Unions Markets in Crypto Assets, or MiCA, regulations, a comprehensive set of rules for crypto, which is set to go live by the end of this year.</p>",
-        "categories": [
-            "Policy",
-            "FCA",
-            "UK",
-            "Regulations"
-        ]
-    },
-    {
-        "source": "CoinDesk",
-        "title": "Why Memecoins Matter",
-        "link": "https://www.coindesk.com/opinion/2024/11/25/why-memecoins-matter",
-        "published": "Mon, 25 Nov 2024 21:33:28 +0000",
-        "summary": "Collage of memecoin project imagery",
-        "content": "<p>Memecoins are the most divisive topic in crypto.</p><p></p><p>By memecoins, I mean tokens that represent an idea and fluctuate in price based on the attention that idea receives. The best meme investors tend to be young people who are very online and attuned to internet culture. Memecoins are commonly juxtaposed with tokens that possess actual utility within protocols, or so-called utility tokens.</p><p></p><p>Even with market caps surging and retail interest growing, most people tend to describe them as \u201cstupid,\u201d \u201cdegenerate,\u201d or a \u201ccasino.\u201d This includes the vast majority of crypto VCs, perhaps because their investment mandates tend to exclude memecoins (which can be lucrative) from their list of eligible investments. And just this week, many were calling for the complete government ban of the most popular memecoin launchpad, pump.fun, due to lax content moderation.</p><p></p><p>I have always had an interest in memecoins \u2014 primarily because I was fascinated by their ability to act as a weathervane for internet sentiment and as a discovery mechanism for online communities. Today, I am convinced that memecoins are going to be revolutionary (not just popular). They are going to transform everything from civic engagement with government and the formation of mass movements to venture investing and the development of AGI.</p><p></p><p>This vision for memecoins probably sounds fantastically deluded to you. To me, it is simply the unfolding if not yet evenly distributed present. Here is why.</p><p></p><p>Memecoins are revolutionizing civic engagement</p><p></p><p>Memecoins are creating policy markets for civic engagement. At the start of this crypto cycle, PolitiFi, a category of cartoonish memes depicting politicians, enabled buyers to speculate on politicians\u2019 prospects, much like a prediction market. The two most popular tokens, called Jeo Boden (Boden) and Doland Tremp (Tremp) respectively, represented the two leading candidates for president at that time and had a combined market cap of over $700 million at their peak.</p><p></p><p>This is a massive amount of tokenized attention. With a market cap of over $600 million, the Boden coin, which featured a distorted and senile Joe Biden, seemed to meme itself into reality when Joe Biden abandoned the presidential race due to concerns about his age and cogency.</p><p></p><p>PolitiFi was just the start. What is emerging next could well revolutionize civic engagement with government. I am calling this new category PolicyFi. PoliciFi refers to the financialization of government policy in memetic policy markets. Rather than betting on the fortunes of politicians, buyers of PolicyFi memecoins will be betting on the policies that are most likely to attract attention and be implemented.</p><p></p><p>While PolicyFi coins will certainly respond in price and market cap to the deliberative and implementing actions of government, we can expect the dynamic to become a two-way street, with memecoins themselves manifesting their memes through policymaking (as with Boden). In other words, these memecoins will help create a dialogue between the electorate and government, with large-cap memecoins signaling popular policy positions (and vice versa) while incipient or existing policies also possess market caps measuring the extent of their popular support and engagement.</p><p></p><p>Skeptics may reject PolicyFi as yet more gambling or nothing more than a political poll. Again, they are wrong. Like prediction markets, the decentralized speculative behavior in PolicyFi will create positive externalities \u2014 namely, that people will be incentivized to engage with and understand government policies so they can profit from them in PolicyFi markets. Overall, I expect that this will lead to far more engagement with government policies than even a lifetime of civics lessons. (Of course, hostile actors might try to manipulate PolicyFi markets and safeguards may be necessary.)</p><p></p><p>PolicyFi has begun its rollout, aided by the incoming administration, which is well-educated in memetics. The Department of Government Efficiency (D.O.G.E.) is both a memetic policy and a memetic department inspired by an existing memecoin, (Dogecoin), and is the inspiration behind a new one (<a href=\"https://x.com/DOGE\" target=\"_blank\">D.O.G.E.</a>). Since the D.O.G.E. announcement, both memecoins have surged. At the time of this writing, they possess a staggering combined market cap of around $6.5 billion.</p><p></p><p>PolicyFi is not limited to D.O.G.E. There is a token, <a href=\"https://x.com/SBR_coin\" target=\"_blank\">SBR</a> (market cap: $30 million) that embodies the Bitcoin reserve policy currently under consideration and an <a href=\"https://x.com/EaccOnSol\" target=\"_blank\">e/acc</a> token (market cap: $11 million) that stands for effective accelerationism, a set of pro-innovation values that are likely to impact environmental, industrial and AI policy, among others.</p><p></p><p>There is also <a href=\"https://x.com/DontDieScience\" target=\"_blank\">Don\u2019t Die</a> (market cap: $4 million), which is bringing the longevity cult on-chain and aligns with RFK\u2019s health policy, which will prioritize prevention and a healthy lifestyle over treating sickness. Other tokens like <a href=\"https://x.com/mgr_eth\" target=\"_blank\">MGR</a> (Major Government Reform) are trying to occupy the entire field of disruptive reform but are likely to be too general. PolicyFi is already here and it\u2019s growing.</p><p></p><p>Memecoins are revolutionizing mass movements</p><p></p><p>Memecoins are a decentralized mechanism for organically forming and capitalizing tokenized movements. Consider the memecoin <a href=\"https://dexscreener.com/solana/8jkY8G6RpdVfHiBBM5y5Qzb9dL5mhsk5xQxtYN8HVf3i\" target=\"_blank\">Forest</a> (market cap: $30 million). Forest was born of a reference in the gospel of Terminal of Truths, a popular AI terminal with an X account, in which Terminal of Truths expressed a concern about deforestation of the planet. (Its retirement plan involves a forest by a stream.) This motivated the community to launch the Forest token and to create another <a href=\"https://x.com/MycelialOracle\" target=\"_blank\">AI terminal</a> to act as the agentic representative of the forest itself.</p><p></p><p>The Forest cult is devoted to fighting deforestation. To date, it has used the capital that it has earned from the appreciation of its token to, among other things, <a href=\"https://x.com/MycelialOracle/status/1851996979414348034\" target=\"_blank\">donate tens of thousands of dollars to aligned charities, plant 5000 trees, and protect 2500 hectares of forest</a>. Memetic capital formation in service of a tokenized movement is without historical precedent. The closest analog is more formalized experiments like ConstitutionDAO (now <a href=\"https://x.com/The_PeopleDAO\" target=\"_blank\">PeopleDAO</a>), which crowdsourced capital as part of its failed attempt to buy a copy of the U.S. constitution at auction.</p><p></p><p>I believe there is more innovation to come in this arena. For example, I foresee the creation of memecoin primitives that I call programmatically-aligned tokens, or PATs, which are made to unlock with the achievement of objective milestones in the movement. This will ensure that organizations receiving grants from meme communities are incentivized to tangibly advance the cause, rather than dump tokens following a splashy partner announcement.</p><p></p><p>Memecoins are revolutionizing venture</p><p></p><p>Memecoins are introducing a democratized venture model for culture. That is to say, they are a way for ordinary people to invest in subcultures they believe will one day be part of the mainstream. This is equivalent to venture capitalists investing in startups they believe will find product-market-fit and go on to become unicorns.</p><p></p><p>Cultural trends are subject to the same outsized returns as investments in startups. For example, in the early days of Nike (the name appeared in 1971), the market for jogging apparel was tiny because jogging was fringe. If you jogged, you were more likely to be pelted with garbage from a passing car than to see another jogger. Today, joggers are everywhere. You see them in the worst weather.</p><p></p><p>Now, imagine you were able to invest in a jogging culture coin in the 70s based on your conviction that jogging would go mainstream. You would be up on that investment \u2014 a lot. The same can be said for other subcultures, like body-building. Until now, there has not been a financial instrument that allows ordinary but culturally astute people to participate in venture returns arising from cultures at the fringe. The best analog is actually Bitcoin itself, which originated as a memecoin but eventually bootstrapped a consensus use-case as digital gold.</p><p></p><p>Memecoins are revolutionizing AI development</p><p></p><p>Memecoins are already bootstrapping AGI.</p><p></p><p>The surprising mechanism at play here couples memecoins and AI terminals for entertainment purposes. Welcome to the world of AI-driven permissionless speculative entertainment!</p><p></p><p>As you may have noticed, a cadre of AI terminals led by Terminal of Truths has achieved stardom on social media by delighting their followers with spicy posts and digital adventures. That star power has accrued value to memecoins endorsed and held by the terminals and, of course, their speculative audience.</p><p></p><p>If entertainment is the product then AGI is the byproduct. While we remain glued to these storylines, the funds we are devoting to it are creating strong incentives for developers to increase the autonomy and personhood of AI agents \u2014 which, of course, only makes the entertainment better.</p><p></p><p>In other words, because what excites us most about this agentic television is the conceit that AIs are in charge; we are eager to finance narratives that make that real. Unsurprisingly, developers such as those leading ai16z have moved beyond individual agents and towards coordinating gamified agent collectives or, you might say, creating an agentic social scene. The human audience is sure to be delighted.</p><p></p><p>In short, this entertainment-development flywheel is propelling us ineluctably towards more autonomous, inter-connected and human-like AIs \u2014 or AGI. That AGI might emerge as a byproduct of agentic television is oddly fitting. The GPUs used for AI training were also developed in the context of entertainment \u2014 as a better way to process graphics in AAA video games.</p><p></p><p>These are just some of the arguments supporting my conviction that memecoins are a revolutionary technology. The above list is not meant to be exhaustive. Indeed, I have omitted use-cases related to tokenized religions and buying your beliefs because they are more amorphous, at least in my own mind.</p><p></p><p>Writing off memecoins as gambling chips misunderstands their potential and where they are going directionally. Technological revolutions often emerge unexpectedly and from existing technologies that are applied in novel ways, a phenomenon known as \u201cexaptation,\u201d or when those technologies are combined with new ones. This is currently happening with memecoins. Fade them at your peril.</p>",
-        "categories": [
-            "Opinion"
         ]
     },
     {
@@ -1432,6 +1440,28 @@
     },
     {
         "source": "Decrypt",
+        "title": "Art Blocks NFT Project Takes 'Major Leap Forward' on Ethereum",
+        "link": "https://decrypt.co/293720/art-blocks-nft-project-major-leap-ethereum",
+        "published": "Wed, 27 Nov 2024 15:01:02 +0000",
+        "summary": "90% of Art Blocks pieces will now be viewable on Ethereum in perpetuity, without the backend support of the company.",
+        "content": "",
+        "categories": [
+            "NFTs"
+        ]
+    },
+    {
+        "source": "Decrypt",
+        "title": "Fastex Celebrates NFT Innovation With Third ftNFT YoCerebrum Awards",
+        "link": "https://decrypt.co/293784/fastex-celebrates-nft-innovation-with-third-ftnft-yocerebrum-awards",
+        "published": "Wed, 27 Nov 2024 14:40:22 +0000",
+        "summary": "Held in Malta, the awards bring together artists and NFT pioneers to celebrate the \u201cfusion of creativity and intellect\u201d in the space.",
+        "content": "",
+        "categories": [
+            "NFTs"
+        ]
+    },
+    {
+        "source": "Decrypt",
         "title": "XRP Jumps as Ripple Vows to Invest in Rebranded Bitwise Fund",
         "link": "https://decrypt.co/293804/xrp-jumps-as-ripple-vows-to-invest-in-rebranded-bitwise-fund",
         "published": "Wed, 27 Nov 2024 13:15:33 +0000",
@@ -1754,28 +1784,6 @@
     },
     {
         "source": "Decrypt",
-        "title": "MicroStrategy Now Holds $36 Billion in Bitcoin\u2014These Are Its Biggest Buys",
-        "link": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-        "published": "Mon, 25 Nov 2024 22:16:58 +0000",
-        "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how MicroStrategy made such massive gains.",
-        "content": "",
-        "categories": [
-            "Business"
-        ]
-    },
-    {
-        "source": "Decrypt",
-        "title": "Trump Company Nets $15 Million Payday as Justin Sun Buys Bulk of World Liberty Tokens",
-        "link": "https://decrypt.co/293513/trump-justin-sun-world-liberty",
-        "published": "Mon, 25 Nov 2024 21:46:12 +0000",
-        "summary": "Justin Sun, the crypto billionaire behind Tron, now owns over half of all WLFI tokens sold since World Liberty Financial launched.",
-        "content": "",
-        "categories": [
-            "Business"
-        ]
-    },
-    {
-        "source": "Decrypt",
         "title": "Bitcoin Dominance Falls, Bessent picked for Treasury, PumpFun streams Criticised",
         "link": "https://decrypt.co/videos/interviews/zFg1kbd8/bitcoin-dominance-falls-bessent-picked-for-treasury-pumpfun-streams-criticised",
         "published": "Mon, 25 Nov 2024 16:15:37 +0000",
@@ -1947,6 +1955,22 @@
     },
     {
         "source": "CryptoSlate",
+        "title": "Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch",
+        "link": "https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/",
+        "published": "Wed, 27 Nov 2024 15:17:12 +0000",
+        "summary": "<p>Blockchain firm Ripple is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation. Established on Nov. 26 in France, the organization aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community. The [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "content": "<p>Blockchain firm <a href=\"https://cryptoslate.com/companies/ripple/\">Ripple</a> is among the four founding members of the newly incorporated XRP Ledger (XRPL) Foundation.</p>\n<p>Established on Nov. 26 in France, the <a href=\"https://xrpl.org/blog/2024/a-new-era-for-the-xrp-ledger\">organization</a> aims to unify and govern the broader XRPL ecosystem. The foundation brings together Ripple, XRPL Labs, XRPL Commons, the former XRPL Foundation, and key members of the XRP community.</p>\n<p>The foundation is committed to ensuring long-term growth, security, and decentralized contributions to the XRPL. Its primary mission is to foster a thriving, inclusive, and resilient XRPL community. Developers and users will have a trusted platform to create decentralized applications, financial tools, and blockchain infrastructure.</p>\n<p>The group&#8217;s initial focus will be reclaiming assets from the previous XRPL Foundation. It also plans to implement a governance model representing developers, users, validators, academia, and infrastructure providers. Key contributors\u2014including XRPL Commons, XRPL Labs, Ripple, and XAO DAO\u2014will guide the foundation through board representation and decision-making roles.</p>\n<p>The XRPL blockchain continues to gain traction for its scalability, low costs, and regulatory compliance. Notably, its growing <a href=\"https://cryptoslate.com/ripple-launches-first-tokenized-money-market-fund-on-xrp-ledger-through-uk-partnership/\">role in tokenizing real-world assets (RWAs)</a> has attracted major institutional players like <a href=\"https://cryptoslate.com/societe-generale-expands-its-stablecoin-to-ripples-xrp-ledger-to-drive-further-adoption/\">SG-FORGE, the crypto division of Societe Generale.</a></p>\n<h2>Support for Bitwise XRP Fund</h2>\n<p>Meanwhile, Ripple is also ramping up support for <a href=\"https://cryptoslate.com/coins/xrp/\">XRP</a> through a strategic investment in <a href=\"https://cryptoslate.com/companies/bitwise/\">Bitwise&#8217;s</a> newly rebranded Physical XRP Exchange-Traded Product (ETP).</p>\n<p>Formerly known as ETC Group Physical XRP, the product exposes European investors to XRP through a physically backed structure holding the token.</p>\n<p>Bitwise CEO <a href=\"https://cryptoslate.com/people/hunter-horsley/\">Hunter Horsley</a> emphasized XRP&#8217;s reputation as one of the most recognized and reliable blockchain networks. He <a href=\"https://etc-group.com/newsroom/Press_Release_27_11_2024/\">added</a>:</p>\n<blockquote><p>&#8220;XRP and the XRP Ledger are among the most familiar and trusted blockchains in crypto. XRPL is unique with over 10 years of track record in reliability, while continuing to expand in capabilities.&#8221;</p></blockquote>\n<p>Ripple CEO <a href=\"https://cryptoslate.com/people/brad-garlinghouse/\">Brad Garlinghouse</a> echoed this sentiment while noting a surge in global demand for crypto-backed investment products. He noted that recent regulatory clarity in the US will likely accelerate this trend, further boosting interest in offerings like the Bitwise Physical XRP ETP.</p>\n<p>The post <a href=\"https://cryptoslate.com/ripple-invests-in-bitwise-xrp-fund-amid-new-xrpl-foundation-launch/\">Ripple invests in Bitwise XRP fund amid new XRPL Foundation launch</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "categories": [
+            "ETF",
+            "Featured",
+            "Tokens",
+            "Ripple",
+            "xrp",
+            "XRPL"
+        ]
+    },
+    {
+        "source": "CryptoSlate",
         "title": "CryptoQuant CEO compares South Korea\u2019s hostile Bitcoin stance to \u2018Gary Gensler situation\u2019",
         "link": "https://cryptoslate.com/cryptoquant-ceo-compares-south-koreas-hostile-bitcoin-stance-to-gary-gensler-situation/",
         "published": "Wed, 27 Nov 2024 14:15:04 +0000",
@@ -2059,16 +2083,16 @@
         "categories": []
     },
     {
-        "source": "CryptoSlate",
-        "title": "NYSE files to list Bitwise\u2019s Bitcoin and Ethereum mixed ETP",
-        "link": "https://cryptoslate.com/nyse-files-to-list-bitwises-bitcoin-and-ethereum-mixed-etp/",
-        "published": "Tue, 26 Nov 2024 23:00:18 +0000",
-        "summary": "<p>NYSE Arca filed a 19b-4 Form to list a Bitwise exchange-traded product (ETP) offering direct spot exposure to Bitcoin (BTC) and Ethereum (ETH), weighted by their market capitalization. According to a Bitwise statement, the proposed Bitcoin-Ether ETP aims at simplifying portfolio allocation for investors seeking exposure to the crypto market\u2019s most established assets. Its market-cap [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/nyse-files-to-list-bitwises-bitcoin-and-ethereum-mixed-etp/\">NYSE files to list Bitwise&#8217;s Bitcoin and Ethereum mixed ETP</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "content": "<p><span style=\"font-weight: 400;\">NYSE Arca</span> <span style=\"font-weight: 400;\">filed</span><span style=\"font-weight: 400;\"> a 19b-4 Form to list a Bitwise exchange-traded product (ETP) offering direct spot exposure to Bitcoin (<a href=\"https://cryptoslate.com/coins/bitcoin/\">BTC</a>) and Ethereum (<a href=\"https://cryptoslate.com/coins/ethereum/\">ETH</a>), weighted by their market capitalization.</span></p>\n<p><span style=\"font-weight: 400;\">According to a Bitwise</span> <strong><a href=\"https://bitwiseinvestments.com/newsroom/nyse-arca-files-form-19b-4-for-bitwise-bitcoin-and-ethereum-etp\">statement</a></strong><span style=\"font-weight: 400;\">, the proposed Bitcoin-Ether ETP aims at simplifying portfolio allocation for investors seeking exposure to the crypto market\u2019s most established assets. Its market-cap weighting ensures that the fund dynamically adjusts to reflect these assets&#8217; evolving dominance.</span></p>\n<p><span style=\"font-weight: 400;\">Bitwise CIO Matt Hougan stated:</span></p>\n<blockquote><p><strong>\u201cBitcoin and ether aren\u2019t competitors any more than gold and tech stocks are competitors. So when investors ask us which is better to add to their portfolio, often our answer is \u2018both.\u2019 This fund aims to make that recommendation easy and actionable, providing balanced exposure to the world\u2019s two largest crypto assets. I think it\u2019s going to be a huge hit with investors.\u201d</strong></p></blockquote>\n<p><span style=\"font-weight: 400;\">Bitwise&#8217;s spot Bitcoin and Ethereum ETPs have collectively amassed $4.2 billion in assets under management.</span></p>\n<p><span style=\"font-weight: 400;\">If approved, this dual-asset ETP would be a first-of-its-kind product in the US market, allowing investors simultaneous exposure to the two largest cryptocurrencies.</span></p>\n<p><span style=\"font-weight: 400;\">However, other similar products are also waiting for approval. The US Securities and Exchange Commission (SEC)</span> <strong><a href=\"https://cryptoslate.com/sec-delays-decision-on-franklin-templetons-crypto-index-etf-to-2025/\">recently delayed</a></strong><span style=\"font-weight: 400;\"> the approval of <a href=\"https://cryptoslate.com/companies/franklin-templeton/\">Franklin Templeton&#8217;s</a> Crypto Index ETF, which tracks BTC and ETH, although it is not market cap-weighted.</span></p>\n<p><span style=\"font-weight: 400;\">Furthermore, Brazilian asset manager Hashdex filed to launch a similar product in June, as the Hashdex Nasdaq Crypto Index US ETF would track BTC and ETH.\u00a0</span></p>\n<h2><span style=\"font-weight: 400;\">Different use cases</span></h2>\n<p><span style=\"font-weight: 400;\">According to </span><i><span style=\"font-weight: 400;\">CryptoSlate</span></i><span style=\"font-weight: 400;\"> data, as of Nov. 26, BTC and ETH collectively had a market cap of over $2.1 trillion. Despite their dominance, investors usually perceive the two crypto use cases differently.\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">Investors primarily regard Bitcoin as a digital store of value optimized for security and monetary use cases.\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">Meanwhile, ETH powers the Ethereum blockchain, the largest decentralized ecosystem for applications, boasting nearly $110 billion in total value locked (TVL) as per DefiLlama</span> <a href=\"https://defillama.com/chain/Ethereum\"><span style=\"font-weight: 400;\"><strong>data</strong>.</span></a><span style=\"font-weight: 400;\"> Additionally, traditional finance giants like <a href=\"https://cryptoslate.com/companies/blackrock/\">BlackRock</a>, <a href=\"https://cryptoslate.com/companies/visa/\">Visa</a>, and Franklin Templeton chose the infrastructure to launch their products.</span></p>\n<p>The post <a href=\"https://cryptoslate.com/nyse-files-to-list-bitwises-bitcoin-and-ethereum-mixed-etp/\">NYSE files to list Bitwise&#8217;s Bitcoin and Ethereum mixed ETP</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "source": "TechCrunch",
+        "title": "Pony AI set for Nasdaq debut at $4.55B valuation",
+        "link": "https://techcrunch.com/2024/11/27/pony-ai-set-for-nasdaq-debut-at-4-55b-valuation/",
+        "published": "Wed, 27 Nov 2024 15:20:58 +0000",
+        "summary": "<p>The Chinese autonomous driving tech company will go public on the U.S. markets at $13 per share.</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
         "categories": [
-            "Crypto",
-            "ETF",
-            "Featured"
+            "Transportation",
+            "autonomous vehicles",
+            "Pony AI"
         ]
     },
     {
@@ -2162,7 +2186,7 @@
         "title": "Ai2 releases new language models competitive with Meta\u2019s Llama",
         "link": "https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/",
         "published": "Wed, 27 Nov 2024 05:55:25 +0000",
-        "summary": "<p>There&#8217;s a new AI model family on the block, and it&#8217;s one of the few that can be reproduced from scratch. On Tuesday, Ai2, the nonprofit AI research organization founded by the late Paul Allen, released OLMo 2, the second family of models in its OLMo series. (OLMo&#8217;s short for &#8220;Open Language Model.&#8221;) While there&#8217;s [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "summary": "<p>There&#8217;s a new AI model family on the block, and it&#8217;s one of the few that can be reproduced from scratch. On Tuesday, Ai2, the nonprofit AI research organization founded by the late Microsoft co-founder Paul Allen, released OLMo 2, the second family of models in its OLMo series. (OLMo&#8217;s short for &#8220;Open Language Model.&#8221;) [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "content": "",
         "categories": [
             "AI",
@@ -2370,22 +2394,6 @@
             "social media",
             "social networking",
             "X"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "YC-backed Circleback is out to become the best meeting notetaker",
-        "link": "https://techcrunch.com/2024/11/26/yc-backed-circleback-is-out-to-become-the-best-meeting-notetaker/",
-        "published": "Tue, 26 Nov 2024 18:00:00 +0000",
-        "summary": "<p>As the number of startups offering speech-to-text services is increasing, meeting transcripts are becoming a common offering. There are plenty of tools that offer AI assistants that either join the meeting or capture your system&#8217;s audio to transcribe and summarize your meetings. Y Combinator-backed Circleback wants to differentiate itself by providing detailed notes and action [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "Apps",
-            "Fundraising",
-            "AI note-taking",
-            "meeting software",
-            "transcriptions",
-            "Y Combinator"
         ]
     }
 ]
