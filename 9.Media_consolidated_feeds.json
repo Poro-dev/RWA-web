@@ -1,6 +1,41 @@
 [
     {
         "source": "CoinTelegraph",
+        "title": "SOS Ltd to jump on Bitcoin bandwagon with $50M purchase, stock pops 40%",
+        "link": "https://cointelegraph.com/news/sos-ltd-stock-jumps-50-million-bitcoin-buy-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 28 Nov 2024 01:59:17 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmZWEtZWE5ZS03NmYwLWI2MDYtNjEwODYyMmI3ZmZh.jpg\" /></p><p>China-based SOS, which operates a US-based Bitcoin mine, plans to buy $50 million worth of Bitcoin.\u00a0</p>",
+        "content": "",
+        "categories": [
+            "sos limited",
+            "sos ltd",
+            "bitcoin",
+            "btc",
+            "buy"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
+        "title": "Huge \u2018screw-up\u2019 \u2014 Pump Science apologizes after flood of fraud tokens",
+        "link": "https://cointelegraph.com/news/pump-science-profile-hacked-private-key-leaked-github?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Thu, 28 Nov 2024 00:12:17 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmODYtMzdiMi03Y2QzLThhNjgtYmY1ZWNhYjA2Njlm.jpg\" /></p><p>Pump Science partially blamed Solana-based software firm BuilderZ for leaving the private key to the dev wallet address on GitHub for the public to see.</p>",
+        "content": "",
+        "categories": [
+            "Pump Science",
+            "Pump.Fun",
+            "Security Breach",
+            "GitHub",
+            "Test Wallet",
+            "Dev Wallet",
+            "Tokens",
+            "Health",
+            "Drugs",
+            "Longevity"
+        ]
+    },
+    {
+        "source": "CoinTelegraph",
         "title": "Solana price recovers from sharp sell-off, is $300 SOL possible?",
         "link": "https://cointelegraph.com/news/solana-price-recovers-from-sharp-sell-off-is-300-sol-possible?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "published": "Wed, 27 Nov 2024 22:26:31 +0000",
@@ -470,32 +505,6 @@
             "DeFi",
             "regulation",
             "2024 elections"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Investors in DeFi casino Mpeppe claim token can&#039;t be traded, lacks liquidity",
-        "link": "https://cointelegraph.com/news/mpeppe-investor-tokens-defi-casino?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 12:57:59 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkNzItMzY5Ni03NzNlLWFjMTUtY2M0YWQxMmUwYzE0.jpg\" /></p><p>Blockchain casino project Mpeppe launched a claim portal for users to receive 25% of tokens owed, but users say they can\u2019t sell because there is no liquidity.</p>",
-        "content": "",
-        "categories": [
-            "mpeppe",
-            "casino",
-            "thirdweb",
-            "presale"
-        ]
-    },
-    {
-        "source": "CoinTelegraph",
-        "title": "Bitcoin 30% correction in play ahead of $100K BTC rally \u2014 Analysts",
-        "link": "https://cointelegraph.com/news/bitcoin-30-correction-ahead-100k-btc-rally-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "published": "Wed, 27 Nov 2024 12:10:03 +0000",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZkODAtNDEwZC03ZjhhLTk2MjMtZmM2NzcxMjhkMDE2.jpg\" /></p><p>Analysts are eyeing a 20\u201330% Bitcoin correction before the world\u2019s first cryptocurrency breaches the $100,000 mark.</p>",
-        "content": "",
-        "categories": [
-            "Analysts are eyeing a 20% to 30% Bitcoin correction before the world\u2019s first cryptocurrency breaches the $100",
-            "000 mark."
         ]
     },
     {
@@ -1446,6 +1455,17 @@
     },
     {
         "source": "Decrypt",
+        "title": "China-based SOS Joins Corporate Bitcoin Trend with $50M Investment",
+        "link": "https://decrypt.co/293942/china-based-sos-joins-corporate-bitcoin-trend-50m-investment",
+        "published": "Thu, 28 Nov 2024 02:59:42 +0000",
+        "summary": "The Qingdao-based company said it plans to employ quantitative trading strategies to manage market volatility and enhance returns.",
+        "content": "",
+        "categories": [
+            "Business"
+        ]
+    },
+    {
+        "source": "Decrypt",
         "title": "Seven Things to Tell Your Crypto-Curious Relatives at Thanksgiving",
         "link": "https://decrypt.co/293927/seven-things-to-tell-your-crypto-curious-relatives-at-thanksgiving",
         "published": "Wed, 27 Nov 2024 22:59:31 +0000",
@@ -1971,6 +1991,37 @@
     },
     {
         "source": "CryptoSlate",
+        "title": "Short-term holders hit with losses as Bitcoin fell below $93k",
+        "link": "https://cryptoslate.com/short-term-holders-face-strain-as-btc-drops-below-93k/",
+        "published": "Thu, 28 Nov 2024 02:00:05 +0000",
+        "summary": "<p>Bitcoin&#8217;s recent correction to $92,000 came after failing to breach the psychological resistance at $100,000, a critical level expected to mark a new chapter in the ongoing bull market. While corrections of up to -30% are frequent during bull runs, the sharp decline below $93,000 caused a segment of short-term holders (STHs) to realize losses. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/short-term-holders-face-strain-as-btc-drops-below-93k/\">Short-term holders hit with losses as Bitcoin fell below $93k</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "content": "<p class=\"p1\">Bitcoin&#8217;s recent <a href=\"https://cryptoslate.com/insights/bitcoins-sudden-dip-under-95k-incurs-180-million-in-trader-losses-stalls-100k-momentum/\">correction</a> to $92,000 came after failing to breach the psychological resistance at $100,000, a critical level expected to mark a new chapter in the ongoing bull market.</p>\n<p class=\"p1\">While corrections of up to -30% are frequent during bull runs, the sharp decline below $93,000 caused a segment of short-term holders (STHs) to realize losses.</p>\n<p class=\"p1\">The spent output profit ratio (SOPR) measures the profitability of coins moved within a specific timeframe. When applied to short-term holders (STHs), i.e., addresses that have held onto their <a href=\"https://cryptoslate.com/coins/bitcoin/\">BTC</a> for less than six months, the ratio enables us to measure the profitability of coins moved by this particular cohort.</p>\n<p class=\"p1\">Short-term holder SOPR is calculated by dividing the value of spent outputs at the time of spending by the value of the same outputs at the time they were created. A value above 1 indicates that coins are being sold at a profit, while a value below 1 signifies realized losses. When STH SOPR trends higher, it signals improving market sentiment and conditions for short-term holders, whereas a declining SOPR reflects deteriorating profitability and potentially weaker sentiment among short-term investors.</p>\n<p class=\"p1\">On Nov. 17, as Bitcoin was trading just below $90,000, STH SOPR stood at 1.0117, indicating marginal profitability among STHs. By Nov. 21, when Bitcoin reached an all-time high of $98,430, STH SOPR surged to 1.0966, reflecting widespread profit-taking as prices neared six-figure territory.</p>\n<p class=\"p1\">However, as Bitcoin&#8217;s price dropped, STH SOPR declined to 1.0144 on Nov. 25 and fell below 1 on Nov. 26 to 0.9995. This marked a critical shift \u2014 short-term holders, on average, started realizing small losses, a stark contrast to the earlier phase of profit-taking.</p>\n<figure class=\"wp-caption aligncenter\" id=\"attachment_454889\" style=\"width: 4000px;\"><img alt=\"Bitcoin Short Term Holder SOPR\" class=\"size-full wp-image-454889\" height=\"2250\" src=\"https://cryptoslate.com/wp-content/uploads/2024/11/Bitcoin-Short-Term-Holder-SOPR.png\" width=\"4000\" /><figcaption class=\"wp-caption-text\" id=\"caption-attachment-454889\">Graph showing the STH SOPR from Oct. 27 to Nov. 26, 2024 (Source: <a href=\"https://cryptoquant.com/asset/btc/chart/market-indicator/short-term-holder-sopr?window=DAY&amp;sma=0&amp;ema=0&amp;priceScale=log&amp;metricScale=log&amp;chartStyle=line\">CryptoQuant</a>)</figcaption></figure>\n<p class=\"p1\">The drop in STH SOPR shows the psychological impact of Bitcoin&#8217;s failure to sustain its rally above $100,000. During bull rallies, sustained values above 1 indicate strong market confidence, as STHs are willing to sell at a profit, confident that others will buy higher.</p>\n<p class=\"p1\">The dip below 1 suggests increasing hesitancy, potentially driven by panic selling or forced liquidations. This is important to monitor as it often marks the capitulation of weak hands, cleansing the market of excessive leverage and speculative positions.</p>\n<p class=\"p1\">Changes in the short-term holder market value to realized value (MVRV) ratio further indicate such capitulation is taking place. MVRV measures the unrealized profit or loss of a group of holders by comparing the market value of their holdings to their realized value. A value above 1 indicates that STHs, on average, hold coins at a profit, while a value below 1 suggests unrealized losses.</p>\n<p class=\"p1\">On Nov. 21, STH MVRV reached 1.3447, signaling that short-term holders were sitting on a 34.47% average unrealized profit during Bitcoin&#8217;s rally. However, by Nov.26, the STH MVRV declined to 1.2459, showing reduced profitability after Bitcoin&#8217;s correction. The decline in MVRV aligns with the drop in STH SOPR, confirming that profitability for STHs was eroded as prices fell below $93,000.</p>\n<figure class=\"wp-caption aligncenter\" id=\"attachment_454890\" style=\"width: 4000px;\"><img alt=\"BTC Short-Term Holder MVRV Indicator\" class=\"size-full wp-image-454890\" height=\"2250\" src=\"https://cryptoslate.com/wp-content/uploads/2024/11/BTC-Short-Term-Holder-MVRV-Indicator.png\" width=\"4000\" /><figcaption class=\"wp-caption-text\" id=\"caption-attachment-454890\">Graph showing the STH MVRV indicator from Nov. 28, 2019, to Nov. 26, 2024 (Source: <a href=\"https://cryptoquant.com/analytics/query/65df235c0168b95f8eac8dca?v=65df235c0168b95f8eac8dcc\">CryptoQuant</a>)</figcaption></figure>\n<p class=\"p1\">These two ratios reflect the psychological toll rapid price declines have on short-term holders. Realized losses, particularly among STHs, tend to exacerbate negative sentiment and accelerate capitulation.</p>\n<p class=\"p1\">However, this phase of capitulation may serve a constructive role in the broader market cycle. By shaking out overleveraged positions and weak hands, the correction could establish a more solid foundation for Bitcoin&#8217;s next leg upward. The recent decline in STH SOPR and MVRV appears to have reset the short-term market, potentially clearing the way for stronger support levels around $92,000 to $93,000.</p>\n<p class=\"p1\">However, if the decline in STH SOPR and MVRV persists or accelerates, it may signal deeper underlying weakness in the market. Extended periods of realized losses among STHs <a href=\"https://cryptoslate.com/bitcoin-could-fall-to-88000-before-making-another-attempt-to-break-100000-glassnode/\">could undermine confidence</a>, leading to further sell-offs and a prolonged downturn.</p>\n<p class=\"p1\">Additionally, the failure to sustain levels near $100,000 could dampen the enthusiasm of institutional investors and retail participants alike, creating additional resistance to any recovery attempts.</p>\n<p class=\"p1\">Ultimately, the correction below $93,000 and the resulting behavior of STHs reflect the natural ebb and flow of a volatile market. While realized losses have shaken out weaker participants, the broader structural narrative remains intact. Bitcoin&#8217;s historical resilience, coupled with a potential reset in leverage and speculative positions, suggests the possibility of a renewed uptrend.</p>\n<p>The post <a href=\"https://cryptoslate.com/short-term-holders-face-strain-as-btc-drops-below-93k/\">Short-term holders hit with losses as Bitcoin fell below $93k</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "categories": [
+            "Alpha",
+            "Research",
+            "bitcoin",
+            "BTC",
+            "short-term holders",
+            "STH",
+            "STH-MVRV",
+            "STH-SOPR"
+        ]
+    },
+    {
+        "source": "CryptoSlate",
+        "title": "MetaMask integrates Venmo to enhance fiat-to-crypto onramp options",
+        "link": "https://cryptoslate.com/metamask-integrates-venmo-to-enhance-fiat-to-crypto-onramp-options/",
+        "published": "Thu, 28 Nov 2024 00:30:42 +0000",
+        "summary": "<p>MetaMask added a fiat on-ramp feature through Venmo, allowing US users to buy crypto using the payment app, according to a Nov. 27 announcement. Crypto-focused fintech Moonpay enabled the new payment method. Venmo, a PayPal subsidiary, introduced crypto transfers for its customers in April 2023. The company has supported buying, holding, and selling crypto since [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/metamask-integrates-venmo-to-enhance-fiat-to-crypto-onramp-options/\">MetaMask integrates Venmo to enhance fiat-to-crypto onramp options</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "content": "<p><span style=\"font-weight: 400;\"><a href=\"https://cryptoslate.com/products/metamask/\">MetaMask</a> added a fiat on-ramp feature through Venmo, allowing US users to buy crypto using the payment app, according to a Nov. 27</span> <strong><a href=\"https://x.com/MetaMask/status/1861820688417562995\">announcement</a></strong><span style=\"font-weight: 400;\">. </span></p>\n<p><span style=\"font-weight: 400;\">Crypto-focused fintech <a href=\"https://cryptoslate.com/companies/moonpay/\">Moonpay</a> enabled the new payment method.</span></p>\n<p><span style=\"font-weight: 400;\">Venmo, a <a href=\"https://cryptoslate.com/companies/paypal/\">PayPal</a> subsidiary,</span> <strong><a href=\"https://newsroom.paypal-corp.com/2023-04-28-Introducing-Crypto-Transfers-for-Venmo-Customers\">introduced</a></strong><span style=\"font-weight: 400;\"> crypto transfers for its customers in April 2023. The company has supported buying, holding, and selling crypto</span> <strong><a href=\"https://cryptoslate.com/breaking-venmo-launches-investing-service-for-bitcoin-litecoin-ethereum-and-bitcoin-cash/\">since 2021</a></strong><span style=\"font-weight: 400;\">.\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">Although the MetaMask fiat-to-crypto option is available in roughly 200 countries, the Venmo partnership is only available for US users.</span></p>\n<h2><strong>Efforts on payments</strong></h2>\n<p><span style=\"font-weight: 400;\">MetaMask first launched a fiat-to-crypto feature in April 2023 and has since added support for payment options via Apple Pay, debit and credit cards, PayPal, wire transfer, and ACH bank transactions.\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">Other MetaMask partners include Transak, Stripe, Sardine, and Banxa, among others.</span></p>\n<p><span style=\"font-weight: 400;\">The company</span> <strong><a href=\"https://metamask.io/news/latest/introducing-metamask-card-upgrade-your-crypto-spending/\">recently launched</a></strong><span style=\"font-weight: 400;\"> the MetaMask Card in August in partnership with <a href=\"https://cryptoslate.com/companies/mastercard-blockchain/\">Mastercard</a> and crypto service provider Crypto Life. The card is still in its pilot phase and is only available in Europe and the UK.\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">The debit card allows users to spend balances in USD Coin (<a href=\"https://cryptoslate.com/coins/usd-coin/\">USDC</a>), Tether USD (<a href=\"https://cryptoslate.com/coins/tether/\">USDT</a>), and Wrapped Ethereum (WETH) at any vendor that accepts Mastercard. Additionally, the card is supported by Apple Pay and Google Pay.</span></p>\n<p>The post <a href=\"https://cryptoslate.com/metamask-integrates-venmo-to-enhance-fiat-to-crypto-onramp-options/\">MetaMask integrates Venmo to enhance fiat-to-crypto onramp options</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "categories": [
+            "Crypto",
+            "Payments",
+            "Wallets"
+        ]
+    },
+    {
+        "source": "CryptoSlate",
         "title": "Vancouver mayor eyes Bitcoin to bolster city reserves against economic shocks",
         "link": "https://cryptoslate.com/vancouver-mayor-eyes-bitcoin-to-bolster-city-reserves-against-economic-shocks/",
         "published": "Wed, 27 Nov 2024 23:00:17 +0000",
@@ -2085,31 +2136,17 @@
         ]
     },
     {
-        "source": "CryptoSlate",
-        "title": "Cardano deploys first zero-knowledge smart contract, expanding blockchain capabilities",
-        "link": "https://cryptoslate.com/cardano-deploys-first-zero-knowledge-smart-contract-expanding-blockchain-capabilities/",
-        "published": "Wed, 27 Nov 2024 13:34:47 +0000",
-        "summary": "<p>The Cardano network has reached a significant milestone by successfully deploying its first zero-knowledge (ZK) smart contract on the mainnet. This achievement utilizes the Plutus v3 ledger language, marking a step forward for the network&#8217;s capabilities. The ZK smart contract Halo2 will allow zero-knowledge applications and partner chains, such as Midnight, to integrate with Cardano. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/cardano-deploys-first-zero-knowledge-smart-contract-expanding-blockchain-capabilities/\">Cardano deploys first zero-knowledge smart contract, expanding blockchain capabilities</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "content": "<p>The <a href=\"https://cryptoslate.com/coins/cardano/\">Cardano</a> network has reached a significant milestone by successfully deploying its first zero-knowledge (ZK) smart contract on the mainnet.</p>\n<p>This achievement utilizes the <a href=\"https://cryptoslate.com/iohk-launches-the-new-plutus-playground-for-cardano-ada-developers/\">Plutus</a> v3 ledger language, marking a step forward for the network&#8217;s capabilities.</p>\n<p>The ZK smart contract Halo2 will allow <a href=\"https://cryptoslate.com/why-ethereums-next-step-is-zero-knowledge/\">zero-knowledge applications</a> and partner chains, such as Midnight, to integrate with Cardano.</p>\n<p>On Nov. 25, the Input-Output (IO) Research team <a href=\"https://x.com/InputOutputHK/status/1861422105004233052?t=x_DXeatR-RwILZ6mhjBE2g&amp;s=19\">verified</a> the Halo2 proof on the mainnet for the Ad-hoc Threshold Multi-signatures scheme (ATMS). This scheme successfully validated 50 out of 90 signatures.</p>\n<p>The process involved two transactions\u2014one locking the funds and another unlocking them after proof verification. The locking transaction cost 0.16 ADA, while unlocking using Halo2 verification required a fee of 2.03 ADA.</p>\n<h2>Understanding Halo2</h2>\n<p>Halo2 is a cutting-edge zk-SNARK proving system that enables secure transaction validation without revealing sensitive details.</p>\n<p>The firm explained that the technology builds upon the PLONK protocol, a universal zk-SNARK framework that optimizes efficiency and flexibility. Halo 2 is component-based, breaking up its functions into modular elements, hoping to make it easier to adapt to cryptographic needs.</p>\n<p>This approach allows one party to confirm computations to another without exposing underlying data. Unlike traditional <a href=\"https://cryptoslate.com/binance-adds-zk-snark-verification-to-its-proof-of-reserves-system/\">zk-SNARK</a> systems, Halo2 eliminates the need for a trusted setup and addresses potential security risks and logistical challenges.</p>\n<p>Another standout feature of Halo2 is its support for recursive proofs. This capability divides computations into smaller segments, where the proof from one stage serves as input for the next. This feature allows for efficient proof aggregation, targeting enhanced performance and scalability.</p>\n<p>Input Output stated:</p>\n<blockquote><p>&#8220;Halo 2 was developed as an extension and improvement of the original Halo protocol, designed by Sean Bowe at Electric Coin Company. By building on modern cryptographic primitives, Halo 2 enhances the overall security of zero-knowledge proof.&#8221;</p></blockquote>\n<p>With these advancements, Halo2 aims for real-world applications to reduce overhead costs and improve the speed of proof generation and verification.</p>\n<p>The post <a href=\"https://cryptoslate.com/cardano-deploys-first-zero-knowledge-smart-contract-expanding-blockchain-capabilities/\">Cardano deploys first zero-knowledge smart contract, expanding blockchain capabilities</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
+        "source": "TechCrunch",
+        "title": "Time spent online by adults in the UK jumped by nearly an hour in 2024 says Ofcom",
+        "link": "https://techcrunch.com/2024/11/27/time-spent-online-by-adults-in-the-uk-jumped-by-nearly-an-hour-in-2024-says-ofcom/",
+        "published": "Thu, 28 Nov 2024 00:12:43 +0000",
+        "summary": "<p>Adults are spending an average of 4 hours and 20 minutes each day online across smartphones, tablets and computers in the U.K., according to figures from Ofcom\u2019s annual Online Nation report diving into consumer digital habits. The figure is a big jump compared to 2023, when adults over 18 spent an average of 3 hours [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
+        "content": "",
         "categories": [
-            "Technology",
-            "Cardano",
-            "zk"
-        ]
-    },
-    {
-        "source": "CryptoSlate",
-        "title": "Crypto windfalls boost homeownership dreams for low-income Americans",
-        "link": "https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/",
-        "published": "Wed, 27 Nov 2024 12:23:15 +0000",
-        "summary": "<p>Low-income households in the United States are turning crypto profits into opportunities for homeownership, as revealed by a Nov. 26 report from the Office of Financial Research (OFR), a US Treasury Department research arm. Samuel Hughes, Francisco Ilabaca, Jacob Lockwood, and Kevin Zhao conducted the study based on tax data. It offers a crucial look [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/\">Crypto windfalls boost homeownership dreams for low-income Americans</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "content": "<p>Low-income households in the United States are turning crypto profits into opportunities for homeownership, as revealed by a Nov. 26 <a href=\"https://www.financialresearch.gov/briefs/files/OFRBrief-24-08-crypto-exposure-and-household-financial-outcomes.pdf\">report</a> from the Office of Financial Research (OFR), a US Treasury Department research arm.</p>\n<p>Samuel Hughes, Francisco Ilabaca, Jacob Lockwood, and Kevin Zhao conducted the study based on tax data. It offers a crucial look at how crypto is shaping financial behaviors in economically vulnerable communities.</p>\n<h2>Mortgage and auto-debts</h2>\n<p>The report noted the rise of &#8220;high-crypto&#8221; areas, defined as zip codes where over 6% of households reported crypto holdings in tax filings. These regions have seen a significant uptick in mortgage and auto loan activity, coinciding with substantial <a href=\"https://cryptoslate.com/institutional-capital-fuels-crypto-rally-amid-profit-taking-trends-bitfinex/\">crypto market gains</a>.</p>\n<p>In these high-crypto areas, low-income households experienced a surge in mortgage activity between 2020 and 2024. The number of consumers with mortgages grew by more than 250%, while average mortgage balances jumped from $172,000 in 2020 to $443,000 in 2024, an increase of over 150%.</p>\n<p>These figures suggest that crypto windfalls have enabled many families to secure larger loans and enter the housing market.</p>\n<p>The report stated:</p>\n<blockquote><p>&#8220;For low-income households, average mortgage debt balances and mortgage-holding rates sharply increased in zip codes with high crypto exposure. This indicates that low-income households may be using crypto gains to take out new mortgages and to take out larger mortgages.&#8221;</p></blockquote>\n<p>The report also sheds light on auto loan trends in these areas. Among low-income households, auto loan balances rose most sharply in high-crypto regions. Interestingly, while delinquency rates increased in low- and mid-crypto zip codes, they declined in high-crypto areas. This pattern suggests that crypto earnings may be helping some households manage auto loan payments more effectively.</p>\n<p>Since the 2008 banking crisis, which led to widespread defaults, single-family home ownership has never recovered. However, since Bitcoin&#8217;s inception in 2009 figures have continued to rise. While the correlation is not indicative of causation, it is interesting to note that the 2021 bull run and subsequent bear market of 2022 also saw increases and declines in new single-family homes.</p>\n<figure class=\"wp-caption aligncenter\" id=\"attachment_454910\" style=\"width: 1024px;\"><img alt=\"U.S. Census Bureau and U.S. Department of Housing and Urban Development, New Privately-Owned Housing Units Started: Single-Family Units [HOUST1F], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOUST1F, November 27, 2024\" class=\"wp-image-454910 size-large\" height=\"349\" src=\"https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1-1024x349.png\" width=\"1024\" /><figcaption class=\"wp-caption-text\" id=\"caption-attachment-454910\">U.S. Census Bureau and U.S. Department of Housing and Urban Development, New Privately-Owned Housing Units Started: Single-Family Units [HOUST1F], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOUST1F, November 27, 2024</figcaption></figure>\n<h2>Risks</h2>\n<p>Despite these positive trends, the researchers warn of potential risks tied to rising debt and leverage among low-income households with significant <a href=\"https://cryptoslate.com/insights/public-bitcoin-miners-underperform-btc-and-other-proxies-year-to-date/\">crypto exposure</a>.</p>\n<p>While delinquencies remain low overall, economic downturns or a slump in the crypto market could lead to financial instability. The concentration of exposure in systemically important institutions could amplify these risks.</p>\n<p>The researchers concluded:</p>\n<blockquote><p>&#8220;An important takeaway for future monitoring is the increased debt balances and leverage among low-income households with crypto exposure. Rising distress in this group could cause future financial stress, especially if exposure to these types of high-leverage, high-risk consumers is concentrated in systemically important institutions.&#8221;</p></blockquote>\n<p>The post <a href=\"https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/\">Crypto windfalls boost homeownership dreams for low-income Americans</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>",
-        "categories": [
-            "Adoption",
-            "Culture",
-            "Featured",
-            "Mortgage",
-            "US"
+            "Government & Policy",
+            "Social",
+            "ofcom",
+            "research"
         ]
     },
     {
@@ -2280,11 +2317,11 @@
         "categories": [
             "Apps",
             "Social",
+            "Bluesky",
+            "social",
             "social media",
             "social networking",
-            "Threads",
-            "Bluesky",
-            "social"
+            "Threads"
         ]
     },
     {
@@ -2295,7 +2332,8 @@
         "summary": "<p>OpenAI has filed a trademark application for its latest AI model, o1, as the firm moves to shield its IP. On Tuesday, OpenAI submitted paperwork to the U.S. Patent and Trademark Office (USPTO) to register the trademark &#8220;OpenAI o1.&#8221; Interestingly, the documents reveal that OpenAI filed for a foreign trademark application in Jamaica in May, [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
         "content": "",
         "categories": [
-            "AI"
+            "AI",
+            "OpenAI"
         ]
     },
     {
@@ -2408,20 +2446,6 @@
             "Bluesky",
             "Hugging Face",
             "In Brief"
-        ]
-    },
-    {
-        "source": "TechCrunch",
-        "title": "Audio platform Pocket FM taps into AI tools to help it expand its content catalog",
-        "link": "https://techcrunch.com/2024/11/27/audio-platform-pocket-fm-taps-into-ai-tools-help-it-expand-content-catalog/",
-        "published": "Wed, 27 Nov 2024 10:01:00 +0000",
-        "summary": "<p>India-based audio platform Pocket FM has more than 200,000 hours of content on the service. However, the company&#8217;s CEO, Rohan Nayak, believes that the platform still has room to grow in terms of creating original content and expanding its library to multiple genres and subgenres. The fastest way to do that is to tap into [&#8230;]</p>\n<p>\u00a9 2024 TechCrunch. All rights reserved. For personal use only.</p>",
-        "content": "",
-        "categories": [
-            "AI",
-            "ai tools",
-            "audio platforms",
-            "Pocket FM"
         ]
     }
 ]
